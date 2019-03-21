@@ -1,0 +1,111 @@
+/* Class = "NSWindow"; title = "Camtasia"; ObjectID = "1"; */
+"1.title" = "Camtasia";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Agree to the terms of the license, enter your activation key, and then click Activate."; ObjectID = "3"; */
+"3.ibShadowedToolTip" = "同意授权协议，输入你的激活码，点击激活。";
+
+/* Class = "NSButtonCell"; title = "Lost your key?"; ObjectID = "8ND-v7-noy"; */
+"8ND-v7-noy.title" = "激活码丢失？";
+
+/* Class = "NSTextFieldCell"; title = "days left"; ObjectID = "11"; */
+"11.title" = "天剩余";
+
+/* Class = "NSButtonCell"; title = "Continue Trial"; ObjectID = "12"; */
+"12.title" = "继续试用";
+
+/* Class = "NSTextFieldCell"; title = "Activation Key:"; ObjectID = "14"; */
+"14.title" = "激活码:";
+
+/* Class = "NSTextFieldCell"; title = "Days Left in Trial:"; ObjectID = "17"; */
+"17.title" = "剩余试用天数:";
+
+/* Class = "NSButtonCell"; title = "Activate"; ObjectID = "18"; */
+"18.title" = "激活";
+
+/* Class = "NSButtonCell"; title = "Close"; ObjectID = "37"; */
+"37.title" = "关闭";
+
+/* Class = "NSButtonCell"; title = "Quit"; ObjectID = "47"; */
+"47.title" = "退出";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "50"; */
+"50.title" = "Feld";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "51"; */
+"51.title" = "Feld";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "66"; */
+"66.title" = "Feld";
+
+/* Class = "NSTextFieldCell"; title = "status msg"; ObjectID = "71"; */
+"71.title" = "状态信息";
+
+/* Class = "NSTextFieldCell"; title = "Activation Key:"; ObjectID = "89"; */
+"89.title" = "激活码:";
+
+/* Class = "NSButtonCell"; title = "Buy now"; ObjectID = "0th-UV-abl"; */
+"0th-UV-abl.title" = "现在购买";
+
+/* Class = "NSButtonCell"; title = "Share feedback"; ObjectID = "8ND-v7-noy"; */
+"8ND-v7-noy.title" = "分享反馈";
+
+/* Class = "NSTextFieldCell"; title = "Try Camtasia for free"; ObjectID = "AlI-OD-20l"; */
+"AlI-OD-20l.title" = "免费试用Camtasia";
+
+/* Class = "NSButtonCell"; title = "Sign in to start trial"; ObjectID = "Au9-bt-CQ5"; */
+"Au9-bt-CQ5.title" = "登录开始试用";
+/* Class = "NSTextFieldCell"; title = "Sign in to access your free trial."; ObjectID = "Das-IR-k7m"; */
+"Das-IR-k7m.title" = "登录获取免费试用权限。";
+/* Class = "NSButtonCell"; title = "Unlock Camtasia"; ObjectID = "GLC-Co-mYi"; */
+"GLC-Co-mYi.title" = "解锁Camtasia";
+
+/* Class = "NSTextFieldCell"; title = "Please enter your software key"; ObjectID = "GPp-5T-pnT"; */
+"GPp-5T-pnT.title" = "请输入你的软件序列号";
+/* Class = "NSButtonCell"; title = "< Back"; ObjectID = "Gu2-Rm-YVO"; */
+"Gu2-Rm-YVO.title" = "< 返回";
+
+/* Class = "NSTextFieldCell"; title = "A watermark is added to videos during the trial period.  Videos exported after purchase are not watermarked."; ObjectID = "ItE-EM-iNQ"; */
+"ItE-EM-iNQ.title" = "试用期间你的视频会添加一个水印。购买后导出视频不带水印。";
+/* Class = "NSTabViewItem"; label = "View"; ObjectID = "Pbg-Nc-Oji"; */
+"Pbg-Nc-Oji.label" = "查看";
+/* Class = "NSTextFieldCell"; title = "Enjoy your trial"; ObjectID = "TrW-HX-QHL"; */
+"TrW-HX-QHL.title" = "享受你的试用";
+/* Class = "NSButtonCell"; title = "Continue trial >"; ObjectID = "V8g-Le-fKK"; */
+"V8g-Le-fKK.title" = "继续试用 >";
+/* Class = "NSTextFieldCell"; placeholderString = "     -     -     -     -"; ObjectID = "W9y-Ar-dNs"; */
+"W9y-Ar-dNs.placeholderString" = "     -     -     -     -";
+
+/* Class = "NSTextFieldCell"; title = "Keep on creating"; ObjectID = "WDc-3i-nKc"; */
+"WDc-3i-nKc.title" = "继续创建";
+/* Class = "NSTextFieldCell"; title = "Keep on creating"; ObjectID = "ZW6-GW-0kD"; */
+"ZW6-GW-0kD.title" = "继续创建";
+
+/* Class = "NSButtonCell"; title = "Need help? Contact us"; ObjectID = "Zgu-ou-0Gs"; */
+"Zgu-ou-0Gs.title" = "需要帮助？联系我们";
+/* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "ZpI-G0-wYU"; */
+"ZpI-G0-wYU.label" = "Tab";
+
+/* Class = "NSTextFieldCell"; title = "XX"; ObjectID = "a62-iG-Ba7"; */
+"a62-iG-Ba7.title" = "XX";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Enter your software key then click Unlock."; ObjectID = "fFI-MY-edl"; */
+"fFI-MY-edl.ibShadowedToolTip" = "输入你的软件序列号然后点击解锁。";
+
+/* Class = "NSTextFieldCell"; title = "Software Key:"; ObjectID = "iQS-PF-5KK"; */
+"iQS-PF-5KK.title" = "软件序列号:";
+/* Class = "NSButtonCell"; title = "Unlock Camtasia"; ObjectID = "jhe-Kz-UiI"; */
+"jhe-Kz-UiI.title" = "解锁Camtasia";
+
+/* Class = "NSTextFieldCell"; title = "If you need any help along the way we have tutorials, tech support, and more at TechSmith.com."; ObjectID = "lzg-Oo-9aM"; */
+"lzg-Oo-9aM.title" = "如果你需要任何帮助可以查看我们的教程，联系技术支持以及更多在www.camtasia.com.cn。";
+
+/* Class = "NSTextFieldCell"; title = "Already have a software key?  Enter it below to unlock Camtasia. If you need any help along the way we have tutorials, tech support and more at TechSmith.com."; ObjectID = "oUx-hP-1R7"; */
+"oUx-hP-1R7.title" = "已经有一个软件序列号？在下面输入解锁Camtasia。如果你需要任何帮助可以查看我们的教程，联系技术支持以及更多在www.camtasia.com.cn。";
+
+/* Class = "NSTabViewItem"; label = "Item 2"; ObjectID = "p2P-EN-4Lx"; */
+"p2P-EN-4Lx.label" = "Item 2";
+/* Class = "NSButtonCell"; title = "Lost your key?"; ObjectID = "rhi-3j-RzM"; */
+"rhi-3j-RzM.title" = "序列号丢失了？";
+/* Class = "NSButtonCell"; title = "Unlock"; ObjectID = "yVS-TP-JIq"; */
+"yVS-TP-JIq.title" = "解锁";
+

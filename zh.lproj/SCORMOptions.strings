@@ -1,0 +1,96 @@
+/* Class = "NSTextFieldCell"; title = "Lowest"; ObjectID = "2fq-yw-vrM"; */
+"2fq-yw-vrM.title" = "最低";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "3KU-BF-MrO"; */
+"3KU-BF-MrO.title" = "%";
+
+/* Class = "NSTextFieldCell"; title = "Lowest"; ObjectID = "5Ez-n1-eze"; */
+"5Ez-n1-eze.title" = "最低";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "6Jp-C7-sDX"; */
+"6Jp-C7-sDX.title" = "%";
+
+/* Class = "NSMenuItem"; title = "1.2"; ObjectID = "7AW-Mn-CmO"; */
+"7AW-Mn-CmO.title" = "1.2";
+
+/* Class = "NSButtonCell"; title = "Produce zip file"; ObjectID = "7lg-nL-BIc"; */
+"7lg-nL-BIc.title" = "生成zip文件";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "8BW-EU-S1P"; */
+"8BW-EU-S1P.title" = "时长:";
+
+/* Class = "NSMenuItem"; title = "2004"; ObjectID = "8Pe-tL-A7z"; */
+"8Pe-tL-A7z.title" = "2004";
+
+/* Class = "NSTextFieldCell"; title = "Subject:"; ObjectID = "59b-Xc-HXh"; */
+"59b-Xc-HXh.title" = "主题:";
+
+/* Class = "NSBox"; title = "Course Information:"; ObjectID = "CoI-YA-sem"; */
+"CoI-YA-sem.title" = "课程信息:";
+
+/* Class = "NSTextFieldCell"; title = "Identifier:"; ObjectID = "DPL-2e-C6t"; */
+"DPL-2e-C6t.title" = "标识:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "FuP-ku-9Vm"; */
+"FuP-ku-9Vm.title" = "标题:";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "Jcn-cU-UXJ"; */
+"Jcn-cU-UXJ.title" = "描述:";
+
+/* Class = "NSTextFieldCell"; title = "Version:"; ObjectID = "LcO-yH-oLr"; */
+"LcO-yH-oLr.title" = "版本:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "NNx-ex-9eT"; */
+"NNx-ex-9eT.title" = "取消";
+
+/* Class = "NSWindow"; title = "Manifest Options"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "Manifest选项";
+
+/* Class = "NSTextFieldCell"; title = "Highest"; ObjectID = "RcT-Ji-1qZ"; */
+"RcT-Ji-1qZ.title" = "最高";
+
+/* Class = "NSTextFieldCell"; title = "00:00:13;12"; ObjectID = "SEk-2M-zOA"; */
+"SEk-2M-zOA.title" = "00:00:13;12";
+
+/* Class = "NSButtonCell"; title = "Produce both zip file and unzipped files"; ObjectID = "UJd-DT-Z75"; */
+"UJd-DT-Z75.title" = "生成zip文件和未压缩文件";
+
+/* Class = "NSTextFieldCell"; title = "Language:"; ObjectID = "UZ1-Ld-EcS"; */
+"UZ1-Ld-EcS.title" = "语言:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "UqK-1z-dqt"; */
+"UqK-1z-dqt.title" = "标题:";
+
+/* Class = "NSBox"; title = "Lesson Information:"; ObjectID = "aoz-lJ-OYs"; */
+"aoz-lJ-OYs.title" = "课时信息:";
+
+/* Class = "NSButtonCell"; title = "Produce unzipped files"; ObjectID = "bnv-KH-iG8"; */
+"bnv-KH-iG8.title" = "生成未压缩文件";
+
+/* Class = "NSBox"; title = "SCORM Package options"; ObjectID = "c1M-O3-gqF"; */
+"c1M-O3-gqF.title" = "SCORM打包选项";
+
+/* Class = "NSTextFieldCell"; title = "Highest"; ObjectID = "cKL-Xl-qWZ"; */
+"cKL-Xl-qWZ.title" = "最高";
+
+/* Class = "NSTextFieldCell"; title = "Passing Score:"; ObjectID = "fCn-F6-ozY"; */
+"fCn-F6-ozY.title" = "通过分数:";
+
+/* Class = "NSButtonCell"; title = "Produce zip file"; ObjectID = "i8Q-Jl-CXG"; */
+"i8Q-Jl-CXG.title" = "生成zip文件";
+
+/* Class = "NSBox"; title = "Quiz Success:"; ObjectID = "m01-YH-U42"; */
+"m01-YH-U42.title" = "测验通过:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "mLg-km-Jkn"; */
+"mLg-km-Jkn.title" = "确认";
+
+/* Class = "NSBox"; title = "Completion Requirement:"; ObjectID = "o4E-pZ-oVc"; */
+"o4E-pZ-oVc.title" = "完成要求:";
+
+/* Class = "NSTextFieldCell"; title = "hh:mm:ss"; ObjectID = "rbi-IN-HMW"; */
+"rbi-IN-HMW.title" = "hh:mm:ss";
+
+/* Class = "NSTextFieldCell"; title = "View percentage required:"; ObjectID = "tQn-kP-2dr"; */
+"tQn-kP-2dr.title" = "观看百分比要求:";
+

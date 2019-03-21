@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "Behavior:"; ObjectID = "4Lt-CU-gPS"; */
+"4Lt-CU-gPS.title" = "行为:";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "58q-pu-cJm"; */
+"58q-pu-cJm.ibExternalAccessibilityDescription" = "透明度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change fill transparency"; ObjectID = "58q-pu-cJm"; */
+"58q-pu-cJm.ibShadowedToolTip" = "拖曳以更改填充透明度";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset to default value"; ObjectID = "GJZ-Ja-Ami"; */
+"GJZ-Ja-Ami.ibShadowedToolTip" = "重设到默认值";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "av6-G3-Vnv"; */
+"av6-G3-Vnv.ibExternalAccessibilityDescription" = "透明度编辑字段";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "bu2-hx-jHu"; */
+"bu2-hx-jHu.ibShadowedToolTip" = "特效淡入秒数";
+
+/* Class = "NSButtonCell"; title = "Replaced by Controller"; ObjectID = "mh0-s2-tPq"; */
+"mh0-s2-tPq.title" = "被控制器替换";
+

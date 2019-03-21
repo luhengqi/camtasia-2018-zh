@@ -1,0 +1,78 @@
+/* Class = "NSMenuItem"; title = "Off"; ObjectID = "2Pp-og-bzt"; */
+"2Pp-og-bzt.title" = "关闭";
+
+/* Class = "NSButtonCell"; title = "Export as Web Page"; ObjectID = "3Fg-Db-xE1"; */
+"3Fg-Db-xE1.title" = "导出为网页";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4"; */
+"4.title" = "Andere Ansichten";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "4jH-UI-w9c"; */
+"4jH-UI-w9c.title" = "确认";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "5"; */
+"5.title" = "Objekt 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "6"; */
+"6.title" = "Objekt 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "7"; */
+"7.title" = "Objekt 3";
+
+/* Class = "NSButtonCell"; title = "Options..."; ObjectID = "8oC-vb-khL"; */
+"8oC-vb-khL.title" = "选项...";
+
+/* Class = "NSButtonCell"; title = "Create table of contents from markers"; ObjectID = "8zI-eU-ozl"; */
+"8zI-eU-ozl.title" = "从标记创建目录";
+
+/* Class = "NSTextFieldCell"; title = "File format:"; ObjectID = "9"; */
+"9.title" = "文件格式:";
+
+/* Class = "NSButtonCell"; title = "Options..."; ObjectID = "11"; */
+"11.title" = "选项...";
+
+/* Class = "NSButtonCell"; title = "Include Quiz"; ObjectID = "KBI-Xr-3u1"; */
+"KBI-Xr-3u1.title" = "包含测验";
+
+/* Class = "NSButtonCell"; title = "Options..."; ObjectID = "L38-7g-p9E"; */
+"L38-7g-p9E.title" = "选项...";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "VDo-tQ-0Av"; */
+"VDo-tQ-0Av.title" = "高度:";
+
+/* Class = "NSButtonCell"; title = "Preserve aspect ratio"; ObjectID = "XbP-kz-evy"; */
+"XbP-kz-evy.title" = "保持纵横比";
+
+/* Class = "NSMenuItem"; title = "Closed captions"; ObjectID = "ags-g0-7Ly"; */
+"ags-g0-7Ly.title" = "隐藏式字幕";
+
+/* Class = "NSButtonCell"; title = "Include SCORM"; ObjectID = "btE-WH-Ika"; */
+"btE-WH-Ika.title" = "包含SCORM";
+
+/* Class = "NSTextFieldCell"; title = "Caption Style:"; ObjectID = "byx-fe-sGe"; */
+"byx-fe-sGe.title" = "字幕样式:";
+
+/* Class = "NSMenuItem"; title = "Under video captions"; ObjectID = "cSb-wO-oYX"; */
+"cSb-wO-oYX.title" = "视频下方字幕";
+
+/* Class = "NSMenuItem"; title = "Burned in captions"; ObjectID = "chj-n0-tFx"; */
+"chj-n0-tFx.title" = "烧录式字幕";
+
+/* Class = "NSButtonCell"; title = "Options..."; ObjectID = "jQI-8w-uKh"; */
+"jQI-8w-uKh.title" = "选项...";
+
+/* Class = "NSTextFieldCell"; title = "Embed Size:"; ObjectID = "kNx-4L-7Fj"; */
+"kNx-4L-7Fj.title" = "嵌入尺寸:";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "mVd-sw-dNr"; */
+"mVd-sw-dNr.title" = "宽度:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "nKA-Hr-Uda"; */
+"nKA-Hr-Uda.title" = "Andere Ansichten";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "pig-qv-3aK"; */
+"pig-qv-3aK.title" = "取消";
+
+/* Class = "NSWindow"; title = "Web Page Export Options"; ObjectID = "xmm-Lt-aDj"; */
+"xmm-Lt-aDj.title" = "网页导出选项";
+

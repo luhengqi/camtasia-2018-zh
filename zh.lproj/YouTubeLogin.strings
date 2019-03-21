@@ -1,0 +1,42 @@
+/* Class = "NSWindow"; title = "Share to YouTube"; ObjectID = "1"; */
+"1.title" = "分享到YouTube";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "19"; */
+"19.title" = "分享";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "21"; */
+"21.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Signed in as:"; ObjectID = "326"; */
+"326.title" = "登录为:";
+
+/* Class = "NSTextFieldCell"; title = "By clicking 'Share,' you certify that you own all rights to the content or that you are authorized by the owner to make the content publicly available on YouTube, and that it otherwise complies with the YouTube Terms of Service located at \nhttp://www.youtube.com/t/terms."; ObjectID = "8Er-mu-5JC"; */
+"8Er-mu-5JC.title" = "按下'分享'按钮，就申明你拥有内容的所有权或者你是已发布内容的作者，这也适用于YouTube服务条款在\nhttp://www.youtube.com/t/terms。";
+
+/* Class = "NSTextFieldCell"; title = "Not signed in"; ObjectID = "328"; */
+"328.title" = "未登录";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "Ay2-gp-GqF"; */
+"Ay2-gp-GqF.title" = "描述:";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "LOa-HH-PF5"; */
+"LOa-HH-PF5.title" = "标题:";
+
+/* Class = "NSMenuItem"; title = "Unlisted"; ObjectID = "RgT-0m-I8U"; */
+"RgT-0m-I8U.title" = "未列出";
+
+/* Class = "NSMenuItem"; title = "Public"; ObjectID = "chC-vg-Ab6"; */
+"chC-vg-Ab6.title" = "公开";
+
+/* Class = "NSTextFieldCell"; title = "Privacy:"; ObjectID = "uiL-jx-0qU"; */
+"uiL-jx-0qU.title" = "隐私:";
+
+/* Class = "NSTextFieldCell"; title = "Tags:"; ObjectID = "xIs-Nn-ho7"; */
+"xIs-Nn-ho7.title" = "标签:";
+
+/* Class = "NSMenuItem"; title = "Private"; ObjectID = "xaa-X1-SZd"; */
+"xaa-X1-SZd.title" = "私有";
+
+/* Class = "NSButtonCell"; title = "Create table of contents from markers"; ObjectID = "zYa-a4-VNn"; */
+"zYa-a4-VNn.title" = "从标记创建目录";
+

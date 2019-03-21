@@ -1,0 +1,45 @@
+/* Class = "NSTextFieldCell"; title = "Thickness:"; ObjectID = "162"; */
+"162.title" = "厚度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset width to default"; ObjectID = "243"; */
+"243.ibShadowedToolTip" = "重置宽度到默认";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "size edit field"; ObjectID = "500"; */
+"500.ibExternalAccessibilityDescription" = "尺寸编辑字段";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Press to change width"; ObjectID = "530"; */
+"530.ibShadowedToolTip" = "点击更改宽度";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "554"; */
+"554.ibExternalAccessibilityDescription" = "透明度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change stroke thickness"; ObjectID = "554"; */
+"554.ibShadowedToolTip" = "拖曳以更改笔划厚度";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "587"; */
+"587.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "594"; */
+"594.title" = "颜色:";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "839"; */
+"839.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset draw-time to default"; ObjectID = "886"; */
+"886.ibShadowedToolTip" = "重置绘制时间为默认";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "draw-time edit field"; ObjectID = "888"; */
+"888.ibExternalAccessibilityDescription" = "绘制时间编辑字段";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Press to change draw-time"; ObjectID = "889"; */
+"889.ibShadowedToolTip" = "点击更改绘制时间";
+
+/* Class = "NSTextFieldCell"; title = "Draw Time:"; ObjectID = "893"; */
+"893.title" = "绘制时间:";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "927"; */
+"927.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "928"; */
+"928.ibShadowedMultipleValuesPlaceholder" = "-";
+

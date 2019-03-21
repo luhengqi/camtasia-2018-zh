@@ -1,0 +1,6 @@
+/* Class = "NSWindow"; title = "Sign In"; ObjectID = "3"; */
+"3.title" = "登录";
+
+/* Class = "NSButtonCell"; title = "Stay signed in to this account"; ObjectID = "44"; */
+"44.title" = "保持登录此账号";
+

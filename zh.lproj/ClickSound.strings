@@ -1,0 +1,51 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "922"; */
+"922.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Click Sound"; ObjectID = "924"; */
+"924.title" = "点击声音";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Press to adjust click sound volume"; ObjectID = "968"; */
+"968.ibShadowedToolTip" = "点击调整点击声音音量";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset click sound volume to default"; ObjectID = "970"; */
+"970.ibShadowedToolTip" = "重置点击声音音量到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "volume slider"; ObjectID = "971"; */
+"971.ibExternalAccessibilityDescription" = "音量滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change the click sound volume"; ObjectID = "971"; */
+"971.ibShadowedToolTip" = "拖曳以更改点击声音音量";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select click sound"; ObjectID = "972"; */
+"972.ibShadowedToolTip" = "选择点击声音";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "click sound volume edit field"; ObjectID = "973"; */
+"973.ibExternalAccessibilityDescription" = "点击声音音量编辑字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Set click sound volume"; ObjectID = "973"; */
+"973.ibShadowedToolTip" = "设置点击声音音量";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset click sound to default"; ObjectID = "975"; */
+"975.ibShadowedToolTip" = "重置点击声音到默认";
+
+/* Class = "NSTextFieldCell"; title = "Volume:"; ObjectID = "977"; */
+"977.title" = "音量:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "981"; */
+"981.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Laptop Click"; ObjectID = "982"; */
+"982.title" = "触控板点击";
+
+/* Class = "NSMenuItem"; title = "Mouse Click"; ObjectID = "983"; */
+"983.title" = "鼠标点击";
+
+/* Class = "NSTextFieldCell"; title = "Sound:"; ObjectID = "986"; */
+"986.title" = "声音:";
+
+/* Class = "NSButtonCell"; title = "Test"; ObjectID = "1135"; */
+"1135.title" = "测试";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "1142"; */
+"1142.ibShadowedMultipleValuesPlaceholder" = "-";
+

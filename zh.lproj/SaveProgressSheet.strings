@@ -1,0 +1,12 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "15"; */
+"15.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Saving..."; ObjectID = "21"; */
+"21.title" = "正在保存...";
+
+/* Class = "NSTextFieldCell"; title = "Estimated time remaining:"; ObjectID = "26"; */
+"26.title" = "大约剩余时间:";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "28"; */
+"28.title" = "秒";
+

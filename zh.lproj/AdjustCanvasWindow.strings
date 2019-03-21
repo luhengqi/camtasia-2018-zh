@@ -1,0 +1,45 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "1"; */
+"1.title" = "窗口";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "11"; */
+"11.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Apply"; ObjectID = "12"; */
+"12.title" = "应用";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "14"; */
+"14.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Fit to Visible"; ObjectID = "20"; */
+"20.title" = "自适应到可见";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "21"; */
+"21.title" = "自定义";
+
+/* Class = "NSTextFieldCell"; title = "Dimensions:"; ObjectID = "28"; */
+"28.title" = "尺寸:";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "29"; */
+"29.title" = "高度:";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "30"; */
+"30.title" = "宽度:";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "69"; */
+"69.title" = "颜色:";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "71"; */
+"71.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSMenuItem"; title = "Widescreen (16:9)"; ObjectID = "89"; */
+"89.title" = "宽屏 (16:9)";
+
+/* Class = "NSMenuItem"; title = "Device Specific Sizes"; ObjectID = "90"; */
+"90.title" = "设备指定尺寸";
+
+/* Class = "NSTextFieldCell"; title = "Project Settings"; ObjectID = "101"; */
+"101.title" = "项目设置";
+
+/* Class = "NSButtonCell"; title = "?"; ObjectID = "120"; */
+"120.title" = "？";
+

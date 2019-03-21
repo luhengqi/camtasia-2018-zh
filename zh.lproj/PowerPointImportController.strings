@@ -1,0 +1,39 @@
+/* Class = "NSTextFieldCell"; title = "Import slides:"; ObjectID = "1V6-Hl-6Ah"; */
+"1V6-Hl-6Ah.title" = "导入幻灯片:";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "7IN-yw-gWm"; */
+"7IN-yw-gWm.title" = "所有";
+
+/* Class = "NSMenuItem"; title = "Single"; ObjectID = "Bd7-SU-b1G"; */
+"Bd7-SU-b1G.title" = "单个";
+
+/* Class = "NSWindow"; title = "Import Presentation"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "导入演示文稿";
+
+/* Class = "NSTextFieldCell"; title = "Filename.ppt"; ObjectID = "HLr-Ia-zEV"; */
+"HLr-Ia-zEV.title" = "Filename.ppt";
+
+/* Class = "NSTextFieldCell"; title = "to"; ObjectID = "Hlx-0B-Rf6"; */
+"Hlx-0B-Rf6.title" = "到";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "KtL-SV-f27"; */
+"KtL-SV-f27.ibExternalAccessibilityDescription" = "透明度编辑字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "mpK-pc-prv"; */
+"mpK-pc-prv.ibExternalAccessibilityDescription" = "透明度编辑字段";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "pjd-rN-xx4"; */
+"pjd-rN-xx4.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSMenuItem"; title = "Range"; ObjectID = "vww-o8-id2"; */
+"vww-o8-id2.title" = "范围";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "y9s-11-W63"; */
+"y9s-11-W63.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "zfQ-96-xeS"; */
+"zfQ-96-xeS.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Import"; ObjectID = "zfa-lQ-JYr"; */
+"zfa-lQ-JYr.title" = "导入";
+

@@ -1,0 +1,87 @@
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Clicked hotspot launches URL"; ObjectID = "111"; */
+"111.ibShadowedToolTip" = "点击热点打开URL";
+
+/* Class = "NSButtonCell"; title = "URL"; ObjectID = "111"; */
+"111.title" = "URL";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Clicked hotspot jumps to marker"; ObjectID = "112"; */
+"112.ibShadowedToolTip" = "点击热点跳转到标记";
+
+/* Class = "NSButtonCell"; title = "Marker"; ObjectID = "112"; */
+"112.title" = "标记";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Clicked hotspot jumps to specific time"; ObjectID = "113"; */
+"113.ibShadowedToolTip" = "点击热点跳转到指定时间";
+
+/* Class = "NSButtonCell"; title = "Time"; ObjectID = "113"; */
+"113.title" = "时间";
+
+/* Class = "NSButtonCell"; title = "Click to continue"; ObjectID = "114"; */
+"114.title" = "点击以继续";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select jump-to marker"; ObjectID = "121"; */
+"121.ibShadowedToolTip" = "选择跳转到的标记";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "123"; */
+"123.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Marker 1"; ObjectID = "124"; */
+"124.title" = "标记 1";
+
+/* Class = "NSMenuItem"; title = "Marker 2"; ObjectID = "125"; */
+"125.title" = "标记 2";
+
+/* Class = "NSMenuItem"; title = "Marker 3"; ObjectID = "126"; */
+"126.title" = "标记 3";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter web address"; ObjectID = "129"; */
+"129.ibShadowedToolTip" = "输入网址";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter jump-to minute"; ObjectID = "154"; */
+"154.ibShadowedToolTip" = "输入跳转到分钟";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter jump-to second"; ObjectID = "155"; */
+"155.ibShadowedToolTip" = "输入跳转到秒数";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter jump-to frame"; ObjectID = "156"; */
+"156.ibShadowedToolTip" = "输入跳转到帧";
+
+/* Class = "NSButtonCell"; title = "Pause at end"; ObjectID = "196"; */
+"196.title" = "在结尾暂停";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Clip Speed"; ObjectID = "229"; */
+"229.ibShadowedToolTip" = "移除剪辑速度";
+
+/* Class = "NSTextFieldCell"; title = "Interactive Hotspot"; ObjectID = "231"; */
+"231.title" = "交互热点";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Preview hotspot"; ObjectID = "238"; */
+"238.ibShadowedToolTip" = "预览热点";
+
+/* Class = "NSButtonCell"; title = "Test"; ObjectID = "239"; */
+"239.title" = "测试";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "260"; */
+"260.title" = ":";
+
+/* Class = "NSTextFieldCell"; title = ":"; ObjectID = "262"; */
+"262.title" = ":";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "274"; */
+"274.title" = "单选";
+
+/* Class = "NSTextFieldCell"; title = "(MMM:SS:FF) "; ObjectID = "280"; */
+"280.title" = "(MMM:SS:FF) ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "281"; */
+"281.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "282"; */
+"282.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "283"; */
+"283.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "284"; */
+"284.ibShadowedMultipleValuesPlaceholder" = "-";
+

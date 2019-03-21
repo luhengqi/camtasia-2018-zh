@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "434-yp-qbR"; */
+"434-yp-qbR.title" = "添加";
+
+/* Class = "NSTextFieldCell"; title = "Create New Folder"; ObjectID = "CV4-Up-2F7"; */
+"CV4-Up-2F7.title" = "创建新文件夹";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This folder name already exists."; ObjectID = "TXe-CF-GkL"; */
+"TXe-CF-GkL.ibShadowedToolTip" = "此文件夹名称已存在。";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "tNK-lE-AwS"; */
+"tNK-lE-AwS.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "wGK-NG-TkI"; */
+"wGK-NG-TkI.title" = "名称:";
+

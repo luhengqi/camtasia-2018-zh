@@ -1,0 +1,27 @@
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "4jM-1G-Nuh"; */
+"4jM-1G-Nuh.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButtonCell"; title = "In"; ObjectID = "4jM-1G-Nuh"; */
+"4jM-1G-Nuh.title" = "进入";
+
+/* Class = "NSTextFieldCell"; title = "Behavior"; ObjectID = "33"; */
+"33.title" = "行为";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "HeB-w5-HR6"; */
+"HeB-w5-HR6.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButtonCell"; title = "Out"; ObjectID = "HeB-w5-HR6"; */
+"HeB-w5-HR6.title" = "退出";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "AB Actions"; ObjectID = "MqK-b4-d5y"; */
+"MqK-b4-d5y.ibShadowedToolTip" = "AB动作";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "tq9-jn-beW"; */
+"tq9-jn-beW.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButtonCell"; title = "During"; ObjectID = "tq9-jn-beW"; */
+"tq9-jn-beW.title" = "处于";
+

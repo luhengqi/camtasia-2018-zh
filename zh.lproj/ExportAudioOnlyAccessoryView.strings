@@ -1,0 +1,18 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "4"; */
+"4.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "5"; */
+"5.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "6"; */
+"6.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "7"; */
+"7.title" = "条目 3";
+
+/* Class = "NSTextFieldCell"; title = "File format:"; ObjectID = "9"; */
+"9.title" = "文件格式:";
+
+/* Class = "NSButtonCell"; title = "Options..."; ObjectID = "11"; */
+"11.title" = "选项...";
+

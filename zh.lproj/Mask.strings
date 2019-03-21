@@ -1,0 +1,129 @@
+/* Class = "NSTextFieldCell"; title = "Mask"; ObjectID = "33"; */
+"33.title" = "遮罩";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Blend:"; ObjectID = "105"; */
+"105.title" = "混合:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset blend to default"; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "重置混合到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "blend amount slider"; ObjectID = "157"; */
+"157.ibExternalAccessibilityDescription" = "混合数量滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to blur or define mask edge"; ObjectID = "157"; */
+"157.ibShadowedToolTip" = "拖曳以模糊或者定义遮罩边缘";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "blend amount edit field"; ObjectID = "161"; */
+"161.ibExternalAccessibilityDescription" = "混合数量编辑字段";
+
+/* Class = "NSView"; ibShadowedToolTip = "Turn to rotate mask"; ObjectID = "336"; */
+"336.ibShadowedToolTip" = "旋转遮罩";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset rotation to default"; ObjectID = "337"; */
+"337.ibShadowedToolTip" = "重置旋转到默认";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Angle text field"; ObjectID = "339"; */
+"339.ibExternalAccessibilityDescription" = "角度文本字段";
+
+/* Class = "NSTextFieldCell"; title = "Rotate:"; ObjectID = "342"; */
+"342.title" = "旋转:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset invert property to default"; ObjectID = "344"; */
+"344.ibShadowedToolTip" = "重置反相属性到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset mask shape to default"; ObjectID = "345"; */
+"345.ibShadowedToolTip" = "重置遮罩形状到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to invert mask shape"; ObjectID = "347"; */
+"347.ibShadowedToolTip" = "点击反相遮罩形状";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "mask shape popup button"; ObjectID = "348"; */
+"348.ibExternalAccessibilityDescription" = "遮罩形状弹出按钮";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select mask shape"; ObjectID = "348"; */
+"348.ibShadowedToolTip" = "选择遮罩形状";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "350"; */
+"350.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Rectangle"; ObjectID = "356"; */
+"356.title" = "矩形";
+
+/* Class = "NSMenuItem"; title = "Oval"; ObjectID = "358"; */
+"358.title" = "椭圆";
+
+/* Class = "NSButtonCell"; title = "Invert"; ObjectID = "359"; */
+"359.title" = "反相";
+
+/* Class = "NSTextFieldCell"; title = "Shape:"; ObjectID = "360"; */
+"360.title" = "形状:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "482"; */
+"482.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "493"; */
+"493.title" = "Deckkraft:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset corner radius to default"; ObjectID = "525"; */
+"525.ibShadowedToolTip" = "重置圆角半径到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "color amount slider"; ObjectID = "527"; */
+"527.ibExternalAccessibilityDescription" = "颜色数量滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to round edges"; ObjectID = "527"; */
+"527.ibShadowedToolTip" = "拖曳以更改边缘圆滑度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "corner radius amount edit field"; ObjectID = "528"; */
+"528.ibExternalAccessibilityDescription" = "圆角半径数量编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Corner:"; ObjectID = "532"; */
+"532.title" = "圆角:";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change visibility outside mask"; ObjectID = "564"; */
+"564.ibShadowedToolTip" = "拖曳以更改遮罩外部的可见性";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "602"; */
+"602.ibShadowedToolTip" = "重置淡入到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "603"; */
+"603.ibShadowedToolTip" = "重置淡出到默认";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "606"; */
+"606.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "607"; */
+"607.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "608"; */
+"608.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "609"; */
+"609.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "616"; */
+"616.title" = "淡出:";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "617"; */
+"617.title" = "淡入:";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "691"; */
+"691.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "692"; */
+"692.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "693"; */
+"693.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "694"; */
+"694.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "695"; */
+"695.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "696"; */
+"696.ibShadowedMultipleValuesPlaceholder" = "-";
+

@@ -1,0 +1,42 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "57"; */
+"57.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Recorder"; ObjectID = "58"; */
+"58.title" = "录制器";
+
+/* Class = "NSMenuItem"; title = "Editor"; ObjectID = "59"; */
+"59.title" = "编辑器";
+
+/* Class = "NSTextFieldCell"; title = "On startup open:"; ObjectID = "62"; */
+"62.title" = "启动时打开:";
+
+/* Class = "NSButtonCell"; title = "Autosave every"; ObjectID = "70"; */
+"70.title" = "自动保存每";
+
+/* Class = "NSTextFieldCell"; title = "1.0"; ObjectID = "72"; */
+"72.title" = "1.0";
+
+/* Class = "NSTextFieldCell"; title = "minutes"; ObjectID = "74"; */
+"74.title" = "分钟";
+
+/* Class = "NSButtonCell"; title = "Enable System Color Picker"; ObjectID = "103"; */
+"103.title" = "开启系统颜色拾取器";
+
+/* Class = "NSButtonCell"; title = "Turn Off Sharing"; ObjectID = "133"; */
+"133.title" = "关闭分享";
+
+/* Class = "NSTextFieldCell"; title = "Port:"; ObjectID = "156"; */
+"156.title" = "端口:";
+
+/* Class = "NSTextFieldCell"; title = "Mobile Sharing:"; ObjectID = "169"; */
+"169.title" = "移动设备分享:";
+
+/* Class = "NSTextFieldCell"; title = "On"; ObjectID = "171"; */
+"171.title" = "开启";
+
+/* Class = "NSTextFieldCell"; title = "Connection Name:"; ObjectID = "186"; */
+"186.title" = "连接名称:";
+
+/* Class = "NSButtonCell"; title = "Send anonymous usage data"; ObjectID = "220"; */
+"220.title" = "发送匿名使用数据";
+

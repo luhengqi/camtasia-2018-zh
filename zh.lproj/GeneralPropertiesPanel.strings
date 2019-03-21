@@ -1,0 +1,132 @@
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "30"; */
+"30.title" = "透明度:";
+
+/* Class = "NSTextFieldCell"; title = "Scale:"; ObjectID = "31"; */
+"31.title" = "缩放:";
+
+/* Class = "NSTextFieldCell"; title = "Rotation:"; ObjectID = "148"; */
+"148.title" = "旋转:";
+
+/* Class = "NSTextFieldCell"; title = "X:"; ObjectID = "160"; */
+"160.title" = "X:";
+
+/* Class = "NSTextFieldCell"; title = "Y:"; ObjectID = "162"; */
+"162.title" = "Y:";
+
+/* Class = "NSTextFieldCell"; title = "Z:"; ObjectID = "164"; */
+"164.title" = "Z:";
+
+/* Class = "NSTextFieldCell"; title = "Position:"; ObjectID = "176"; */
+"176.title" = "位置:";
+
+/* Class = "NSTextFieldCell"; title = "Z:"; ObjectID = "178"; */
+"178.title" = "Z:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Click to reset the Rotate Y property."; ObjectID = "179"; */
+"179.ibShadowedToolTip" = "点击以重置Y轴旋转。";
+
+/* Class = "NSTextFieldCell"; title = "Y:"; ObjectID = "180"; */
+"180.title" = "Y:";
+
+/* Class = "NSTextFieldCell"; title = "X:"; ObjectID = "182"; */
+"182.title" = "X:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset scale to default"; ObjectID = "226"; */
+"226.ibShadowedToolTip" = "重置缩放到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "228"; */
+"228.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset z rotation to default"; ObjectID = "235"; */
+"235.ibShadowedToolTip" = "重置z轴旋转到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset y rotation to default"; ObjectID = "237"; */
+"237.ibShadowedToolTip" = "重置y轴旋转到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset x rotation to default"; ObjectID = "239"; */
+"239.ibShadowedToolTip" = "重置x轴旋转到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset x position to default"; ObjectID = "241"; */
+"241.ibShadowedToolTip" = "重置x轴位置到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset y position to default"; ObjectID = "243"; */
+"243.ibShadowedToolTip" = "重置y轴位置到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset z position to default"; ObjectID = "245"; */
+"245.ibShadowedToolTip" = "重置z轴位置到默认";
+
+/* Class = "NSView"; ibShadowedToolTip = "Turn to rotate around z-axis"; ObjectID = "343"; */
+"343.ibShadowedToolTip" = "Mit Regler um z-Achse drehen";
+
+/* Class = "NSView"; ibShadowedToolTip = "Turn to rotate around y-axis"; ObjectID = "355"; */
+"355.ibShadowedToolTip" = "Mit Regler um y-Achse drehen";
+
+/* Class = "NSView"; ibShadowedToolTip = "Turn to rotate around x-axis"; ObjectID = "356"; */
+"356.ibShadowedToolTip" = "Mit Regler um x-Achse drehen";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "scale slider"; ObjectID = "402"; */
+"402.ibExternalAccessibilityDescription" = "Skalierungsregler";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to resize selected media"; ObjectID = "402"; */
+"402.ibShadowedToolTip" = "Ausgewählte Medien mit Regler skalieren";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "scale edit field"; ObjectID = "408"; */
+"408.ibExternalAccessibilityDescription" = "Skalierung bearbeiten";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "419"; */
+"419.ibExternalAccessibilityDescription" = "Deckkraftregler";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change transparency of selected media"; ObjectID = "419"; */
+"419.ibShadowedToolTip" = "Transparenz der ausgewählten Medien mit Regler ändern";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "424"; */
+"424.ibExternalAccessibilityDescription" = "Deckkraft bearbeiten";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "rotate Z edit field"; ObjectID = "437"; */
+"437.ibExternalAccessibilityDescription" = "z-Drehung bearbeiten";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "rotate Y edit field"; ObjectID = "449"; */
+"449.ibExternalAccessibilityDescription" = "y-Drehung bearbeiten";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "X position edit field"; ObjectID = "477"; */
+"477.ibExternalAccessibilityDescription" = "x-Position bearbeiten";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Y position edit field"; ObjectID = "500"; */
+"500.ibExternalAccessibilityDescription" = "y-Position bearbeiten";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Z position edit field"; ObjectID = "512"; */
+"512.ibExternalAccessibilityDescription" = "z-Position bearbeiten";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Press to change x position"; ObjectID = "525"; */
+"525.ibShadowedToolTip" = "Zum Ändern der x-Position klicken";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Press to change y position"; ObjectID = "530"; */
+"530.ibShadowedToolTip" = "Zum Ändern der y-Position klicken";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Press to change z position"; ObjectID = "533"; */
+"533.ibShadowedToolTip" = "Zum Ändern der z-Position klicken";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "1476"; */
+"1476.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "1477"; */
+"1477.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "1478"; */
+"1478.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "1479"; */
+"1479.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "1480"; */
+"1480.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "1481"; */
+"1481.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "1482"; */
+"1482.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "1488"; */
+"1488.ibShadowedMultipleValuesPlaceholder" = "-";
+

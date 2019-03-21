@@ -1,0 +1,15 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Reset quality to default"; ObjectID = "52"; */
+"52.ibShadowedToolTip" = "重置质量到默认";
+
+/* Class = "NSTextFieldCell"; title = "Smaller file size"; ObjectID = "66"; */
+"66.title" = "更小文件";
+
+/* Class = "NSTextFieldCell"; title = "Higher quality"; ObjectID = "68"; */
+"68.title" = "更高质量";
+
+/* Class = "NSTextFieldCell"; title = "Recommended"; ObjectID = "106"; */
+"106.title" = "推荐";
+
+/* Class = "NSButtonCell"; title = "Advanced"; ObjectID = "lbc-iW-MWI"; */
+"lbc-iW-MWI.title" = "高级";
+

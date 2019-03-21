@@ -1,0 +1,93 @@
+/* Class = "NSTextFieldCell"; title = "Click Rings"; ObjectID = "33"; */
+"33.title" = "点击圆环";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "316"; */
+"316.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "320"; */
+"320.title" = "颜色:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "330"; */
+"330.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "332"; */
+"332.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change ring transparency"; ObjectID = "332"; */
+"332.ibShadowedToolTip" = "拖曳以更改圆环透明度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "edge edit field"; ObjectID = "333"; */
+"333.ibExternalAccessibilityDescription" = "描边编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "337"; */
+"337.title" = "透明度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset size to default"; ObjectID = "368"; */
+"368.ibShadowedToolTip" = "重置尺寸到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "370"; */
+"370.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make rings larger or smaller"; ObjectID = "370"; */
+"370.ibShadowedToolTip" = "拖曳改变圆环的尺寸";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "radius edit field"; ObjectID = "371"; */
+"371.ibExternalAccessibilityDescription" = "半径编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "375"; */
+"375.title" = "尺寸:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset duration to default"; ObjectID = "403"; */
+"403.ibShadowedToolTip" = "重置时长到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "preClickDuration slider"; ObjectID = "405"; */
+"405.ibExternalAccessibilityDescription" = "预点击时长滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change effect time"; ObjectID = "405"; */
+"405.ibShadowedToolTip" = "拖曳以更改特效时间";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "preClickDuration edit field"; ObjectID = "406"; */
+"406.ibExternalAccessibilityDescription" = "预点击时长编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "419"; */
+"419.title" = "时长:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ring width to default"; ObjectID = "497"; */
+"497.ibShadowedToolTip" = "重置圆环宽度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "scale slider"; ObjectID = "499"; */
+"499.ibExternalAccessibilityDescription" = "缩放滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change ring stroke thickness"; ObjectID = "499"; */
+"499.ibShadowedToolTip" = "拖曳以更改圆环描边厚度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "scale edit field"; ObjectID = "500"; */
+"500.ibExternalAccessibilityDescription" = "缩放编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Ring Width:"; ObjectID = "504"; */
+"504.title" = "圆环宽度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Display cursor effect before mouse click"; ObjectID = "532"; */
+"532.ibShadowedToolTip" = "鼠标点击之前显示鼠标特效";
+
+/* Class = "NSButtonCell"; title = "Show effect before click"; ObjectID = "533"; */
+"533.title" = "点击前显示特效";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset duration to default"; ObjectID = "562"; */
+"562.ibShadowedToolTip" = "重置时长到默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "581"; */
+"581.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "582"; */
+"582.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "583"; */
+"583.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "584"; */
+"584.ibShadowedMultipleValuesPlaceholder" = "-";
+

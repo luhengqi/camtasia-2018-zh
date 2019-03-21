@@ -1,0 +1,78 @@
+/* Class = "NSWindow"; title = "Advanced Export Options"; ObjectID = "1"; */
+"1.title" = "高级导出选项";
+
+/* Class = "NSTextFieldCell"; title = "Key frame every:"; ObjectID = "6"; */
+"6.title" = "关键帧每:";
+
+/* Class = "NSTextFieldCell"; title = "Quality:"; ObjectID = "10"; */
+"10.title" = "质量:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "12"; */
+"12.title" = "确认";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "14"; */
+"14.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "30"; ObjectID = "20"; */
+"20.title" = "30";
+
+/* Class = "NSTextFieldCell"; title = "frames"; ObjectID = "24"; */
+"24.title" = "帧";
+
+/* Class = "NSTextFieldCell"; title = "Smaller file size"; ObjectID = "26"; */
+"26.title" = "更小文件";
+
+/* Class = "NSTextFieldCell"; title = "Higher quality"; ObjectID = "28"; */
+"28.title" = "更高质量";
+
+/* Class = "NSBox"; title = "Video"; ObjectID = "41"; */
+"41.title" = "视频";
+
+/* Class = "NSBox"; title = "Audio"; ObjectID = "42"; */
+"42.title" = "音频";
+
+/* Class = "NSTextFieldCell"; title = "Frame rate:"; ObjectID = "52"; */
+"52.title" = "帧率:";
+
+/* Class = "NSButtonCell"; title = "Encode audio"; ObjectID = "54"; */
+"54.title" = "编码音频";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "67"; */
+"67.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "68"; */
+"68.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "69"; */
+"69.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "70"; */
+"70.title" = "条目 3";
+
+/* Class = "NSTextFieldCell"; title = "Dimensions:"; ObjectID = "78"; */
+"78.title" = "尺寸:";
+
+/* Class = "NSButtonCell"; title = "Preserve aspect ratio using"; ObjectID = "80"; */
+"80.title" = "保持纵横比使用";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "84"; */
+"84.title" = "Andere Ansichten";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "92"; */
+"92.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "fit within size"; ObjectID = "95"; */
+"95.title" = "自适应尺寸";
+
+/* Class = "NSMenuItem"; title = "Current"; ObjectID = "117"; */
+"117.title" = "当前";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "128"; */
+"128.title" = "宽度:";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "130"; */
+"130.title" = "高度:";
+
+/* Class = "NSButtonCell"; title = "Enable smoothing"; ObjectID = "h4r-WF-ysN"; */
+"h4r-WF-ysN.title" = "开启平滑";
+

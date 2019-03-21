@@ -1,0 +1,27 @@
+/* Class = "NSTextFieldCell"; title = "Start from:"; ObjectID = "8Fj-bJ-cRh"; */
+"8Fj-bJ-cRh.title" = "开始于:";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "47Y-Qk-1Y7"; */
+"47Y-Qk-1Y7.title" = "Item 2";
+
+/* Class = "NSButtonCell"; title = "Create"; ObjectID = "434-yp-qbR"; */
+"434-yp-qbR.title" = "创建";
+
+/* Class = "NSTextFieldCell"; title = "Create Library"; ObjectID = "CV4-Up-2F7"; */
+"CV4-Up-2F7.title" = "创建库:";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "RqD-Tr-elc"; */
+"RqD-Tr-elc.title" = "Item 3";
+
+/* Class = "NSImageView"; ibShadowedToolTip = "This library name already exists."; ObjectID = "TXe-CF-GkL"; */
+"TXe-CF-GkL.ibShadowedToolTip" = "此库名称已存在。";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "YcK-Rc-BC7"; */
+"YcK-Rc-BC7.title" = "Item 1";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "tNK-lE-AwS"; */
+"tNK-lE-AwS.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "wGK-NG-TkI"; */
+"wGK-NG-TkI.title" = "名称:";
+

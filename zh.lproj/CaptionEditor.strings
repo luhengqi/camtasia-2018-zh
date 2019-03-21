@@ -1,0 +1,51 @@
+/* Class = "NSWindow"; title = "Caption Editor"; ObjectID = "1"; */
+"1.title" = "字幕编辑器";
+
+/* Class = "NSScrollView"; ibShadowedToolTip = "Enter up to three lines of text"; ObjectID = "7"; */
+"7.ibShadowedToolTip" = "输入最多3行文字";
+
+/* Class = "NSTextView"; ibExternalAccessibilityDescription = "Caption Text"; ObjectID = "10"; */
+"10.ibExternalAccessibilityDescription" = "字幕文字";
+
+/* Class = "NSTextView"; ibShadowedToolTip = "Enter up to three lines of caption text here."; ObjectID = "10"; */
+"10.ibShadowedToolTip" = "在这里输入最多3行字幕文字。";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Duration Slider"; ObjectID = "11"; */
+"11.ibExternalAccessibilityDescription" = "时长滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Adjust caption duration"; ObjectID = "11"; */
+"11.ibShadowedToolTip" = "调整字幕时长";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Previous Caption"; ObjectID = "23"; */
+"23.ibExternalAccessibilityDescription" = "上一条字幕";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous Caption [Shift-Tab]"; ObjectID = "23"; */
+"23.ibShadowedToolTip" = "上一条字幕 [Shift-Tab]";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Next Caption"; ObjectID = "25"; */
+"25.ibExternalAccessibilityDescription" = "下一条字幕";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next Caption [Tab]"; ObjectID = "25"; */
+"25.ibShadowedToolTip" = "下一条字幕 [Tab]";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Play Caption"; ObjectID = "27"; */
+"27.ibExternalAccessibilityDescription" = "播放字幕";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Play and loop caption audioo"; ObjectID = "27"; */
+"27.ibShadowedToolTip" = "播放并循环字幕音频";
+
+/* Class = "NSMenuItem"; title = "Captions Help"; ObjectID = "67"; */
+"67.title" = "字幕帮助";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Merge, split, extend, or shorten the caption under the playhead. "; ObjectID = "TaE-KU-D3A"; */
+"TaE-KU-D3A.ibShadowedToolTip" = "合并，分割，扩展或者缩短播放头处的字幕。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Change font properties for captions."; ObjectID = "bk1-BI-3yk"; */
+"bk1-BI-3yk.ibShadowedToolTip" = "更改字幕的字体属性。";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "dnw-Tq-jE8"; */
+"dnw-Tq-jE8.title" = "时长:";
+
+/* Class = "NSTextFieldCell"; title = "2.5s"; ObjectID = "hp6-g1-lyb"; */
+"hp6-g1-lyb.title" = "2.5s";
+

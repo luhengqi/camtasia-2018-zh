@@ -1,0 +1,96 @@
+/* Class = "NSTextFieldCell"; title = "Remove a Color"; ObjectID = "33"; */
+"33.title" = "移除一个颜色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Tolerance:"; ObjectID = "105"; */
+"105.title" = "容差:";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "107"; */
+"107.title" = "颜色:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset tolerance to default"; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "重置容差到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "134"; */
+"134.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "chroma key tolerance slider"; ObjectID = "157"; */
+"157.ibExternalAccessibilityDescription" = "色键容差滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change range of reference color"; ObjectID = "157"; */
+"157.ibShadowedToolTip" = "拖曳以更改引用颜色的范围";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "chroma key tolerance edit field"; ObjectID = "161"; */
+"161.ibExternalAccessibilityDescription" = "色键容差编辑字段";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "208"; */
+"208.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset softness to default"; ObjectID = "332"; */
+"332.ibShadowedToolTip" = "重置柔化到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "chroma key softness slider"; ObjectID = "334"; */
+"334.ibExternalAccessibilityDescription" = "色键柔化滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change the blend range"; ObjectID = "334"; */
+"334.ibShadowedToolTip" = "拖曳以更改混合范围";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "chroma key softness edit field"; ObjectID = "335"; */
+"335.ibExternalAccessibilityDescription" = "色键柔化编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Softness:"; ObjectID = "339"; */
+"339.title" = "柔化:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "display the effect mask"; ObjectID = "365"; */
+"365.ibShadowedToolTip" = "显示效果遮罩";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset invert to default"; ObjectID = "366"; */
+"366.ibShadowedToolTip" = "重置反相到默认";
+
+/* Class = "NSButtonCell"; title = "Invert"; ObjectID = "368"; */
+"368.title" = "反相";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color compensation to default"; ObjectID = "462"; */
+"462.ibShadowedToolTip" = "重置颜色补偿到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "chroma key hue slider"; ObjectID = "464"; */
+"464.ibExternalAccessibilityDescription" = "色键色调滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to adjust warmth of foreground image"; ObjectID = "464"; */
+"464.ibShadowedToolTip" = "拖曳以调整前置图片的冷暖";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "chroma key color compensation edit field"; ObjectID = "465"; */
+"465.ibExternalAccessibilityDescription" = "色键颜色补偿编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Hue:"; ObjectID = "469"; */
+"469.title" = "色调:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset defringe to default"; ObjectID = "500"; */
+"500.ibShadowedToolTip" = "重置消除边缘到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "chroma key defringe slider"; ObjectID = "502"; */
+"502.ibExternalAccessibilityDescription" = "色键消除边缘滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to reduce remaining edge color"; ObjectID = "502"; */
+"502.ibShadowedToolTip" = "拖曳以更改残留的边缘颜色";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "chroma key defringe edit field"; ObjectID = "503"; */
+"503.ibExternalAccessibilityDescription" = "色键消除边缘编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Defringe:"; ObjectID = "507"; */
+"507.title" = "消除边缘:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "551"; */
+"551.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "552"; */
+"552.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "553"; */
+"553.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "554"; */
+"554.ibShadowedMultipleValuesPlaceholder" = "-";
+

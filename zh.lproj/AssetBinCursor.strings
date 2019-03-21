@@ -1,0 +1,30 @@
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "tableView"; ObjectID = "28"; */
+"28.ibExternalAccessibilityDescription" = "表格视图";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "35"; */
+"35.title" = "文字单元格";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltips implemented programmatically"; ObjectID = "119"; */
+"119.ibShadowedToolTip" = "(!) Tooltipps programmatisch implementiert";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "121"; */
+"121.title" = "单选";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltips implemented programmatically"; ObjectID = "122"; */
+"122.ibShadowedToolTip" = "(!) Tooltipps programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltips implemented programmatically"; ObjectID = "123"; */
+"123.ibShadowedToolTip" = "(!) Tooltipps programmatisch implementiert";
+
+/* Class = "NSMenuItem"; title = "Cursor Effects Help"; ObjectID = "154"; */
+"154.title" = "鼠标特效帮助";
+
+/* Class = "NSMenuItem"; title = "Add to Selected Media"; ObjectID = "162"; */
+"162.title" = "添加到选中媒体";
+
+/* Class = "NSTextFieldCell"; title = "<Tab Title>"; ObjectID = "uKe-wC-Yzs"; */
+"uKe-wC-Yzs.title" = "<标签标题>";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "udS-Dl-Ben"; */
+"udS-Dl-Ben.title" = "标签";
+

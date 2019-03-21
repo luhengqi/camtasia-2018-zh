@@ -1,0 +1,27 @@
+/* Class = "NSTextFieldCell"; title = "Frame"; ObjectID = "33"; */
+"33.title" = "帧";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Type: "; ObjectID = "107"; */
+"107.title" = "类型: ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset frame type to default"; ObjectID = "145"; */
+"145.ibShadowedToolTip" = "重设帧类型到默认";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select a frame"; ObjectID = "291"; */
+"291.ibShadowedToolTip" = "选择一个帧";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "293"; */
+"293.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Device frame source file not found. Please select another device frame."; ObjectID = "Ya6-st-ZzQ"; */
+"Ya6-st-ZzQ.title" = "设备帧源文件未找到。请选择其他设备帧。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "wNU-0J-dOI"; */
+"wNU-0J-dOI.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "NSMenuItem"; title = "Desktop 1"; ObjectID = "wQh-Nj-fqA"; */
+"wQh-Nj-fqA.title" = "桌面 1";
+

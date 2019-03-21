@@ -1,0 +1,15 @@
+/* Class = "NSWindow"; title = "Share to Camtasia Relay"; ObjectID = "1"; */
+"1.title" = "分享到Camtasia Relay";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "20"; */
+"20.title" = "标题:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "37"; */
+"37.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "38"; */
+"38.title" = "分享";
+
+/* Class = "NSTextFieldCell"; title = "Description:"; ObjectID = "131"; */
+"131.title" = "描述:";
+

@@ -1,0 +1,21 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Reset volume to default"; ObjectID = "134"; */
+"134.ibShadowedToolTip" = "重置音量到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "volume slider"; ObjectID = "220"; */
+"220.ibExternalAccessibilityDescription" = "音量滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Adjust the entire volume of the selected media."; ObjectID = "220"; */
+"220.ibShadowedToolTip" = "调整选中媒体的起始音量";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "volume edit field"; ObjectID = "226"; */
+"226.ibExternalAccessibilityDescription" = "音量编辑字段";
+
+/* Class = "NSButtonCell"; title = "Mix to mono"; ObjectID = "255"; */
+"255.title" = "混合到单声道";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "e27-Z1-FO6"; */
+"e27-Z1-FO6.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "NSTextFieldCell"; title = "Gain:"; ObjectID = "eKH-7d-ODP"; */
+"eKH-7d-ODP.title" = "增益:";
+

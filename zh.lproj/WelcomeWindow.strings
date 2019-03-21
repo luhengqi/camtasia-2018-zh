@@ -1,0 +1,45 @@
+/* Class = "NSButtonCell"; title = "New Recording"; ObjectID = "40o-0Z-06Q"; */
+"40o-0Z-06Q.title" = "新建录制";
+
+/* Class = "NSTextFieldCell"; title = "Table View Cell"; ObjectID = "Fk4-i4-bKq"; */
+"Fk4-i4-bKq.title" = "表格视图单元格";
+
+/* Class = "NSButtonCell"; title = "Retry"; ObjectID = "Kzv-Qz-hSd"; */
+"Kzv-Qz-hSd.title" = "重试";
+
+/* Class = "NSTextFieldCell"; title = "Get Started"; ObjectID = "R84-Y1-ImW"; */
+"R84-Y1-ImW.title" = "开始";
+
+/* Class = "NSButtonCell"; title = "Show on launch"; ObjectID = "RU4-kt-XL0"; */
+"RU4-kt-XL0.title" = "启动时显示";
+
+/* Class = "NSTextFieldCell"; title = "Recent"; ObjectID = "Rp8-FM-fkd"; */
+"Rp8-FM-fkd.title" = "最近项目";
+
+/* Class = "NSToolbarItem"; label = "Toolbar Item"; ObjectID = "TNJ-Ea-89Q"; */
+"TNJ-Ea-89Q.label" = "工具栏条目";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Toolbar Item"; ObjectID = "TNJ-Ea-89Q"; */
+"TNJ-Ea-89Q.paletteLabel" = "工具栏条目";
+
+/* Class = "NSButtonCell"; title = "Open Project"; ObjectID = "TUR-cM-o1L"; */
+"TUR-cM-o1L.title" = "打开项目";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Thm-iU-oiS"; */
+"Thm-iU-oiS.title" = "文字单元格";
+
+/* Class = "NSButtonCell"; title = "New Project"; ObjectID = "igg-M4-DUz"; */
+"igg-M4-DUz.title" = "新建项目";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "lVS-I3-pHU"; */
+"lVS-I3-pHU.headerCell.title" = "名称";
+
+/* Class = "NSTextFieldCell"; title = "Tutorials"; ObjectID = "t9g-aA-hVc"; */
+"t9g-aA-hVc.title" = "教程";
+
+/* Class = "NSTextFieldCell"; title = "Offline - Unable to retrieve tutorials"; ObjectID = "umm-0U-cHM"; */
+"umm-0U-cHM.title" = "离线 - 无法浏览教程";
+
+/* Class = "NSButtonCell"; title = "New Video Guide"; ObjectID = "8yj-96-XWI"; */
+"8yj-96-XWI.title" = "新建视频指导";
+

@@ -1,0 +1,111 @@
+/* Class = "NSTextFieldCell"; title = "Cursor Magnify"; ObjectID = "33"; */
+"33.title" = "鼠标放大";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "105"; */
+"105.title" = "尺寸:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset size to default"; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "重置尺寸到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "157"; */
+"157.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change area magnified"; ObjectID = "157"; */
+"157.ibShadowedToolTip" = "拖曳以更改放大区域";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "radius edit field"; ObjectID = "161"; */
+"161.ibExternalAccessibilityDescription" = "半径编辑字段";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset shadow to default"; ObjectID = "188"; */
+"188.ibShadowedToolTip" = "重置投影到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "width slider"; ObjectID = "190"; */
+"190.ibExternalAccessibilityDescription" = "宽度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to darken edge"; ObjectID = "190"; */
+"190.ibShadowedToolTip" = "拖曳以模糊边缘";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "border width edit field"; ObjectID = "191"; */
+"191.ibExternalAccessibilityDescription" = "边框宽度编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Shadow:"; ObjectID = "195"; */
+"195.title" = "投影:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset zoom to default"; ObjectID = "203"; */
+"203.ibShadowedToolTip" = "重置缩放到默认";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Drag to change magnification level"; ObjectID = "204"; */
+"204.ibShadowedToolTip" = "拖曳以更改放大层级";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "zoom slider"; ObjectID = "205"; */
+"205.ibExternalAccessibilityDescription" = "缩放滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change the zoom"; ObjectID = "205"; */
+"205.ibShadowedToolTip" = "拖曳以更改缩放";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "zoom edit field"; ObjectID = "206"; */
+"206.ibExternalAccessibilityDescription" = "缩放编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Zoom:"; ObjectID = "210"; */
+"210.title" = "缩放:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "301"; */
+"301.ibShadowedToolTip" = "Dauer Übergang für Einblenden";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "302"; */
+"302.ibShadowedToolTip" = "Dauer Übergang für Ausblenden";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "303"; */
+"303.ibShadowedToolTip" = "Dauer Übergang für Einblenden";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "304"; */
+"304.ibShadowedToolTip" = "Dauer Übergang für Ausblenden";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "311"; */
+"311.title" = "淡出:";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "312"; */
+"312.title" = "淡入:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "327"; */
+"327.ibShadowedToolTip" = "重置淡出到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "331"; */
+"331.ibShadowedToolTip" = "重置淡入到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "width slider"; ObjectID = "459"; */
+"459.ibExternalAccessibilityDescription" = "宽度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to darken edge"; ObjectID = "459"; */
+"459.ibShadowedToolTip" = "拖曳以模糊边缘";
+
+/* Class = "NSTextFieldCell"; title = "Softness:"; ObjectID = "464"; */
+"464.title" = "柔化:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "zoom edit field"; ObjectID = "494"; */
+"494.ibExternalAccessibilityDescription" = "缩放编辑字段";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset shadow to default"; ObjectID = "532"; */
+"532.ibShadowedToolTip" = "重置投影到默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "551"; */
+"551.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "552"; */
+"552.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "553"; */
+"553.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "554"; */
+"554.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "555"; */
+"555.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "556"; */
+"556.ibShadowedMultipleValuesPlaceholder" = "-";
+

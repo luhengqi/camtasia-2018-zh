@@ -1,0 +1,69 @@
+/* Class = "NSTextFieldCell"; title = "Click Warp"; ObjectID = "33"; */
+"33.title" = "点击扭曲";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset size to default"; ObjectID = "308"; */
+"308.ibShadowedToolTip" = "重置尺寸到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "310"; */
+"310.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make warp area larger or smaller"; ObjectID = "310"; */
+"310.ibShadowedToolTip" = "拖曳以更改扭曲区域尺寸";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "radius edit field"; ObjectID = "311"; */
+"311.ibExternalAccessibilityDescription" = "半径编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "315"; */
+"315.title" = "尺寸:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset intensity to default"; ObjectID = "343"; */
+"343.ibShadowedToolTip" = "重置强度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "scale slider"; ObjectID = "345"; */
+"345.ibExternalAccessibilityDescription" = "缩放滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change warp severity"; ObjectID = "345"; */
+"345.ibShadowedToolTip" = "拖曳以更改扭曲强度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "scale edit field"; ObjectID = "346"; */
+"346.ibExternalAccessibilityDescription" = "缩放编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Intensity:"; ObjectID = "350"; */
+"350.title" = "强度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset duration to default"; ObjectID = "360"; */
+"360.ibShadowedToolTip" = "重置时长到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "preClickDuration slider"; ObjectID = "362"; */
+"362.ibExternalAccessibilityDescription" = "预点击时长滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change effect time"; ObjectID = "362"; */
+"362.ibShadowedToolTip" = "拖曳以更改特效时间";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "preClickDuration edit field"; ObjectID = "363"; */
+"363.ibExternalAccessibilityDescription" = "预点击时长编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "367"; */
+"367.title" = "时长:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Display cursor effect before mouse click"; ObjectID = "475"; */
+"475.ibShadowedToolTip" = "在鼠标点击之前显示鼠标特效";
+
+/* Class = "NSButtonCell"; title = "Show effect before click"; ObjectID = "476"; */
+"476.title" = "在点击之前显示特效";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset duration to default"; ObjectID = "487"; */
+"487.ibShadowedToolTip" = "重置时长到默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "500"; */
+"500.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "501"; */
+"501.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "502"; */
+"502.ibShadowedMultipleValuesPlaceholder" = "-";
+

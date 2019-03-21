@@ -1,0 +1,36 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Reset invert to default"; ObjectID = "8ud-0v-5dn"; */
+"8ud-0v-5dn.ibShadowedToolTip" = "重置反相到默认";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "30"; */
+"30.title" = "透明度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "228"; */
+"228.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "419"; */
+"419.ibExternalAccessibilityDescription" = "透明度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change highlight transparency"; ObjectID = "419"; */
+"419.ibShadowedToolTip" = "拖曳以更改高亮透明度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "424"; */
+"424.ibExternalAccessibilityDescription" = "透明度编辑字段";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "538"; */
+"538.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "541"; */
+"541.title" = "颜色:";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Press to change opacity"; ObjectID = "543"; */
+"543.ibShadowedToolTip" = "点击更改透明度";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Highlight everything except the area"; ObjectID = "787"; */
+"787.ibShadowedToolTip" = "高亮此区域外的部分";
+
+/* Class = "NSButtonCell"; title = "Invert"; ObjectID = "788"; */
+"788.title" = "反相";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "795"; */
+"795.ibShadowedMultipleValuesPlaceholder" = "-";
+

@@ -1,0 +1,33 @@
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "42"; */
+"42.title" = "高度:";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "43"; */
+"43.title" = "宽度:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "112"; */
+"112.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Original Recording Dimensions"; ObjectID = "113"; */
+"113.title" = "常规录制尺寸";
+
+/* Class = "NSMenuItem"; title = "Maximum 1080p HD"; ObjectID = "114"; */
+"114.title" = "最大 1080p HD";
+
+/* Class = "NSMenuItem"; title = "Maximum 720p HD"; ObjectID = "115"; */
+"115.title" = "最大 720p HD";
+
+/* Class = "NSTextFieldCell"; title = "Canvas Dimensions:"; ObjectID = "117"; */
+"117.title" = "画布尺寸:";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "122"; */
+"122.title" = "自定义";
+
+/* Class = "NSMenuItem"; title = "Automatic Sizes"; ObjectID = "163"; */
+"163.title" = "自动尺寸";
+
+/* Class = "NSMenuItem"; title = "Widescreen (16:9)"; ObjectID = "169"; */
+"169.title" = "宽屏 (16:9)";
+
+/* Class = "NSMenuItem"; title = "Device Specific Sizes"; ObjectID = "170"; */
+"170.title" = "设备指定尺寸";
+

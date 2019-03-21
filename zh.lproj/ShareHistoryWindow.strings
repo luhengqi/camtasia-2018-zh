@@ -1,0 +1,207 @@
+/* Class = "NSWindow"; title = "Share History"; ObjectID = "1"; */
+"1.title" = "分享历史";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "31"; */
+"31.title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "Location"; ObjectID = "33"; */
+"33.title" = "位置";
+
+/* Class = "NSTextFieldCell"; title = "Time"; ObjectID = "37"; */
+"37.title" = "时间";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "86"; */
+"86.title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "Destination"; ObjectID = "102"; */
+"102.title" = "目的地";
+
+/* Class = "NSTextFieldCell"; title = "Time"; ObjectID = "109"; */
+"109.title" = "时间";
+
+/* Class = "NSTextFieldCell"; title = "Video URL:"; ObjectID = "113"; */
+"113.title" = "视频URL:";
+
+/* Class = "NSTextFieldCell"; title = "Embed Code:"; ObjectID = "115"; */
+"115.title" = "嵌入代码:";
+
+/* Class = "NSButtonCell"; title = "Visit"; ObjectID = "121"; */
+"121.title" = "访问";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "123"; */
+"123.title" = "复制";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "127"; */
+"127.title" = "复制";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "215"; */
+"215.title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "Destination"; ObjectID = "217"; */
+"217.title" = "目的地";
+
+/* Class = "NSTextFieldCell"; title = "Time"; ObjectID = "218"; */
+"218.title" = "时间";
+
+/* Class = "NSTextFieldCell"; title = "Video URL:"; ObjectID = "219"; */
+"219.title" = "视频URL:";
+
+/* Class = "NSTextFieldCell"; title = "Embed Code:"; ObjectID = "220"; */
+"220.title" = "嵌入代码:";
+
+/* Class = "NSButtonCell"; title = "Visit"; ObjectID = "223"; */
+"223.title" = "访问";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "224"; */
+"224.title" = "复制";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "225"; */
+"225.title" = "复制";
+
+/* Class = "NSTextFieldCell"; title = "No entries found"; ObjectID = "393"; */
+"393.title" = "未发现条目";
+
+/* Class = "NSTextFieldCell"; title = "Failed"; ObjectID = "397"; */
+"397.title" = "已失败";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "471"; */
+"471.title" = "尺寸";
+
+/* Class = "NSTextFieldCell"; title = "Duration"; ObjectID = "474"; */
+"474.title" = "时长";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "489"; */
+"489.title" = "大小";
+
+/* Class = "NSTextFieldCell"; title = "Duration"; ObjectID = "492"; */
+"492.title" = "时长";
+
+/* Class = "NSButtonCell"; title = "Retry"; ObjectID = "495"; */
+"495.title" = "重试";
+
+/* Class = "NSTextFieldCell"; title = "Time"; ObjectID = "508"; */
+"508.title" = "时间";
+
+/* Class = "NSTextFieldCell"; title = "Destination"; ObjectID = "509"; */
+"509.title" = "目的地";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "510"; */
+"510.title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "Failed"; ObjectID = "540"; */
+"540.title" = "已失败";
+
+/* Class = "NSButtonCell"; title = "Retry"; ObjectID = "564"; */
+"564.title" = "重试";
+
+/* Class = "NSMenuItem"; title = "Remove Entry"; ObjectID = "595"; */
+"595.title" = "移除条目";
+
+/* Class = "NSMenuItem"; title = "Remove All Entries"; ObjectID = "596"; */
+"596.title" = "移除所有条目";
+
+/* Class = "NSTextFieldCell"; title = "Uploading:"; ObjectID = "620"; */
+"620.title" = "正在上传:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "621"; */
+"621.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Social:"; ObjectID = "753"; */
+"753.title" = "社交媒体:";
+
+/* Class = "NSTextFieldCell"; title = "Social:"; ObjectID = "784"; */
+"784.title" = "社交媒体:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "791"; */
+"791.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Uploading:"; ObjectID = "792"; */
+"792.title" = "正在上传:";
+
+/* Class = "NSButtonCell"; title = "Visit"; ObjectID = "873"; */
+"873.title" = "访问";
+
+/* Class = "NSTextFieldCell"; title = "Video URL:"; ObjectID = "875"; */
+"875.title" = "视频URL:";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "876"; */
+"876.title" = "标题";
+
+/* Class = "NSTextFieldCell"; title = "Time"; ObjectID = "877"; */
+"877.title" = "时间";
+
+/* Class = "NSTextFieldCell"; title = "Duration"; ObjectID = "879"; */
+"879.title" = "时长";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "880"; */
+"880.title" = "大小";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "882"; */
+"882.title" = "复制";
+
+/* Class = "NSTextFieldCell"; title = "Destination"; ObjectID = "883"; */
+"883.title" = "目的地";
+
+/* Class = "NSTextFieldCell"; title = "Failed"; ObjectID = "887"; */
+"887.title" = "已失败";
+
+/* Class = "NSButtonCell"; title = "Retry"; ObjectID = "888"; */
+"888.title" = "重试";
+
+/* Class = "NSTextFieldCell"; title = "Uploading:"; ObjectID = "893"; */
+"893.title" = "正在上传:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "894"; */
+"894.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Social:"; ObjectID = "896"; */
+"896.title" = "社交媒体:";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "941"; */
+"941.title" = "复制";
+
+/* Class = "NSButtonCell"; title = "Visit"; ObjectID = "942"; */
+"942.title" = "访问";
+
+/* Class = "NSTextFieldCell"; title = "Video URL:"; ObjectID = "943"; */
+"943.title" = "视频URL:";
+
+/* Class = "NSTextFieldCell"; title = "Failed"; ObjectID = "GHL-J6-Jn6"; */
+"GHL-J6-Jn6.title" = "已失败";
+
+/* Class = "NSTextFieldCell"; title = "Social:"; ObjectID = "Hqw-vC-ZJZ"; */
+"Hqw-vC-ZJZ.title" = "社交媒体:";
+
+/* Class = "NSButtonCell"; title = "Copy"; ObjectID = "Yfk-1h-Hqq"; */
+"Yfk-1h-Hqq.title" = "复制";
+
+/* Class = "NSTextFieldCell"; title = "Destination"; ObjectID = "dBz-IL-5Jx"; */
+"dBz-IL-5Jx.title" = "目的地";
+
+/* Class = "NSTextFieldCell"; title = "Time"; ObjectID = "eJ4-d5-2SO"; */
+"eJ4-d5-2SO.title" = "时间";
+
+/* Class = "NSTextFieldCell"; title = "Title"; ObjectID = "g1A-A9-Scb"; */
+"g1A-A9-Scb.title" = "标题";
+
+/* Class = "NSButtonCell"; title = "Visit"; ObjectID = "g83-xe-pCR"; */
+"g83-xe-pCR.title" = "访问";
+
+/* Class = "NSButtonCell"; title = "Retry"; ObjectID = "hRU-lw-1xg"; */
+"hRU-lw-1xg.title" = "重试";
+
+/* Class = "NSTextFieldCell"; title = "Video URL:"; ObjectID = "hea-iP-ziD"; */
+"hea-iP-ziD.title" = "视频URL:";
+
+/* Class = "NSTextFieldCell"; title = "Uploading:"; ObjectID = "k6Y-uk-1ke"; */
+"k6Y-uk-1ke.title" = "正在上传:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "qvs-zh-qKq"; */
+"qvs-zh-qKq.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "wCu-WS-l8G"; */
+"wCu-WS-l8G.title" = "大小";
+
+/* Class = "NSTextFieldCell"; title = "Duration"; ObjectID = "xjn-en-1CD"; */
+"xjn-en-1CD.title" = "目的地";
+

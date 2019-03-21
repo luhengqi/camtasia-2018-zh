@@ -1,0 +1,93 @@
+/* Class = "NSWindow"; title = "Share to Screencast.com"; ObjectID = "1"; */
+"1.title" = "Auf Screencast.com veröffentlichen";
+
+/* Class = "NSTextFieldCell"; title = "Email:"; ObjectID = "9"; */
+"9.title" = "E-Mail:";
+
+/* Class = "NSTextFieldCell"; title = "Password:"; ObjectID = "11"; */
+"11.title" = "Kennwort:";
+
+/* Class = "NSButtonCell"; title = "Save password in Keychain"; ObjectID = "17"; */
+"17.title" = "In Schlüsselbund speichern";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "19"; */
+"19.title" = "Anmelden";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "21"; */
+"21.title" = "Abbrechen";
+
+/* Class = "NSTabViewItem"; label = "Tab"; ObjectID = "77"; */
+"77.label" = "Tab";
+
+/* Class = "NSTabViewItem"; label = "View"; ObjectID = "78"; */
+"78.label" = "Ansicht";
+
+/* Class = "NSTextFieldCell"; title = "Signed in as:"; ObjectID = "84"; */
+"84.title" = "Angemeldet als:";
+
+/* Class = "NSTextFieldCell"; title = "email@wrong.com"; ObjectID = "86"; */
+"86.title" = "email@wrong.com";
+
+/* Class = "NSTextFieldCell"; title = "New to Screencast.com?"; ObjectID = "163"; */
+"163.title" = "Neu bei Screencast.com?";
+
+/* Class = "NSButtonCell"; title = "Create New Account"; ObjectID = "165"; */
+"165.title" = "Neues Konto erstellen";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "173"; */
+"173.title" = "Titel:";
+
+/* Class = "NSButtonCell"; title = "Sign Out"; ObjectID = "210"; */
+"210.title" = "Abmelden";
+
+/* Class = "NSTextFieldCell"; title = "Forgot your password?"; ObjectID = "217"; */
+"217.title" = "Kennwort vergessen?";
+
+/* Class = "NSButtonCell"; title = "Create table of contents from markers"; ObjectID = "220"; */
+"220.title" = "Inhaltsverzeichnis aus Markierungen erstellen";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset quality to last saved setting"; ObjectID = "226"; */
+"226.ibShadowedToolTip" = "Qualität auf letzte gespeicherte Einstellung zurücksetzen";
+
+/* Class = "NSTextFieldCell"; title = "Higher quality"; ObjectID = "230"; */
+"230.title" = "Höhere Qualität";
+
+/* Class = "NSTextFieldCell"; title = "Smaller file size"; ObjectID = "231"; */
+"231.title" = "Kleinere Datei";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "259"; */
+"259.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Closed captions"; ObjectID = "260"; */
+"260.title" = "Geschlossene Untertitel";
+
+/* Class = "NSMenuItem"; title = "Under video captions"; ObjectID = "261"; */
+"261.title" = "Untertitel unterhalb des Videos";
+
+/* Class = "NSTextFieldCell"; title = "Caption style:"; ObjectID = "269"; */
+"269.title" = "Untertitelstil:";
+
+/* Class = "NSTextFieldCell"; title = "Recommended"; ObjectID = "277"; */
+"277.title" = "Empfohlen";
+
+/* Class = "NSTextFieldCell"; title = "Folder:"; ObjectID = "283"; */
+"283.title" = "Ordner:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "286"; */
+"286.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "287"; */
+"287.title" = "Objekt 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "288"; */
+"288.title" = "Objekt 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "289"; */
+"289.title" = "Objekt 3";
+
+/* Class = "NSButtonCell"; title = "Options..."; ObjectID = "xjG-kg-1w6"; */
+"xjG-kg-1w6.title" = "Optionen...";
+
+/* Class = "NSButtonCell"; title = "Include Quiz"; ObjectID = "zFS-7s-XGv"; */
+"zFS-7s-XGv.title" = "Quiz einbinden";
+

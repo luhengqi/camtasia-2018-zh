@@ -1,0 +1,78 @@
+/* Class = "NSTextFieldCell"; title = "Click Scope"; ObjectID = "33"; */
+"33.title" = "点击范围";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "316"; */
+"316.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "320"; */
+"320.title" = "颜色:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "330"; */
+"330.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "332"; */
+"332.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change scope transparency"; ObjectID = "332"; */
+"332.ibShadowedToolTip" = "拖曳以更改范围透明度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "edge edit field"; ObjectID = "333"; */
+"333.ibExternalAccessibilityDescription" = "边缘编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "337"; */
+"337.title" = "透明度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset size to default"; ObjectID = "368"; */
+"368.ibShadowedToolTip" = "重置尺寸到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "370"; */
+"370.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make scope larger or smaller"; ObjectID = "370"; */
+"370.ibShadowedToolTip" = "拖曳以更改范围大小";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "radius edit field"; ObjectID = "371"; */
+"371.ibExternalAccessibilityDescription" = "半径编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "375"; */
+"375.title" = "尺寸:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset duration to default"; ObjectID = "403"; */
+"403.ibShadowedToolTip" = "重置时长到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "preClickDuration slider"; ObjectID = "405"; */
+"405.ibExternalAccessibilityDescription" = "预点击时长滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change effect time"; ObjectID = "405"; */
+"405.ibShadowedToolTip" = "拖曳以更改特效时间";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "preClickDuration edit field"; ObjectID = "406"; */
+"406.ibExternalAccessibilityDescription" = "预点击时长编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "419"; */
+"419.title" = "时长:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Display cursor effect before mouse click"; ObjectID = "565"; */
+"565.ibShadowedToolTip" = "在鼠标点击之前显示鼠标特效";
+
+/* Class = "NSButtonCell"; title = "Show effect before click"; ObjectID = "566"; */
+"566.title" = "在点击之前显示特效";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "577"; */
+"577.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset duration to default"; ObjectID = "582"; */
+"582.ibShadowedToolTip" = "重置时长到默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "606"; */
+"606.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "607"; */
+"607.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "608"; */
+"608.ibShadowedMultipleValuesPlaceholder" = "-";
+

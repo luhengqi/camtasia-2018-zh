@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1 - YouTubeHD2</key>
+	<dict>
+		<key>type</key>
+		<string>widescreen</string>
+		<key>title</key>
+		<string>1080p HD</string>
+		<key>width</key>
+		<integer>1920</integer>
+		<key>height</key>
+		<string>1080</string>
+	</dict>
+	<key>2 - YouTube HD</key>
+	<dict>
+		<key>comment</key>
+		<string>ideal für YouTube</string>
+		<key>type</key>
+		<string>widescreen</string>
+		<key>title</key>
+		<string>720p HD</string>
+		<key>width</key>
+		<integer>1280</integer>
+		<key>height</key>
+		<integer>720</integer>
+	</dict>
+	<key>3 - Web</key>
+	<dict>
+		<key>type</key>
+		<string>widescreen</string>
+		<key>title</key>
+		<string>480p SD</string>
+		<key>width</key>
+		<string>854</string>
+		<key>height</key>
+		<string>480</string>
+	</dict>
+	<key>4 - iPhone 5</key>
+	<dict>
+		<key>type</key>
+		<string>device</string>
+		<key>title</key>
+		<string>iPhone 5</string>
+		<key>width</key>
+		<integer>1136</integer>
+		<key>height</key>
+		<integer>640</integer>
+	</dict>
+	<key>5 - iPhone 6</key>
+	<dict>
+		<key>type</key>
+		<string>device</string>
+		<key>title</key>
+		<string>iPhone 6</string>
+		<key>width</key>
+		<integer>1334</integer>
+		<key>height</key>
+		<integer>750</integer>
+	</dict>
+	<key>6 - iPhone 6 plus</key>
+	<dict>
+		<key>type</key>
+		<string>device</string>
+		<key>title</key>
+		<string>iPhone 6 Plus</string>
+		<key>width</key>
+		<integer>1920</integer>
+		<key>height</key>
+		<real>1080</real>
+	</dict>
+	<key>7 - iPad</key>
+	<dict>
+		<key>type</key>
+		<string>device</string>
+		<key>title</key>
+		<string>iPad 2 und mini</string>
+		<key>width</key>
+		<string>1024</string>
+		<key>height</key>
+		<string>768</string>
+	</dict>
+	<key>8 - iPadAir</key>
+	<dict>
+		<key>type</key>
+		<string>device</string>
+		<key>title</key>
+		<string>iPad Air und mini m. Retina</string>
+		<key>width</key>
+		<string>2048</string>
+		<key>height</key>
+		<string>1536</string>
+	</dict>
+</dict>
+</plist>

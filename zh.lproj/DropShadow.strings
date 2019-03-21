@@ -1,0 +1,120 @@
+/* Class = "NSView"; ibShadowedToolTip = "Click to reset all properties in this panel."; ObjectID = "12"; */
+"12.ibShadowedToolTip" = "点击重置此面板中的所有属性。";
+
+/* Class = "NSTextFieldCell"; title = "Drop Shadow"; ObjectID = "33"; */
+"33.title" = "投影";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Blur:"; ObjectID = "105"; */
+"105.title" = "模糊:";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "107"; */
+"107.title" = "颜色:";
+
+/* Class = "NSTextFieldCell"; title = "Offset:"; ObjectID = "119"; */
+"119.title" = "偏移:";
+
+/* Class = "NSTextFieldCell"; title = "Angle:"; ObjectID = "127"; */
+"127.title" = "角度:";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "144"; */
+"144.title" = "透明度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset angle to default"; ObjectID = "184"; */
+"184.ibShadowedToolTip" = "重置角度到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset offset to default"; ObjectID = "186"; */
+"186.ibShadowedToolTip" = "重置偏移到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset blur to default"; ObjectID = "188"; */
+"188.ibShadowedToolTip" = "重置模糊到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "190"; */
+"190.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "192"; */
+"192.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSView"; ibShadowedToolTip = "Turn to change shadow direction"; ObjectID = "223"; */
+"223.ibShadowedToolTip" = "更改投影方向";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "offset slider"; ObjectID = "256"; */
+"256.ibExternalAccessibilityDescription" = "偏移滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change shadow distance"; ObjectID = "256"; */
+"256.ibShadowedToolTip" = "拖曳以更改投影距离";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "blur slider"; ObjectID = "261"; */
+"261.ibExternalAccessibilityDescription" = "模糊滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change shadow definition"; ObjectID = "261"; */
+"261.ibShadowedToolTip" = "拖曳以更改投影清晰度";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "265"; */
+"265.ibExternalAccessibilityDescription" = "透明度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change shadow transparency"; ObjectID = "265"; */
+"265.ibShadowedToolTip" = "拖曳以更改投影透明度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "offset text field"; ObjectID = "284"; */
+"284.ibExternalAccessibilityDescription" = "偏移文本字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "offset text field"; ObjectID = "294"; */
+"294.ibExternalAccessibilityDescription" = "偏移文本字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity text field"; ObjectID = "301"; */
+"301.ibExternalAccessibilityDescription" = "透明度文本字段";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "415"; */
+"415.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "428"; */
+"428.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "429"; */
+"429.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "430"; */
+"430.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "431"; */
+"431.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "438"; */
+"438.title" = "淡出:";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "439"; */
+"439.title" = "淡入:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "454"; */
+"454.ibShadowedToolTip" = "重置淡入到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "458"; */
+"458.ibShadowedToolTip" = "重置淡出到默认";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Angle text field"; ObjectID = "475"; */
+"475.ibExternalAccessibilityDescription" = "角度文本字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "To change the angle of the drop shadow for the selected media, type a new value."; ObjectID = "475"; */
+"475.ibShadowedToolTip" = "要更改选中媒体的投影方向只需输入一个新的数值。";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "506"; */
+"506.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "509"; */
+"509.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "513"; */
+"513.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "515"; */
+"515.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "516"; */
+"516.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "517"; */
+"517.ibShadowedMultipleValuesPlaceholder" = "-";
+

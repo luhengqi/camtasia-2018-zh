@@ -1,0 +1,48 @@
+/* Class = "NSTextFieldCell"; title = "Pitch"; ObjectID = "33"; */
+"33.title" = "音调";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Pitch:"; ObjectID = "107"; */
+"107.title" = "音调:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset pitch to default"; ObjectID = "145"; */
+"145.ibShadowedToolTip" = "重置音调到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Pitch slider"; ObjectID = "201"; */
+"201.ibExternalAccessibilityDescription" = "音调滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change the audio frequency"; ObjectID = "201"; */
+"201.ibShadowedToolTip" = "拖曳以更改成音频率";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Pitch edit field"; ObjectID = "206"; */
+"206.ibExternalAccessibilityDescription" = "音调编辑字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "226"; */
+"226.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "227"; */
+"227.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "228"; */
+"228.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "229"; */
+"229.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "236"; */
+"236.title" = "淡出:";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "237"; */
+"237.title" = "淡入:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "252"; */
+"252.ibShadowedToolTip" = "重置淡入到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "256"; */
+"256.ibShadowedToolTip" = "重置淡出到默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "D3b-DD-yZU"; */
+"D3b-DD-yZU.ibShadowedMultipleValuesPlaceholder" = "-";
+

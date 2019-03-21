@@ -1,0 +1,153 @@
+/* Class = "NSWindow"; title = "Advanced Export Options"; ObjectID = "1"; */
+"1.title" = "高级导出选项";
+
+/* Class = "NSMenuItem"; title = "Baseline (Larger file, widest compatibility)"; ObjectID = "1en-Kk-WXB"; */
+"1en-Kk-WXB.title" = "基线 (更大文件, 更好的兼容性)";
+
+/* Class = "NSTextFieldCell"; title = "30"; ObjectID = "2rV-aR-0Pc"; */
+"2rV-aR-0Pc.title" = "30";
+
+/* Class = "NSButtonCell"; title = "Enable smoothing"; ObjectID = "9ho-zk-X6j"; */
+"9ho-zk-X6j.title" = "开启平滑";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "12"; */
+"12.title" = "确认";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "14"; */
+"14.title" = "取消";
+
+/* Class = "NSBox"; title = "Video"; ObjectID = "41"; */
+"41.title" = "视频";
+
+/* Class = "NSBox"; title = "Audio"; ObjectID = "42"; */
+"42.title" = "音频";
+
+/* Class = "NSTextFieldCell"; title = "Frame rate:"; ObjectID = "52"; */
+"52.title" = "帧率:";
+
+/* Class = "NSButtonCell"; title = "Encode audio"; ObjectID = "54"; */
+"54.title" = "编码音频";
+
+/* Class = "NSButtonCell"; title = "Custom"; ObjectID = "55U-3T-1UT"; */
+"55U-3T-1UT.title" = "自定义";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "67"; */
+"67.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "68"; */
+"68.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "69"; */
+"69.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "70"; */
+"70.title" = "条目 3";
+
+/* Class = "NSTextFieldCell"; title = "Dimensions:"; ObjectID = "78"; */
+"78.title" = "尺寸:";
+
+/* Class = "NSButtonCell"; title = "Preserve aspect ratio using"; ObjectID = "80"; */
+"80.title" = "保持纵横比使用";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "84"; */
+"84.title" = "其他视图";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "92"; */
+"92.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "fit within size"; ObjectID = "95"; */
+"95.title" = "自适应尺寸";
+
+/* Class = "NSMenuItem"; title = "Current"; ObjectID = "117"; */
+"117.title" = "当前";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "128"; */
+"128.title" = "宽度:";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "130"; */
+"130.title" = "高度:";
+
+/* Class = "NSTextFieldCell"; title = "Profile:"; ObjectID = "Awh-vf-uJP"; */
+"Awh-vf-uJP.title" = "标准:";
+
+/* Class = "NSTextFieldCell"; title = "320"; ObjectID = "FsQ-14-hJE"; */
+"FsQ-14-hJE.title" = "320";
+
+/* Class = "NSButtonCell"; title = "Custom"; ObjectID = "Gkn-9g-QLp"; */
+"Gkn-9g-QLp.title" = "自定义";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "IDf-Di-MGt"; */
+"IDf-Di-MGt.title" = "其他视图";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Ia1-at-xde"; */
+"Ia1-at-xde.title" = "盒状";
+
+/* Class = "NSTextFieldCell"; title = "Optimized for:"; ObjectID = "Iac-sq-S91"; */
+"Iac-sq-S91.title" = "优化为:";
+
+/* Class = "NSTextFieldCell"; title = "Keyframe Rate:"; ObjectID = "P5f-j3-ueP"; */
+"P5f-j3-ueP.title" = "帧频:";
+
+/* Class = "NSMenuItem"; title = "Basic"; ObjectID = "T8n-yP-Sqd"; */
+"T8n-yP-Sqd.title" = "基本";
+
+/* Class = "NSMenuItem"; title = "Download"; ObjectID = "Tu9-2h-mCW"; */
+"Tu9-2h-mCW.title" = "下载";
+
+/* Class = "NSTextFieldCell"; title = "64"; ObjectID = "Uuz-pt-9Bk"; */
+"Uuz-pt-9Bk.title" = "64";
+
+/* Class = "NSMenuItem"; title = "Main (Playback on most devices)"; ObjectID = "W1Q-Mb-Axb"; */
+"W1Q-Mb-Axb.title" = "主要 (在大多数设备上播放)";
+
+/* Class = "NSTextFieldCell"; title = "30,000"; ObjectID = "Xiy-Y6-SWC"; */
+"Xiy-Y6-SWC.title" = "30.000";
+
+/* Class = "NSTextFieldCell"; title = "frames"; ObjectID = "Y4c-yR-QgI"; */
+"Y4c-yR-QgI.title" = "帧";
+
+/* Class = "NSMenuItem"; title = "High (Smallest file, playback on modern devices)"; ObjectID = "Zo4-xK-CIk"; */
+"Zo4-xK-CIk.title" = "高 (最小文件, 在最新设备上播放)";
+
+/* Class = "NSMenuItem"; title = "Streaming"; ObjectID = "ZvC-QA-zVC"; */
+"ZvC-QA-zVC.title" = "流媒体";
+
+/* Class = "NSTextFieldCell"; title = "Data Rate:"; ObjectID = "adD-NG-Xfr"; */
+"adD-NG-Xfr.title" = "码率:";
+
+/* Class = "NSTextFieldCell"; title = "Entropy:"; ObjectID = "bC8-05-F9W"; */
+"bC8-05-F9W.title" = "压缩:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "bmD-KK-ffS"; */
+"bmD-KK-ffS.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "czw-J0-Pnc"; */
+"czw-J0-Pnc.title" = "条目 1";
+
+/* Class = "NSTextFieldCell"; title = "Data Rate:"; ObjectID = "dAL-Db-N4p"; */
+"dAL-Db-N4p.title" = "码率:";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "dnR-Ve-LQZ"; */
+"dnR-Ve-LQZ.title" = "单选";
+
+/* Class = "NSButtonCell"; title = "Automatic"; ObjectID = "fKd-y1-Fb7"; */
+"fKd-y1-Fb7.title" = "自动";
+
+/* Class = "NSTextFieldCell"; title = "kbits/sec"; ObjectID = "gkY-xn-Zmv"; */
+"gkY-xn-Zmv.title" = "KBit/s";
+
+/* Class = "NSTextFieldCell"; title = "64"; ObjectID = "iID-8f-0l0"; */
+"iID-8f-0l0.title" = "64";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "kOG-4s-h0Y"; */
+"kOG-4s-h0Y.title" = "单选";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "nKu-Uu-evf"; */
+"nKu-Uu-evf.title" = "条目 2";
+
+/* Class = "NSButtonCell"; title = "Automatic"; ObjectID = "nRN-aw-E2e"; */
+"nRN-aw-E2e.title" = "自动";
+
+/* Class = "NSTextFieldCell"; title = "kbits/sec"; ObjectID = "rfR-XL-Tie"; */
+"rfR-XL-Tie.title" = "KBit/s";
+

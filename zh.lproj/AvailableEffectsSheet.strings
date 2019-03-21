@@ -1,0 +1,18 @@
+/* Class = "NSWindow"; title = "Available Effects"; ObjectID = "1"; */
+"1.title" = "可用特效";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
+"11.title" = "文字单元格";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "13"; */
+"13.title" = "确认";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "21"; */
+"21.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Ignore locked tracks"; ObjectID = "Hlg-dY-FNf"; */
+"Hlg-dY-FNf.title" = "忽略已锁定轨道";
+
+/* Class = "NSButtonCell"; title = "Ignore hidden tracks"; ObjectID = "vR2-ld-0OS"; */
+"vR2-ld-0OS.title" = "忽略隐藏轨道";
+

@@ -1,0 +1,99 @@
+/* Class = "NSTextFieldCell"; title = "Cursor Highlight"; ObjectID = "33"; */
+"33.title" = "鼠标高亮";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "105"; */
+"105.title" = "尺寸:";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "107"; */
+"107.title" = "颜色:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset size to default"; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "重置尺寸到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "134"; */
+"134.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "157"; */
+"157.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make highlight area larger or smaller"; ObjectID = "157"; */
+"157.ibShadowedToolTip" = "拖曳以调整高亮区域大小";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "radius edit field"; ObjectID = "161"; */
+"161.ibExternalAccessibilityDescription" = "半径编辑字段";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset blur to default"; ObjectID = "204"; */
+"204.ibShadowedToolTip" = "重置模糊到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "206"; */
+"206.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to cloud or define highlight edge"; ObjectID = "206"; */
+"206.ibShadowedToolTip" = "拖曳以虚化或者定义高亮边缘";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "edge edit field"; ObjectID = "207"; */
+"207.ibExternalAccessibilityDescription" = "边缘编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Softness:"; ObjectID = "211"; */
+"211.title" = "柔化:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "259"; */
+"259.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "261"; */
+"261.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change highlight transparency"; ObjectID = "261"; */
+"261.ibShadowedToolTip" = "拖曳以更改高亮透明度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "edge edit field"; ObjectID = "262"; */
+"262.ibExternalAccessibilityDescription" = "边缘编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "266"; */
+"266.title" = "透明度:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "335"; */
+"335.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "336"; */
+"336.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "337"; */
+"337.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "338"; */
+"338.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "345"; */
+"345.title" = "淡出:";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "346"; */
+"346.title" = "淡入:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "397"; */
+"397.ibShadowedToolTip" = "重置淡出到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "401"; */
+"401.ibShadowedToolTip" = "重置淡入到默认";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "411"; */
+"411.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "431"; */
+"431.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "432"; */
+"432.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "433"; */
+"433.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "434"; */
+"434.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "435"; */
+"435.ibShadowedMultipleValuesPlaceholder" = "-";
+

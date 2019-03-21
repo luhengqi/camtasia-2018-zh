@@ -1,0 +1,18 @@
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "tableView"; ObjectID = "28"; */
+"28.ibExternalAccessibilityDescription" = "表格视图";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "35"; */
+"35.title" = "文字单元格";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "122"; */
+"122.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Add to Selected Media"; ObjectID = "142"; */
+"142.title" = "添加到选中媒体";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "e4s-tv-DBX"; */
+"e4s-tv-DBX.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "<Default Title>"; ObjectID = "tWR-Ym-7i7"; */
+"tWR-Ym-7i7.title" = "<默认标题>";
+

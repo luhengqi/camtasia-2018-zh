@@ -1,0 +1,30 @@
+/* Class = "NSButtonCell"; title = "Produce without Watermark"; ObjectID = "NTK-KU-mFT"; */
+"NTK-KU-mFT.title" = "生成无水印";
+
+/* Class = "NSToolbarItem"; label = "Toolbar Item"; ObjectID = "Vgy-TM-WSn"; */
+"Vgy-TM-WSn.label" = "Symbolleistenobjekt";
+
+/* Class = "NSToolbarItem"; paletteLabel = "Toolbar Item"; ObjectID = "Vgy-TM-WSn"; */
+"Vgy-TM-WSn.paletteLabel" = "Symbolleistenobjekt";
+
+/* Class = "NSTextFieldCell"; title = "Full Version"; ObjectID = "dKm-Ng-zuQ"; */
+"dKm-Ng-zuQ.title" = "全功能版本";
+
+/* Class = "NSTextFieldCell"; title = "or"; ObjectID = "eQ1-Fu-qCz"; */
+"eQ1-Fu-qCz.title" = "或者";
+
+/* Class = "NSTextFieldCell"; title = "Content created with the trial version of Camtasia will be watermarked and is not intended for commercial purposes"; ObjectID = "hSK-uc-Lf9"; */
+"hSK-uc-Lf9.title" = "使用Camtasia试用版创建的内容将会带有水印无法用于商业用途。";
+
+/* Class = "NSTextFieldCell"; title = "Trial Version"; ObjectID = "hZN-yM-bZ1"; */
+"hZN-yM-bZ1.title" = "试用版本";
+
+/* Class = "NSTextFieldCell"; title = "Purchase a full license to export unlimited videos without a watermark along with full rights to distribute all content created with Camtasia."; ObjectID = "osk-JK-yrK"; */
+"osk-JK-yrK.title" = "购买一个Camtasia的全功能授权以导出无水印视频任意发行。";
+
+/* Class = "NSButtonCell"; title = "Produce with Watermark"; ObjectID = "pY8-Oh-c0f"; */
+"pY8-Oh-c0f.title" = "生成带水印";
+
+/* Class = "NSTextFieldCell"; placeholderString = "enter key: xxxxx-xxxxx-xxxxx-xxxxx-xxxxx"; ObjectID = "zwH-u6-Uwf"; */
+"zwH-u6-Uwf.placeholderString" = "输入密钥: xxxxx-xxxxx-xxxxx-xxxxx-xxxxx";
+

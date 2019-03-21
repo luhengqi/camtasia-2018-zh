@@ -1,0 +1,15 @@
+/* Class = "NSButtonCell"; title = "Add Quiz to Selected Media"; ObjectID = "Fsk-X9-pTJ"; */
+"Fsk-X9-pTJ.title" = "添加测验到选中媒体";
+
+/* Class = "NSButtonCell"; title = "Add Quiz to Timeline"; ObjectID = "MIo-3v-nPb"; */
+"MIo-3v-nPb.title" = "添加测验到时间轴";
+
+/* Class = "NSMenuItem"; title = "Interactivity Help"; ObjectID = "OfC-ny-9U4"; */
+"OfC-ny-9U4.title" = "交互帮助";
+
+/* Class = "NSTextFieldCell"; title = "Interactivity"; ObjectID = "PSy-VX-I7x"; */
+"PSy-VX-I7x.title" = "交互功能";
+
+/* Class = "NSButtonCell"; title = "Learn about Interactivity"; ObjectID = "p1b-N4-vom"; */
+"p1b-N4-vom.title" = "学习什么是交互功能";
+

@@ -1,0 +1,12 @@
+/* Class = "NSWindow"; title = "Please Select a Language"; ObjectID = "1"; */
+"1.title" = "请选择一个语言";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "11"; */
+"11.title" = "文字单元格";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "13"; */
+"13.title" = "确认";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "21"; */
+"21.title" = "取消";
+

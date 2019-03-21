@@ -1,0 +1,99 @@
+/* Class = "NSTextFieldCell"; title = "Cursor Replace"; ObjectID = "60n-h0-ueu"; */
+"60n-h0-ueu.title" = "鼠标替换";
+
+/* Class = "NSTextFieldCell"; title = "Path:"; ObjectID = "105"; */
+"105.title" = "路径:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset replacement cursor path to default"; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "重置替换鼠标路径到默认";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "replacement cursor filepath edit field"; ObjectID = "161"; */
+"161.ibExternalAccessibilityDescription" = "替换鼠标文件路径编辑字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter the filename for a replacement cursor"; ObjectID = "161"; */
+"161.ibShadowedToolTip" = "输入一个替换鼠标的文件名";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "reset cursor horizontal hotspot  button"; ObjectID = "188"; */
+"188.ibExternalAccessibilityDescription" = "重置鼠标横向热点";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset cursor hotspot horizontal position to default"; ObjectID = "188"; */
+"188.ibShadowedToolTip" = "重置鼠标横向热点位置到默认";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "cursor hotspot horizontal position edit field"; ObjectID = "191"; */
+"191.ibExternalAccessibilityDescription" = "鼠标横向热点位置编辑字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter a number to change the cursor hotspot horizontal position "; ObjectID = "191"; */
+"191.ibShadowedToolTip" = "输入一个数字更改鼠标横向热点位置 ";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "reset cursor vertical hotspot  button"; ObjectID = "203"; */
+"203.ibExternalAccessibilityDescription" = "重置鼠标纵向热点按钮";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset cursor vertical hotspot position to default"; ObjectID = "203"; */
+"203.ibShadowedToolTip" = "重置鼠标纵向热点位置到默认";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "cursor hotspot vertical position edit field"; ObjectID = "206"; */
+"206.ibExternalAccessibilityDescription" = "鼠标纵向热点位置编辑字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Enter a number to change the cursor hotspot vertical position "; ObjectID = "206"; */
+"206.ibShadowedToolTip" = "输入一个数字更改鼠标纵向热点位置 ";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "ease effect in edit field"; ObjectID = "410"; */
+"410.ibExternalAccessibilityDescription" = "淡入效果编辑字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "410"; */
+"410.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "ease effect out edit field"; ObjectID = "411"; */
+"411.ibExternalAccessibilityDescription" = "淡出效果编辑字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "411"; */
+"411.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSStepper"; ibExternalAccessibilityDescription = "ease effect in stepper"; ObjectID = "412"; */
+"412.ibExternalAccessibilityDescription" = "淡入效果步长";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "412"; */
+"412.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSStepper"; ibExternalAccessibilityDescription = "ease effect out stepper"; ObjectID = "413"; */
+"413.ibExternalAccessibilityDescription" = "淡出效果步长";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "413"; */
+"413.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "420"; */
+"420.title" = "淡出:";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "421"; */
+"421.title" = "淡入:";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "reset ease in button"; ObjectID = "436"; */
+"436.ibExternalAccessibilityDescription" = "重置淡入按钮";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "436"; */
+"436.ibShadowedToolTip" = "重置淡入到默认";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "reset ease out button"; ObjectID = "440"; */
+"440.ibExternalAccessibilityDescription" = "重置淡出按钮";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "440"; */
+"440.ibShadowedToolTip" = "重置淡出到默认";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Replacement cursor browse button"; ObjectID = "NRn-or-gNe"; */
+"NRn-or-gNe.ibExternalAccessibilityDescription" = "替换鼠标浏览按钮";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Browse to find a replacement cursor or drop a cursor image file here"; ObjectID = "NRn-or-gNe"; */
+"NRn-or-gNe.ibShadowedToolTip" = "浏览寻找一个替换鼠标文件或者拖曳一个鼠标图片到这里。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "Vrk-nG-8V4"; */
+"Vrk-nG-8V4.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Hotspot:"; ObjectID = "bGR-n3-aru"; */
+"bGR-n3-aru.title" = "热点:";
+
+/* Class = "NSTextFieldCell"; title = "Y:"; ObjectID = "eNv-Fn-nXa"; */
+"eNv-Fn-nXa.title" = "Y:";
+
+/* Class = "NSTextFieldCell"; title = "X:"; ObjectID = "qj4-m5-jDS"; */
+"qj4-m5-jDS.title" = "X:";
+

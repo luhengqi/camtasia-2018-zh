@@ -1,0 +1,32 @@
+/* Class = "NSWindow"; title = "Preview"; ObjectID = "5"; */
+"5.title" = "预览";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next frame"; ObjectID = "7HF-qH-41A"; */
+"7HF-qH-41A.ibShadowedToolTip" = "下一帧";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next media"; ObjectID = "8PA-90-T6W"; */
+"8PA-90-T6W.ibShadowedToolTip" = "下一个媒体";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous frame"; ObjectID = "FRR-w0-PUb"; */
+"FRR-w0-PUb.ibShadowedToolTip" = "上一帧";
+
+/* Class = "NSButton"; ibShadowedToolTip = "(!) Implemented programmatically"; ObjectID = "KNt-Z5-PbO"; */
+"KNt-Z5-PbO.ibShadowedToolTip" = "(!) Programmatisch implementiert";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Canvas expands to full screen. Press Esc to exit."; ObjectID = "MKi-Dm-jK9"; */
+"MKi-Dm-jK9.ibShadowedToolTip" = "画布扩展到全屏。按ESC退出。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous media"; ObjectID = "ZZ2-vj-RDs"; */
+"ZZ2-vj-RDs.ibShadowedToolTip" = "预览媒体";
+
+/* Class = "NSButtonCell"; title = "Properties"; ObjectID = "a73-iI-vNu"; */
+"a73-iI-vNu.title" = "属性";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Create a sharable video from media, images, and effects on timeline."; ObjectID = "bRZ-Th-JWO"; */
+"bRZ-Th-JWO.ibShadowedToolTip" = "从时间轴上的媒体，图片和特效创建一个可分享的视频。";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "jwI-5v-csT"; */
+"jwI-5v-csT.title" = "分享";
+
+/* Class = "NSTextFieldCell"; title = "00:00:00;00 / 00:00:00 "; ObjectID = "y8w-3b-cKe"; */
+"y8w-3b-cKe.title" = "00:00:00;00 / 00:00:00 ";

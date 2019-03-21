@@ -1,0 +1,57 @@
+/* Class = "NSButtonCell"; title = "Start Recording"; ObjectID = "8TE-Ky-iZ0"; */
+"8TE-Ky-iZ0.title" = "开始录制";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select microphone"; ObjectID = "951"; */
+"951.ibShadowedToolTip" = "选择麦克风";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "953"; */
+"953.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "954"; */
+"954.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "955"; */
+"955.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "956"; */
+"956.title" = "条目 3";
+
+/* Class = "NSMenu"; title = "ContextualMenu"; ObjectID = "967"; */
+"967.title" = "上下文菜单";
+
+/* Class = "NSMenuItem"; title = "Recorder Help"; ObjectID = "968"; */
+"968.title" = "录制器帮助";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "Lg5-54-TM7"; */
+"Lg5-54-TM7.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "OUO-qg-46M"; */
+"OUO-qg-46M.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "P6v-Q7-iTC"; */
+"P6v-Q7-iTC.title" = "条目 1";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "SLh-BN-MFW"; */
+"SLh-BN-MFW.title" = "盒状";
+
+/* Class = "NSTextFieldCell"; title = "Need System Audio"; ObjectID = "Un5-69-dba"; */
+"Un5-69-dba.title" = "需要系统音频";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "YjX-H6-ecD"; */
+"YjX-H6-ecD.title" = "条目 3";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "gN9-AZ-Sti"; */
+"gN9-AZ-Sti.title" = "条目 3";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "idf-bc-Mme"; */
+"idf-bc-Mme.title" = "条目 2";
+
+/* Class = "NSTextFieldCell"; title = "System Audio"; ObjectID = "lQ3-kA-kkC"; */
+"lQ3-kA-kkC.title" = "系统音频";
+
+/* Class = "NSTextFieldCell"; title = "Inactive"; ObjectID = "ld5-NT-fPh"; */
+"ld5-NT-fPh.title" = "未激活";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "zfP-bq-4Xn"; */
+"zfP-bq-4Xn.title" = "条目 1";
+

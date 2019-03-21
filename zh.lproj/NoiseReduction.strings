@@ -1,0 +1,42 @@
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "0dT-g6-ryv"; */
+"0dT-g6-ryv.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "24t-n1-bNV"; */
+"24t-n1-bNV.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "NSTextFieldCell"; title = "Noise Removal"; ObjectID = "33"; */
+"33.title" = "降噪";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Reduction:"; ObjectID = "105"; */
+"105.title" = "降低:";
+
+/* Class = "NSTextFieldCell"; title = "Sensitivity:"; ObjectID = "107"; */
+"107.title" = "敏感度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset threshold to default"; ObjectID = "145"; */
+"145.ibShadowedToolTip" = "重置阈值到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset amount to default"; ObjectID = "147"; */
+"147.ibShadowedToolTip" = "重置数量到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Amount slider"; ObjectID = "239"; */
+"239.ibExternalAccessibilityDescription" = "数量滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change volume reduction level"; ObjectID = "239"; */
+"239.ibShadowedToolTip" = "拖曳以更改降噪层级";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Threshold slider"; ObjectID = "241"; */
+"241.ibExternalAccessibilityDescription" = "阈值滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change the offset"; ObjectID = "241"; */
+"241.ibShadowedToolTip" = "拖曳以更改偏移";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Amount edit field"; ObjectID = "248"; */
+"248.ibExternalAccessibilityDescription" = "数量编辑字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Threshold edit field"; ObjectID = "250"; */
+"250.ibExternalAccessibilityDescription" = "阈值编辑字段";
+

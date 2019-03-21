@@ -1,0 +1,42 @@
+/* Class = "NSMenuItem"; title = "Stylized"; ObjectID = "1NP-V5-5cj"; */
+"1NP-V5-5cj.title" = "格式化";
+
+/* Class = "NSMenuItem"; title = "Object"; ObjectID = "6OI-7E-smQ"; */
+"6OI-7E-smQ.title" = "对象";
+
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "tableView"; ObjectID = "28"; */
+"28.ibExternalAccessibilityDescription" = "表格视图";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "35"; */
+"35.title" = "文字单元格";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "122"; */
+"122.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Add to Selected Media"; ObjectID = "142"; */
+"142.title" = "添加到选中媒体";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "CMd-G8-7e7"; */
+"CMd-G8-7e7.title" = "所有";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Lf9-Ab-iT0"; */
+"Lf9-Ab-iT0.title" = "盒状";
+
+/* Class = "NSMenuItem"; title = "Movement"; ObjectID = "WRM-JI-8eN"; */
+"WRM-JI-8eN.title" = "移动";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "ZLB-kj-tHZ"; */
+"ZLB-kj-tHZ.title" = "类型:";
+
+/* Class = "NSMenuItem"; title = "Fades"; ObjectID = "bDL-rE-WnP"; */
+"bDL-rE-WnP.title" = "渐隐";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "e4s-tv-DBX"; */
+"e4s-tv-DBX.title" = "标签";
+
+/* Class = "NSMenuItem"; title = "Wipes"; ObjectID = "grn-u1-QPz"; */
+"grn-u1-QPz.title" = "擦除";
+
+/* Class = "NSTextFieldCell"; title = "Transitions"; ObjectID = "w44-fT-Jvh"; */
+"w44-fT-Jvh.title" = "转场";
+

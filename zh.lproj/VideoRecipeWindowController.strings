@@ -1,0 +1,12 @@
+/* Class = "NSWindow"; title = "Video Guide"; ObjectID = "F0z-JX-Cv5"; */
+"F0z-JX-Cv5.title" = "视频指导";
+
+/* Class = "NSTextFieldCell"; title = "You must be online to view the Video Guide.\nCheck your connection and try again."; ObjectID = "VVw-lf-Os4"; */
+"VVw-lf-Os4.title" = "你必须在线观看视频指导。\n检查你的网络连接并重试。";
+
+/* Class = "NSButtonCell"; title = "Retry"; ObjectID = "l2D-MO-rJ5"; */
+"l2D-MO-rJ5.title" = "重试";
+
+/* Class = "NSTextFieldCell"; title = "No Internet Connection"; ObjectID = "t6m-P1-232"; */
+"t6m-P1-232.title" = "没有网络连接";
+

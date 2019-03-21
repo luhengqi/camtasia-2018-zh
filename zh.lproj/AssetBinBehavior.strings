@@ -1,0 +1,33 @@
+/* Class = "NSScrollView"; ibExternalAccessibilityDescription = "tableView"; ObjectID = "28"; */
+"28.ibExternalAccessibilityDescription" = "表格视图";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "35"; */
+"35.title" = "文本单元格";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "122"; */
+"122.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Add to Selected Media"; ObjectID = "142"; */
+"142.title" = "添加到选中媒体";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "CMd-G8-7e7"; */
+"CMd-G8-7e7.title" = "所有";
+
+/* Class = "NSTextFieldCell"; title = "Behaviors"; ObjectID = "KXe-SE-Bv3"; */
+"KXe-SE-Bv3.title" = "行为";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Lf9-Ab-iT0"; */
+"Lf9-Ab-iT0.title" = "盒状";
+
+/* Class = "NSMenuItem"; title = "Object"; ObjectID = "WRM-JI-8eN"; */
+"WRM-JI-8eN.title" = "对象";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "ZLB-kj-tHZ"; */
+"ZLB-kj-tHZ.title" = "类型:";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "bDL-rE-WnP"; */
+"bDL-rE-WnP.title" = "文字";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "e4s-tv-DBX"; */
+"e4s-tv-DBX.title" = "标签";
+

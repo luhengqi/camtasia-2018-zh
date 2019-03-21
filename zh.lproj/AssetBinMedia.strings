@@ -1,0 +1,69 @@
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "4yt-65-LyM"; */
+"4yt-65-LyM.title" = "文字单元格";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "6s7-6i-AhO"; */
+"6s7-6i-AhO.headerCell.title" = "名称";
+
+/* Class = "NSMenuItem"; title = "Convert Media"; ObjectID = "11s-9d-hnr"; */
+"11s-9d-hnr.title" = "转换媒体";
+
+/* Class = "NSMenuItem"; title = "Import Media..."; ObjectID = "58"; */
+"58.title" = "导入媒体...";
+
+/* Class = "NSMenuItem"; title = "Update Media..."; ObjectID = "59"; */
+"59.title" = "更新媒体...";
+
+/* Class = "NSMenuItem"; title = "Reveal in Finder"; ObjectID = "60"; */
+"60.title" = "在Finder中显示";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "61"; */
+"61.title" = "重命名";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "62"; */
+"62.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Add to Timeline at Playhead"; ObjectID = "63"; */
+"63.title" = "添加到时间轴播放头处";
+
+/* Class = "NSMenuItem"; title = "Media Bin Help"; ObjectID = "76"; */
+"76.title" = "媒体箱帮助";
+
+/* Class = "NSMenuItem"; title = "Import From Google Drive..."; ObjectID = "105"; */
+"105.title" = "从Google Drive导入...";
+
+/* Class = "NSMenuItem"; title = "Import From My Places..."; ObjectID = "Bxq-5y-DMi"; */
+"Bxq-5y-DMi.title" = "从My Places导入...";
+
+/* Class = "NSMenuItem"; title = "Delete Unused Media"; ObjectID = "EIH-Mw-YUV"; */
+"EIH-Mw-YUV.title" = "删除未使用媒体";
+
+/* Class = "NSTextFieldCell"; title = "Your Media Bin is empty.         Screen recordings and imported media will show up here."; ObjectID = "IxV-OK-XVZ"; */
+"IxV-OK-XVZ.title" = "你的媒体箱是空的。\n屏幕录制和导入的媒体将会显示在这里。";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Nxu-eU-BFV"; */
+"Nxu-eU-BFV.title" = "盒状";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add media from various locations for use in your video project."; ObjectID = "OwF-oy-4uz"; */
+"OwF-oy-4uz.ibShadowedToolTip" = "从多个位置导入媒体以用于你的视频项目。";
+
+/* Class = "NSTextFieldCell"; title = "Media Bin"; ObjectID = "U4g-2J-HP6"; */
+"U4g-2J-HP6.title" = "媒体箱";
+
+/* Class = "NSTextFieldCell"; title = "Progress"; ObjectID = "br4-Ys-gla"; */
+"br4-Ys-gla.title" = "进度";
+
+/* Class = "NSTableColumn"; headerCell.title = "Duration"; ObjectID = "k2m-yI-wTX"; */
+"k2m-yI-wTX.headerCell.title" = "时长";
+
+/* Class = "NSButtonCell"; title = "Import Media..."; ObjectID = "kRL-K8-QMS"; */
+"kRL-K8-QMS.title" = "导入媒体...";
+
+/* Class = "NSTableColumn"; headerCell.title = "Type"; ObjectID = "scM-J9-YeR"; */
+"scM-J9-YeR.headerCell.title" = "类型";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "w9B-PS-5zR"; */
+"w9B-PS-5zR.title" = "文字单元格";
+
+/* Class = "NSButtonCell"; title = "Import Media..."; ObjectID = "czN-re-GKO"; */
+"czN-re-GKO.title" = "导入媒体...";
+

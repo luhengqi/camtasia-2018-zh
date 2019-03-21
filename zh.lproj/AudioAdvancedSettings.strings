@@ -1,0 +1,15 @@
+/* Class = "NSWindow"; title = "Advanced Export Options"; ObjectID = "1"; */
+"1.title" = "高级导出选项";
+
+/* Class = "NSButtonCell"; title = "Enable smoothing"; ObjectID = "9ho-zk-X6j"; */
+"9ho-zk-X6j.title" = "开启平滑";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "12"; */
+"12.title" = "确认";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "14"; */
+"14.title" = "取消";
+
+/* Class = "NSBox"; title = "Audio"; ObjectID = "42"; */
+"42.title" = "音频";
+

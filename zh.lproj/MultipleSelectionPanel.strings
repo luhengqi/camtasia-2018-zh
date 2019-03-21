@@ -1,0 +1,6 @@
+/* Class = "NSTextFieldCell"; title = "Multiple Selection"; ObjectID = "33"; */
+"33.title" = "多选";
+
+/* Class = "NSTextFieldCell"; title = "Multiple objects are selected. To edit properties, select one object at a time."; ObjectID = "88"; */
+"88.title" = "选中了多个对象。要编辑属性，一次选择一个对象。";
+

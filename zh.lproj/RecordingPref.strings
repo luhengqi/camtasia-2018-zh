@@ -1,0 +1,72 @@
+/* Class = "NSButtonCell"; title = "Change..."; ObjectID = "37"; */
+"37.title" = "更改...";
+
+/* Class = "NSButtonCell"; title = "Reveal"; ObjectID = "38"; */
+"38.title" = "显示";
+
+/* Class = "NSButtonCell"; title = "Delete after"; ObjectID = "40"; */
+"40.title" = "之后删除";
+
+/* Class = "NSTextFieldCell"; title = "days"; ObjectID = "43"; */
+"43.title" = "天";
+
+/* Class = "NSButtonCell"; title = "Default (\"Rec \")"; ObjectID = "99"; */
+"99.title" = "默认 (\"Rec \")";
+
+/* Class = "NSButtonCell"; title = "Custom"; ObjectID = "100"; */
+"100.title" = "自定义";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "101"; */
+"101.title" = "单选";
+
+/* Class = "NSBox"; title = "Recording Name Prefix"; ObjectID = "104"; */
+"104.title" = "录制名称前缀";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "142"; */
+"142.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Full-motion (30 fps)"; ObjectID = "143"; */
+"143.title" = "全动感 (30 fps)";
+
+/* Class = "NSMenuItem"; title = "Presentations (5 fps)"; ObjectID = "144"; */
+"144.title" = "演讲 (5 fps)";
+
+/* Class = "NSMenuItem"; title = "Medium (15 fps)"; ObjectID = "145"; */
+"145.title" = "中 (15 fps)";
+
+/* Class = "NSMenuItem"; title = "Low (10 fps)"; ObjectID = "146"; */
+"146.title" = "低 (10 fps)";
+
+/* Class = "NSTextFieldCell"; title = "Capture Frame Rate:"; ObjectID = "152"; */
+"152.title" = "捕获帧率:";
+
+/* Class = "NSButtonCell"; title = "Show countdown before recording"; ObjectID = "159"; */
+"159.title" = "录制之前显示倒计时";
+
+/* Class = "NSButtonCell"; title = "Show menu bar icon"; ObjectID = "168"; */
+"168.title" = "显示菜单栏图标";
+
+/* Class = "NSTextFieldCell"; title = "System Audio:"; ObjectID = "174"; */
+"174.title" = "系统音频:";
+
+/* Class = "NSButtonCell"; title = "Install component"; ObjectID = "176"; */
+"176.title" = "安装组件";
+
+/* Class = "NSTextFieldCell"; title = "Save recordings to:"; ObjectID = "181"; */
+"181.title" = "保存录制到:";
+
+/* Class = "NSTextFieldCell"; title = "After recording:"; ObjectID = "183"; */
+"183.title" = "录制完成后:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "186"; */
+"186.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Open in Editor"; ObjectID = "187"; */
+"187.title" = "在编辑器中打开";
+
+/* Class = "NSMenuItem"; title = "Prompt to Save"; ObjectID = "188"; */
+"188.title" = "弹出保存";
+
+/* Class = "NSMenuItem"; title = "PAL (25 fps)"; ObjectID = "200"; */
+"200.title" = "PAL (25 fps)";
+

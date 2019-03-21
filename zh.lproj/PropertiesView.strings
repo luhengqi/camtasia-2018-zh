@@ -1,0 +1,52 @@
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "6Kx-xe-Gec"; */
+"6Kx-xe-Gec.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "110"; */
+"110.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "111"; */
+"111.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "112"; */
+"112.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "113"; */
+"113.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "AB Actions"; ObjectID = "114"; */
+"114.ibShadowedToolTip" = "AB-Aktionen";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "115"; */
+"115.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSTextFieldCell"; title = "Empty Selection"; ObjectID = "124"; */
+"124.title" = "未选择";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to reset all properties in this panel."; ObjectID = "125"; */
+"125.ibShadowedToolTip" = "点击以重置此面板中的所有属性。";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Animation editing mode"; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "动画编辑模式";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Save style to Annotations"; ObjectID = "156"; */
+"156.ibShadowedToolTip" = "保存样式到注释";
+
+/* Class = "NSMenuItem"; title = "Properties Help"; ObjectID = "161"; */
+"161.title" = "属性帮助";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "IoX-fZ-kne"; */
+"IoX-fZ-kne.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "MsF-zY-q4g"; */
+"MsF-zY-q4g.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Preview quiz"; ObjectID = "c0w-6e-lQr"; */
+"c0w-6e-lQr.ibShadowedToolTip" = "预览测验";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltip impemented programmatically"; ObjectID = "uMG-8K-1BL"; */
+"uMG-8K-1BL.ibShadowedToolTip" = "(!) Tooltipp programmatisch implementiert";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to reset all properties in this panel."; ObjectID = "6ji-GB-B7A"; */
+"6ji-GB-B7A.ibShadowedToolTip" = "点击重设此面板中的所有属性";
+
+

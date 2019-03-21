@@ -1,0 +1,9 @@
+/* Class = "NSTextFieldCell"; title = "Comic"; ObjectID = "33"; */
+"33.title" = "卡通化";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSButtonCell"; title = "Del"; ObjectID = "93"; */
+"93.title" = "删除";
+

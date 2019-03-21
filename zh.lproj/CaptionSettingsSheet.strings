@@ -1,0 +1,36 @@
+/* Class = "NSWindow"; title = "Window"; ObjectID = "225"; */
+"225.title" = "窗口";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "245"; */
+"245.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Arial"; ObjectID = "246"; */
+"246.title" = "Arial";
+
+/* Class = "NSMenuItem"; title = "Trebuchet MS"; ObjectID = "247"; */
+"247.title" = "Trebuchet MS";
+
+/* Class = "NSMenuItem"; title = "Verdana"; ObjectID = "248"; */
+"248.title" = "Verdana";
+
+/* Class = "NSTextFieldCell"; title = "Text color:"; ObjectID = "255"; */
+"255.title" = "文字颜色:";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "257"; */
+"257.title" = "字体:";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "259"; */
+"259.title" = "大小:";
+
+/* Class = "NSTextFieldCell"; title = "Background color:"; ObjectID = "261"; */
+"261.title" = "背景颜色:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "263"; */
+"263.title" = "确认";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "294"; */
+"294.title" = "透明度:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "ZPV-HL-UKO"; */
+"ZPV-HL-UKO.title" = "取消";
+

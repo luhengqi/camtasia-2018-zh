@@ -1,0 +1,126 @@
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Align to top"; ObjectID = "0VR-u2-bG9"; */
+"0VR-u2-bG9.ibShadowedToolTip" = "顶对齐";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "6Hx-Bx-9Qe"; */
+"6Hx-Bx-9Qe.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Center text"; ObjectID = "AQM-QP-g2t"; */
+"AQM-QP-g2t.ibShadowedToolTip" = "水平居中";
+
+/* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "Btm-pK-47P"; */
+"Btm-pK-47P.title" = "样式:";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Text size slider"; ObjectID = "Czq-KS-tY3"; */
+"Czq-KS-tY3.ibExternalAccessibilityDescription" = "文字大小滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make text larger or smaller"; ObjectID = "Czq-KS-tY3"; */
+"Czq-KS-tY3.ibShadowedToolTip" = "拖曳更改文字大小";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "DXy-Fj-DvJ"; */
+"DXy-Fj-DvJ.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Efo-7h-EoE"; */
+"Efo-7h-EoE.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "GWY-7w-iMM"; */
+"GWY-7w-iMM.title" = "字体:";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Font popup"; ObjectID = "GuV-vO-6uw"; */
+"GuV-vO-6uw.ibExternalAccessibilityDescription" = "Font popup";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select font weight"; ObjectID = "GuV-vO-6uw"; */
+"GuV-vO-6uw.ibShadowedToolTip" = "选择字体粗细";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "J10-zk-6Iz"; */
+"J10-zk-6Iz.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "KTS-eS-cjC"; */
+"KTS-eS-cjC.title" = "标签:";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Middle align"; ObjectID = "Kt5-Fh-yCj"; */
+"Kt5-Fh-yCj.ibShadowedToolTip" = "垂直居中";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "N2Z-Kg-siO"; */
+"N2Z-Kg-siO.title" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "OYf-ov-iBQ"; */
+"OYf-ov-iBQ.title" = "标签:";
+
+/* Class = "NSButtonCell"; title = "Import File"; ObjectID = "PWy-Ob-oJb"; */
+"PWy-Ob-oJb.title" = "导入文件";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Underline toggle"; ObjectID = "PhT-go-k4O"; */
+"PhT-go-k4O.ibExternalAccessibilityDescription" = "下划线开关";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggle to enable underlining"; ObjectID = "PhT-go-k4O"; */
+"PhT-go-k4O.ibShadowedToolTip" = "开关下划线";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Align text left"; ObjectID = "TSx-dK-bXR"; */
+"TSx-dK-bXR.ibShadowedToolTip" = "左对齐";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "TY9-OV-2ax"; */
+"TY9-OV-2ax.title" = "Box";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Align text right"; ObjectID = "UhQ-gR-4DG"; */
+"UhQ-gR-4DG.ibShadowedToolTip" = "右对齐";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "WtN-2S-2Jv"; */
+"WtN-2S-2Jv.title" = "Radio";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "YJd-If-AyE"; */
+"YJd-If-AyE.title" = "大小:";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Font popup"; ObjectID = "ZEF-EX-fdZ"; */
+"ZEF-EX-fdZ.ibExternalAccessibilityDescription" = "Font popup";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select type for callout text"; ObjectID = "ZEF-EX-fdZ"; */
+"ZEF-EX-fdZ.ibShadowedToolTip" = "选择标注文字的类型";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "ZRU-BC-mPQ"; */
+"ZRU-BC-mPQ.title" = "Item 3";
+
+/* Class = "NSComboBox"; ibExternalAccessibilityDescription = "Text Size Edit Field"; ObjectID = "b58-dM-0SN"; */
+"b58-dM-0SN.ibExternalAccessibilityDescription" = "文字大小编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Multiple assets are selected.\n\nPlease select an individual asset to view Quick Properties."; ObjectID = "ez9-qX-3Iz"; */
+"ez9-qX-3Iz.title" = "选中了多个媒体。\n\n请选择单个媒体查看快速样式。";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "f9S-4r-fDD"; */
+"f9S-4r-fDD.title" = "Radio";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "ibY-SN-T9W"; */
+"ibY-SN-T9W.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "jSd-4Q-QAy"; */
+"jSd-4Q-QAy.title" = "对齐:";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "jXA-qq-6AF"; */
+"jXA-qq-6AF.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSButtonCell"; title = " "; ObjectID = "lQL-2a-yM7"; */
+"lQL-2a-yM7.title" = " ";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Strike-through toggle"; ObjectID = "paa-pB-dOc"; */
+"paa-pB-dOc.ibExternalAccessibilityDescription" = "删除线开关";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggle to enable to strikethrough"; ObjectID = "paa-pB-dOc"; */
+"paa-pB-dOc.ibShadowedToolTip" = "开关删除线";
+
+/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "qhm-qH-9aA"; */
+"qhm-qH-9aA.title" = "标签:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "volume edit field"; ObjectID = "s61-c9-PFR"; */
+"s61-c9-PFR.ibExternalAccessibilityDescription" = "音量编辑字段";
+
+/* Class = "NSMenuItem"; title = "Lucida Grande"; ObjectID = "slJ-iI-PsF"; */
+"slJ-iI-PsF.title" = "Lucida Grande";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Align to bottom"; ObjectID = "vHz-Ub-hj3"; */
+"vHz-Ub-hj3.ibShadowedToolTip" = "底对齐";
+
+/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "xUh-nz-Xag"; */
+"xUh-nz-Xag.title" = "标签:";
+
+/* Class = "NSTextFieldCell"; title = "Label:"; ObjectID = "zPK-2j-yAR"; */
+"zPK-2j-yAR.title" = "标签:";
+

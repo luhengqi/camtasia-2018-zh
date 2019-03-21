@@ -1,0 +1,96 @@
+/* Class = "NSMenuItem"; title = "Import Media to Library..."; ObjectID = "0Ms-92-dz9"; */
+"0Ms-92-dz9.title" = "导入媒体到库...";
+
+/* Class = "NSTextFieldCell"; title = "Download more assets..."; ObjectID = "1MY-tV-t0w"; */
+"1MY-tV-t0w.title" = "下载更多素材...";
+
+/* Class = "NSMenuItem"; title = "Search All Libraries"; ObjectID = "4wk-QE-Uzf"; */
+"4wk-QE-Uzf.title" = "搜索所有库";
+
+/* Class = "NSMenuItem"; title = "Add Timeline Selection..."; ObjectID = "8g1-cF-Xwf"; */
+"8g1-cF-Xwf.title" = "添加时间轴选区...";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "68C-yA-T3B"; */
+"68C-yA-T3B.title" = "删除";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Font popup"; ObjectID = "G0E-4F-zHZ"; */
+"G0E-4F-zHZ.ibExternalAccessibilityDescription" = "Font popup";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select type for callout text"; ObjectID = "G0E-4F-zHZ"; */
+"G0E-4F-zHZ.ibShadowedToolTip" = "选择标注文字的类型";
+
+/* Class = "NSMenuItem"; title = "Rename"; ObjectID = "GMu-sZ-MU4"; */
+"GMu-sZ-MU4.title" = "重命名";
+
+/* Class = "NSMenuItem"; title = "Add to Timeline at Playhead"; ObjectID = "ISw-JX-OAn"; */
+"ISw-JX-OAn.title" = "添加到时间轴上播放头处";
+
+/* Class = "NSTextFieldCell"; title = "Text View Cell"; ObjectID = "Kkz-O8-UWT"; */
+"Kkz-O8-UWT.title" = "Text View Cell";
+
+/* Class = "NSMenuItem"; title = "Reverse Order"; ObjectID = "LxF-ti-SbA"; */
+"LxF-ti-SbA.title" = "倒序";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "Nxu-eU-BFV"; */
+"Nxu-eU-BFV.title" = "Feld";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Add media from various locations for use in your video project."; ObjectID = "OwF-oy-4uz"; */
+"OwF-oy-4uz.ibShadowedToolTip" = "从多个位置添加媒体文件用于你的视频项目。";
+
+/* Class = "NSMenuItem"; title = "No Recent Searches"; ObjectID = "Sh3-19-byx"; */
+"Sh3-19-byx.title" = "没有最近搜索";
+
+/* Class = "NSMenuItem"; title = "Date Added"; ObjectID = "SqT-MA-9NK"; */
+"SqT-MA-9NK.title" = "添加日期";
+
+/* Class = "NSMenuItem"; title = "Sort By"; ObjectID = "T05-lA-I8m"; */
+"T05-lA-I8m.title" = "排序按";
+
+/* Class = "NSTextFieldCell"; title = "Library"; ObjectID = "U4g-2J-HP6"; */
+"U4g-2J-HP6.title" = "库";
+
+/* Class = "NSMenuItem"; title = "Clear Recent Searches"; ObjectID = "Ubm-ys-60U"; */
+"Ubm-ys-60U.title" = "清除最近搜索";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "VC0-wc-gke"; */
+"VC0-wc-gke.title" = "名称";
+
+/* Class = "NSMenuItem"; title = "Preview..."; ObjectID = "YpD-ax-lYE"; */
+"YpD-ax-lYE.title" = "预览...";
+
+/* Class = "NSMenu"; title = "Sort By"; ObjectID = "cK5-jJ-lOj"; */
+"cK5-jJ-lOj.title" = "排序按";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "cQn-Ha-uxe"; */
+"cQn-Ha-uxe.title" = "Item";
+
+/* Class = "NSMenuItem"; title = "Search Current Library"; ObjectID = "e6b-AO-ew1"; */
+"e6b-AO-ew1.title" = "搜索当前库";
+
+/* Class = "NSTextFieldCell"; title = "Library:"; ObjectID = "gMw-iu-pVg"; */
+"gMw-iu-pVg.title" = "库:";
+
+/* Class = "NSMenuItem"; title = "Import Media..."; ObjectID = "hpo-mU-jqA"; */
+"hpo-mU-jqA.title" = "导入媒体...";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "jde-46-x5S"; */
+"jde-46-x5S.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text View Cell"; ObjectID = "n4m-8X-szl"; */
+"n4m-8X-szl.title" = "Text View Cell";
+
+/* Class = "NSMenuItem"; title = "New Folder..."; ObjectID = "oHc-4u-A9H"; */
+"oHc-4u-A9H.title" = "新建文件夹...";
+
+/* Class = "NSMenuItem"; title = "Media Type"; ObjectID = "ocN-fp-kKP"; */
+"ocN-fp-kKP.title" = "媒体类型";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "rzh-zk-FTW"; */
+"rzh-zk-FTW.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Recent Searches"; ObjectID = "stT-vD-pI9"; */
+"stT-vD-pI9.title" = "最近搜索";
+
+/* Class = "NSMenuItem"; title = "Date Used"; ObjectID = "tRk-dn-VXM"; */
+"tRk-dn-VXM.title" = "使用日期";
+

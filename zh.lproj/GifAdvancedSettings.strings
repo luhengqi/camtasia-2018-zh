@@ -1,0 +1,42 @@
+/* Class = "NSWindow"; title = "GIF Export Options"; ObjectID = "1"; */
+"1.title" = "GIF导出选项";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "4ni-Zc-5K3"; */
+"4ni-Zc-5K3.title" = "条目 3";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "12"; */
+"12.title" = "确认";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "14"; */
+"14.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "Dimensions:"; ObjectID = "Ht1-hR-flM"; */
+"Ht1-hR-flM.title" = "尺寸:";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Oub-OO-eXB"; */
+"Oub-OO-eXB.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Qka-su-ANn"; */
+"Qka-su-ANn.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Current"; ObjectID = "aPc-oY-rxI"; */
+"aPc-oY-rxI.title" = "当前";
+
+/* Class = "NSTextFieldCell"; title = "Frame rate:"; ObjectID = "bf3-Q6-7Gr"; */
+"bf3-Q6-7Gr.title" = "帧率:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "cFt-cZ-CMf"; */
+"cFt-cZ-CMf.title" = "Andere Ansichten";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "hKt-ec-Vtt"; */
+"hKt-ec-Vtt.title" = "Andere Ansichten";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "mNc-Ox-kAG"; */
+"mNc-Ox-kAG.title" = "宽度:";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "sh1-GT-BK8"; */
+"sh1-GT-BK8.title" = "高度:";
+
+/* Class = "NSButtonCell"; title = "Enable dithering"; ObjectID = "uoI-I9-M7z"; */
+"uoI-I9-M7z.title" = "开启抖动";
+

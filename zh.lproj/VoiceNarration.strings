@@ -1,0 +1,36 @@
+/* Class = "NSView"; ibShadowedToolTip = "Click to reset all properties in this panel."; ObjectID = "4Cb-qG-oAg"; */
+"4Cb-qG-oAg.ibShadowedToolTip" = "点击重置此面板中的所有属性。";
+
+/* Class = "NSButtonCell"; title = "Start Voice Recording"; ObjectID = "608"; */
+"608.title" = "开始旁白录制";
+
+/* Class = "NSMenu"; title = "ContextualMenu"; ObjectID = "967"; */
+"967.title" = "上下文菜单";
+
+/* Class = "NSMenuItem"; title = "Recorder Help"; ObjectID = "968"; */
+"968.title" = "录制器帮助";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select microphone"; ObjectID = "PBC-fJ-p8G"; */
+"PBC-fJ-p8G.ibShadowedToolTip" = "选择麦克风";
+
+/* Class = "NSButtonCell"; title = "Stop"; ObjectID = "eXJ-7Q-Hav"; */
+"eXJ-7Q-Hav.title" = "停止";
+
+/* Class = "NSButtonCell"; title = "Mute speakers during recording"; ObjectID = "kPv-Ua-Vxj"; */
+"kPv-Ua-Vxj.title" = "录制期间静音扬声器";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "onA-e3-MaZ"; */
+"onA-e3-MaZ.title" = "条目 3";
+
+/* Class = "NSTextFieldCell"; title = "Voice Narration"; ObjectID = "q0L-Th-teb"; */
+"q0L-Th-teb.title" = "语音旁白";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "xzw-42-yGy"; */
+"xzw-42-yGy.title" = "条目 2";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "z2U-7k-qVH"; */
+"z2U-7k-qVH.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "zBc-ZB-4CK"; */
+"zBc-ZB-4CK.title" = "条目 1";
+

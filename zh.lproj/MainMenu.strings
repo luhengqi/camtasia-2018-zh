@@ -1,0 +1,1086 @@
+/* Class = "NSMenuItem"; title = "Rings"; ObjectID = "0pE-R6-s22"; */
+"0pE-R6-s22.title" = "圆环";
+
+/* Class = "NSMenuItem"; title = "Make Text Into Sketch Motion"; ObjectID = "1BO-zh-2vn"; */
+"1BO-zh-2vn.title" = "把文字制作成手绘动画";
+
+/* Class = "NSMenuItem"; title = "Remove All"; ObjectID = "1F6-Fn-EHx"; */
+"1F6-Fn-EHx.title" = "移除所有";
+
+/* Class = "NSMenuItem"; title = "All Gesture Effects"; ObjectID = "1G8-TL-iqo"; */
+"1G8-TL-iqo.title" = "所有手势特效";
+
+/* Class = "NSMenuItem"; title = "Cursor Effects"; ObjectID = "1mg-Ri-3RI"; */
+"1mg-Ri-3RI.title" = "鼠标特效";
+
+/* Class = "NSMenuItem"; title = "Sound"; ObjectID = "1pa-Yi-v8l"; */
+"1pa-Yi-v8l.title" = "声音";
+
+/* Class = "NSMenu"; title = "Display"; ObjectID = "1s5-Zk-oi8"; */
+"1s5-Zk-oi8.title" = "显示";
+
+/* Class = "NSMenuItem"; title = "Right"; ObjectID = "2Ls-9O-8N6"; */
+"2Ls-9O-8N6.title" = "右";
+
+/* Class = "NSMenu"; title = "Modify"; ObjectID = "2Wl-cc-seU"; */
+"2Wl-cc-seU.title" = "修改";
+
+/* Class = "NSMenuItem"; title = "Cursor Effects"; ObjectID = "2jH-qV-dd7"; */
+"2jH-qV-dd7.title" = "鼠标特效";
+
+/* Class = "NSMenuItem"; title = "Left"; ObjectID = "3hN-cA-Kw6"; */
+"3hN-cA-Kw6.title" = "左";
+
+/* Class = "NSMenuItem"; title = "Sepia"; ObjectID = "3nr-Rh-fzt"; */
+"3nr-Rh-fzt.title" = "棕褐色调";
+
+/* Class = "NSMenuItem"; title = "Shifting"; ObjectID = "3x0-ml-PlJ"; */
+"3x0-ml-PlJ.title" = "偏移";
+
+/* Class = "NSMenuItem"; title = "Markers"; ObjectID = "4G3-mb-q4a"; */
+"4G3-mb-q4a.title" = "标记";
+
+/* Class = "NSMenuItem"; title = "Magnify"; ObjectID = "4Mb-Zf-Iyb"; */
+"4Mb-Zf-Iyb.title" = "放大";
+
+/* Class = "NSMenu"; title = "Cursor Effects"; ObjectID = "4Xw-pN-4kL"; */
+"4Xw-pN-4kL.title" = "鼠标特效";
+
+/* Class = "NSMenuItem"; title = "Clip Speed"; ObjectID = "4hG-Ef-U2E"; */
+"4hG-Ef-U2E.title" = "剪辑速度";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "所有前置";
+
+/* Class = "NSMenuItem"; title = "Test Recording Crash"; ObjectID = "5eI-j3-rg5"; */
+"5eI-j3-rg5.title" = "测试录制崩溃";
+
+/* Class = "NSMenuItem"; title = "Spotlight"; ObjectID = "6V7-sP-QEw"; */
+"6V7-sP-QEw.title" = "聚光灯";
+
+/* Class = "NSMenuItem"; title = "Captions"; ObjectID = "6bN-6f-e61"; */
+"6bN-6f-e61.title" = "字幕";
+
+/* Class = "NSMenuItem"; title = "Add Captions"; ObjectID = "6cb-GF-LQ9"; */
+"6cb-GF-LQ9.title" = "添加字幕";
+
+/* Class = "NSMenuItem"; title = "Add Cursor Replace Effect"; ObjectID = "6kT-IV-SY5"; */
+"6kT-IV-SY5.title" = "添加鼠标替换特效";
+
+/* Class = "NSMenuItem"; title = "Stage"; ObjectID = "6rO-CC-NM2"; */
+"6rO-CC-NM2.title" = "画布";
+
+/* Class = "NSMenuItem"; title = "Bring Forward"; ObjectID = "8X2-0S-Zoz"; */
+"8X2-0S-Zoz.title" = "上移一层";
+
+/* Class = "NSMenuItem"; title = "Volume Leveling"; ObjectID = "9Pq-gk-hD7"; */
+"9Pq-gk-hD7.title" = "音量层级";
+
+/* Class = "NSMenuItem"; title = "Group"; ObjectID = "9go-OT-bzH"; */
+"9go-OT-bzH.title" = "群组";
+
+/* Class = "NSMenuItem"; title = "Copy Style"; ObjectID = "9jX-HF-Ewj"; */
+"9jX-HF-Ewj.title" = "复制样式";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "窗口";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "最小化";
+
+/* Class = "NSMenuItem"; title = "All Transitions"; ObjectID = "23g-5g-lbV"; */
+"23g-5g-lbV.title" = "所有转场";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "窗口";
+
+/* Class = "NSMenu"; title = "AMainMenu"; ObjectID = "29"; */
+"29.title" = "AMainMenu";
+
+/* Class = "NSMenuItem"; title = "Camtasia"; ObjectID = "56"; */
+"56.title" = "Camtasia";
+
+/* Class = "NSMenu"; title = "Camtasia"; ObjectID = "57"; */
+"57.title" = "Camtasia";
+
+/* Class = "NSMenuItem"; title = "About Camtasia"; ObjectID = "58"; */
+"58.title" = "关于Camtasia";
+
+/* Class = "NSMenuItem"; title = "Open Project…"; ObjectID = "72"; */
+"72.title" = "打开项目…";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "75"; */
+"75.title" = "保存";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "80"; */
+"80.title" = "另存为…";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "New Project"; ObjectID = "82"; */
+"82.title" = "新建项目";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "103"; */
+"103.title" = "帮助";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "106"; */
+"106.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Online Help"; ObjectID = "111"; */
+"111.title" = "在线帮助";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
+"124.title" = "最近打开";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; */
+"125.title" = "最近打开";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; */
+"126.title" = "清除菜单";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "129"; */
+"129.title" = "首选项…";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Hide Camtasia"; ObjectID = "134"; */
+"134.title" = "隐藏Camtasia";
+
+/* Class = "NSMenuItem"; title = "Quit Camtasia"; ObjectID = "136"; */
+"136.title" = "退出Camtasia";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "隐藏其他";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "显示所有";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "缩放";
+
+/* Class = "NSMenu"; title = "Menu"; ObjectID = "655"; */
+"655.title" = "Menü";
+
+/* Class = "NSMenuItem"; title = "Start Recording"; ObjectID = "658"; */
+"658.title" = "开始录制";
+
+/* Class = "NSMenuItem"; title = "Test"; ObjectID = "668"; */
+"668.title" = "测试";
+
+/* Class = "NSMenu"; title = "Test"; ObjectID = "669"; */
+"669.title" = "测试";
+
+/* Class = "NSMenuItem"; title = "Load Default Media"; ObjectID = "670"; */
+"670.title" = "加载默认媒体";
+
+/* Class = "NSMenuItem"; title = "Share"; ObjectID = "682"; */
+"682.title" = "分享";
+
+/* Class = "NSMenu"; title = "Share"; ObjectID = "683"; */
+"683.title" = "分享";
+
+/* Class = "NSMenuItem"; title = "Screencast.com..."; ObjectID = "684"; */
+"684.title" = "Screencast.com...";
+
+/* Class = "NSMenuItem"; title = "YouTube..."; ObjectID = "685"; */
+"685.title" = "YouTube...";
+
+/* Class = "NSMenuItem"; title = "Apply SmartFocus"; ObjectID = "689"; */
+"689.title" = "应用智能对焦";
+
+/* Class = "NSMenuItem"; title = "Dump XML of Selected Media"; ObjectID = "691"; */
+"691.title" = "清空选中媒体的XML";
+
+/* Class = "NSMenuItem"; title = "Keyboard Shortcuts"; ObjectID = "784"; */
+"784.title" = "键盘快捷键";
+
+/* Class = "NSMenuItem"; title = "New Recording..."; ObjectID = "799"; */
+"799.title" = "新建录制...";
+
+/* Class = "NSMenuItem"; title = "Media..."; ObjectID = "802"; */
+"802.title" = "媒体...";
+
+/* Class = "NSMenuItem"; title = "New Text Object"; ObjectID = "805"; */
+"805.title" = "新建文本对象";
+
+/* Class = "NSMenuItem"; title = "CRASH NOW!"; ObjectID = "811"; */
+"811.title" = "崩溃了！";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "815"; */
+"815.title" = "视图";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "816"; */
+"816.title" = "视图";
+
+/* Class = "NSMenuItem"; title = "Canvas"; ObjectID = "866"; */
+"866.title" = "画布";
+
+/* Class = "NSMenu"; title = "Canvas"; ObjectID = "867"; */
+"867.title" = "画布";
+
+/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "868"; */
+"868.title" = "放大";
+
+/* Class = "NSMenuItem"; title = "Timeline"; ObjectID = "869"; */
+"869.title" = "时间轴";
+
+/* Class = "NSMenu"; title = "Timeline"; ObjectID = "870"; */
+"870.title" = "时间轴";
+
+/* Class = "NSMenuItem"; title = "Zoom to Fit"; ObjectID = "871"; */
+"871.title" = "缩放到自适应";
+
+/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "874"; */
+"874.title" = "缩小";
+
+/* Class = "NSMenuItem"; title = "Zoom to Fill"; ObjectID = "875"; */
+"875.title" = "缩放到填充";
+
+/* Class = "NSMenuItem"; title = "Zoom to 100%"; ObjectID = "876"; */
+"876.title" = "缩放到 100 %";
+
+/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "881"; */
+"881.title" = "放大";
+
+/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "882"; */
+"882.title" = "缩小";
+
+/* Class = "NSMenuItem"; title = "Modify"; ObjectID = "891"; */
+"891.title" = "修改";
+
+/* Class = "NSMenuItem"; title = "Thumbnails"; ObjectID = "1077"; */
+"1077.title" = "缩略图";
+
+/* Class = "NSMenuItem"; title = "Waveforms"; ObjectID = "1078"; */
+"1078.title" = "波形";
+
+/* Class = "NSTextFieldCell"; title = "The previously selected directory for recordings could not be found.  Please select a new directory to continue recording."; ObjectID = "1084"; */
+"1084.title" = "之前为录制选择的文件夹找不到了。请选择一个新的文件夹以继续录制。";
+
+/* Class = "NSMenuItem"; title = "Local File..."; ObjectID = "1122"; */
+"1122.title" = "本地文件...";
+
+/* Class = "NSMenuItem"; title = "Show Properties"; ObjectID = "1133"; */
+"1133.title" = "显示属性";
+
+/* Class = "NSMenuItem"; title = "Enable Canvas Snapping"; ObjectID = "1215"; */
+"1215.title" = "开启画布对齐";
+
+/* Class = "NSMenuItem"; title = "Increase Track Heights"; ObjectID = "1217"; */
+"1217.title" = "增加轨道高度";
+
+/* Class = "NSMenuItem"; title = "Decrease Track Heights"; ObjectID = "1218"; */
+"1218.title" = "减小轨道高度";
+
+/* Class = "NSMenuItem"; title = "Check for Updates..."; ObjectID = "1223"; */
+"1223.title" = "检查更新...";
+
+/* Class = "NSMenuItem"; title = "Export Frame As..."; ObjectID = "1229"; */
+"1229.title" = "导出帧为…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "1233"; */
+"1233.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved"; ObjectID = "1278"; */
+"1278.title" = "恢复到已保存";
+
+/* Class = "NSMenuItem"; title = "Activate..."; ObjectID = "1280"; */
+"1280.title" = "激活...";
+
+/* Class = "NSMenuItem"; title = "Names"; ObjectID = "1283"; */
+"1283.title" = "名称";
+
+/* Class = "NSMenuItem"; title = "Technical Support"; ObjectID = "1288"; */
+"1288.title" = "技术支持";
+
+/* Class = "NSMenuItem"; title = "Stop Recording"; ObjectID = "1308"; */
+"1308.title" = "停止录制";
+
+/* Class = "NSMenuItem"; title = "Register"; ObjectID = "1320"; */
+"1320.title" = "注册";
+
+/* Class = "NSMenuItem"; title = "Show Marker Track"; ObjectID = "1331"; */
+"1331.title" = "显示标记轨道";
+
+/* Class = "NSMenuItem"; title = "Export Captions..."; ObjectID = "1353"; */
+"1353.title" = "导出字幕...";
+
+/* Class = "NSMenuItem"; title = "TechSmith Relay..."; ObjectID = "1355"; */
+"1355.title" = "TechSmith Relay...";
+
+/* Class = "NSMenuItem"; title = "Show Caption Track"; ObjectID = "1359"; */
+"1359.title" = "显示字幕轨道";
+
+/* Class = "NSMenuItem"; title = "Export Audio Only..."; ObjectID = "1361"; */
+"1361.title" = "仅导出音频...";
+
+/* Class = "NSMenuItem"; title = "Show Captions in Preview"; ObjectID = "1368"; */
+"1368.title" = "在预览中显示字幕";
+
+/* Class = "NSMenuItem"; title = "Run Unit Tests"; ObjectID = "1377"; */
+"1377.title" = "运行单元测试";
+
+/* Class = "NSMenuItem"; title = "Add Arrow"; ObjectID = "1389"; */
+"1389.title" = "添加箭头";
+
+/* Class = "NSMenuItem"; title = "Tools"; ObjectID = "1391"; */
+"1391.title" = "工具";
+
+/* Class = "NSMenu"; title = "Tools"; ObjectID = "1392"; */
+"1392.title" = "工具";
+
+/* Class = "NSMenuItem"; title = "Visual Effects"; ObjectID = "1397"; */
+"1397.title" = "视觉特效";
+
+/* Class = "NSMenuItem"; title = "Behaviors"; ObjectID = "1398"; */
+"1398.title" = "行为";
+
+/* Class = "NSMenuItem"; title = "Audio Effects"; ObjectID = "1399"; */
+"1399.title" = "音频特效";
+
+/* Class = "NSMenuItem"; title = "Animations"; ObjectID = "1401"; */
+"1401.title" = "动画";
+
+/* Class = "NSMenuItem"; title = "Extend End Frame"; ObjectID = "1424"; */
+"1424.title" = "扩展结束帧";
+
+/* Class = "NSMenuItem"; title = "Enable Rendering"; ObjectID = "1440"; */
+"1440.title" = "开启渲染";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "1455"; */
+"1455.title" = "编辑";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "1456"; */
+"1456.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Ripple Cut"; ObjectID = "1459"; */
+"1459.title" = "波纹剪切";
+
+/* Class = "NSMenuItem"; title = "Project Settings..."; ObjectID = "1467"; */
+"1467.title" = "项目设置...";
+
+/* Class = "NSMenuItem"; title = "Separate Audio and Video"; ObjectID = "1472"; */
+"1472.title" = "分离音频和视频";
+
+/* Class = "NSMenuItem"; title = "Ripple Delete"; ObjectID = "1475"; */
+"1475.title" = "波纹删除";
+
+/* Class = "NSMenuItem"; title = "Deselect All"; ObjectID = "1477"; */
+"1477.title" = "取消全选";
+
+/* Class = "NSMenuItem"; title = "Select"; ObjectID = "1479"; */
+"1479.title" = "选择";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "1485"; */
+"1485.title" = "重做";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "1487"; */
+"1487.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "1488"; */
+"1488.title" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "1489"; */
+"1489.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "1491"; */
+"1491.title" = "撤销";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "1493"; */
+"1493.title" = "删除";
+
+/* Class = "NSMenu"; title = "Select"; ObjectID = "1494"; */
+"1494.title" = "选择";
+
+/* Class = "NSMenuItem"; title = "To End Of Media"; ObjectID = "1495"; */
+"1495.title" = "到媒体结尾";
+
+/* Class = "NSMenuItem"; title = "To Beginning Of Media"; ObjectID = "1496"; */
+"1496.title" = "到媒体开头";
+
+/* Class = "NSMenuItem"; title = "Preceding Media"; ObjectID = "1497"; */
+"1497.title" = "之前的媒体";
+
+/* Class = "NSMenuItem"; title = "Succeeding Media"; ObjectID = "1498"; */
+"1498.title" = "之后的媒体";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "1572"; */
+"1572.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Playhead"; ObjectID = "1575"; */
+"1575.title" = "播放头";
+
+/* Class = "NSMenu"; title = "Playhead"; ObjectID = "1576"; */
+"1576.title" = "播放头";
+
+/* Class = "NSMenuItem"; title = "Split"; ObjectID = "1578"; */
+"1578.title" = "分割";
+
+/* Class = "NSMenuItem"; title = "Split All"; ObjectID = "1580"; */
+"1580.title" = "分割所有";
+
+/* Class = "NSMenuItem"; title = "Extend Frame to Playhead"; ObjectID = "1582"; */
+"1582.title" = "扩展帧到播放头处";
+
+/* Class = "NSMenuItem"; title = "Trim Start to Playhead"; ObjectID = "1584"; */
+"1584.title" = "修剪从开头到播放头处";
+
+/* Class = "NSMenuItem"; title = "Trim End to Playhead"; ObjectID = "1586"; */
+"1586.title" = "修剪结尾到播放头处";
+
+/* Class = "NSMenuItem"; title = "Copy Effects"; ObjectID = "1629"; */
+"1629.title" = "复制特效";
+
+/* Class = "NSMenuItem"; title = "Jump To"; ObjectID = "1665"; */
+"1665.title" = "跳转到";
+
+/* Class = "NSMenu"; title = "Jump To"; ObjectID = "1666"; */
+"1666.title" = "跳转到";
+
+/* Class = "NSMenuItem"; title = "Next Marker"; ObjectID = "1667"; */
+"1667.title" = "下一个标记";
+
+/* Class = "NSMenuItem"; title = "Previous Marker"; ObjectID = "1668"; */
+"1668.title" = "上一个标记";
+
+/* Class = "NSMenuItem"; title = "Previous Animation"; ObjectID = "1673"; */
+"1673.title" = "上一个动画";
+
+/* Class = "NSMenuItem"; title = "Beginning"; ObjectID = "1674"; */
+"1674.title" = "开头";
+
+/* Class = "NSMenuItem"; title = "Previous Media"; ObjectID = "1676"; */
+"1676.title" = "上一个媒体";
+
+/* Class = "NSMenuItem"; title = "Next Animation"; ObjectID = "1677"; */
+"1677.title" = "下一个动画";
+
+/* Class = "NSMenuItem"; title = "Send Feedback"; ObjectID = "1754"; */
+"1754.title" = "发送反馈";
+
+/* Class = "NSMenuItem"; title = "Clip Speed - Double"; ObjectID = "1810"; */
+"1810.title" = "剪辑速度 - 双倍";
+
+/* Class = "NSMenuItem"; title = "Clip Speed - Half"; ObjectID = "1811"; */
+"1811.title" = "剪辑速度 - 一半";
+
+/* Class = "NSMenuItem"; title = "Clip Speed - Random"; ObjectID = "1814"; */
+"1814.title" = "剪辑速度 - 随机";
+
+/* Class = "NSMenuItem"; title = "Start Over…"; ObjectID = "1836"; */
+"1836.title" = "重新开始…";
+
+/* Class = "NSMenuItem"; title = "Zoom to Selection"; ObjectID = "1843"; */
+"1843.title" = "缩放到选中";
+
+/* Class = "NSMenuItem"; title = "Next Media"; ObjectID = "1846"; */
+"1846.title" = "下一个媒体";
+
+/* Class = "NSMenuItem"; title = "15 Frames Backward"; ObjectID = "1849"; */
+"1849.title" = "15帧之后";
+
+/* Class = "NSMenuItem"; title = "15 Frames Forward"; ObjectID = "1851"; */
+"1851.title" = "15帧之前";
+
+/* Class = "NSMenuItem"; title = "CPP Exception Now!"; ObjectID = "1854"; */
+"1854.title" = "CPP出现异常！";
+
+/* Class = "NSMenuItem"; title = "ObjC Exception Now!"; ObjectID = "1855"; */
+"1855.title" = "ObjC出现异常！";
+
+/* Class = "NSMenuItem"; title = "Copy Properties"; ObjectID = "1858"; */
+"1858.title" = "复制属性";
+
+/* Class = "NSMenuItem"; title = "Paste Properties"; ObjectID = "1860"; */
+"1860.title" = "粘贴属性";
+
+/* Class = "NSMenuItem"; title = "Stitch Selected Media"; ObjectID = "1864"; */
+"1864.title" = "缝合选中的媒体";
+
+/* Class = "NSMenuItem"; title = "Record Time:"; ObjectID = "1871"; */
+"1871.title" = "录制时间:";
+
+/* Class = "NSMenuItem"; title = "Open Getting Started Project"; ObjectID = "1874"; */
+"1874.title" = "打开入门项目";
+
+/* Class = "NSMenuItem"; title = "Limit Maximum Texture Size"; ObjectID = "1880"; */
+"1880.title" = "限制最大纹理尺寸";
+
+/* Class = "NSMenuItem"; title = "Share History..."; ObjectID = "1884"; */
+"1884.title" = "分享历史...";
+
+/* Class = "NSMenuItem"; title = "Add 5 Screencast Successful Shares!"; ObjectID = "1890"; */
+"1890.title" = "5 erfolgreiche Screencast-Beiträge hinzufügen!";
+
+/* Class = "NSMenuItem"; title = "Add 5 Screencast Failed Shares!!"; ObjectID = "1894"; */
+"1894.title" = "5 fehlgeschlagene Screencast-Beiträge hinzufügen!!";
+
+/* Class = "NSMenuItem"; title = "Add 5 YouTube Successful Shares!!!"; ObjectID = "1895"; */
+"1895.title" = "5 erfolgreiche YouTube-Beiträge hinzufügen!";
+
+/* Class = "NSMenuItem"; title = "Add 5 Failed YouTube Shares!!!!!!!!"; ObjectID = "1896"; */
+"1896.title" = "5 fehlgeschlagene YouTube-Beiträge hinzufügen!";
+
+/* Class = "NSMenuItem"; title = "Mute First Track Audio"; ObjectID = "1901"; */
+"1901.title" = "Erste Audiospur stummschalten";
+
+/* Class = "NSMenuItem"; title = "Hide First Track Video"; ObjectID = "1903"; */
+"1903.title" = "隐藏第一个轨道视频";
+
+/* Class = "NSMenuItem"; title = "Connect Mobile Device..."; ObjectID = "1910"; */
+"1910.title" = "连接移动设备...";
+
+/* Class = "NSMenuItem"; title = "Google Drive..."; ObjectID = "1913"; */
+"1913.title" = "Google Drive...";
+
+/* Class = "NSMenuItem"; title = "Google Drive..."; ObjectID = "1916"; */
+"1916.title" = "Google Drive...";
+
+/* Class = "NSMenuItem"; title = "Account"; ObjectID = "1925"; */
+"1925.title" = "账号";
+
+/* Class = "NSMenu"; title = "Account"; ObjectID = "1926"; */
+"1926.title" = "账号";
+
+/* Class = "NSMenuItem"; title = "Not Signed In"; ObjectID = "1927"; */
+"1927.title" = "未登录";
+
+/* Class = "NSMenuItem"; title = "Sign In to Camtasia..."; ObjectID = "1929"; */
+"1929.title" = "登录到Camtasia…";
+
+/* Class = "NSMenuItem"; title = "View Account..."; ObjectID = "1933"; */
+"1933.title" = "查看账户...";
+
+/* Class = "NSMenuItem"; title = "Sign Out"; ObjectID = "1935"; */
+"1935.title" = "注销";
+
+/* Class = "NSMenuItem"; title = "Warp"; ObjectID = "AFW-Mt-Y43"; */
+"AFW-Mt-Y43.title" = "扭曲";
+
+/* Class = "NSMenuItem"; title = "Item"; ObjectID = "AFk-Xi-150"; */
+"AFk-Xi-150.title" = "条目";
+
+/* Class = "NSMenuItem"; title = "Send to Back"; ObjectID = "AJM-hK-E5S"; */
+"AJM-hK-E5S.title" = "移至底层";
+
+/* Class = "NSMenuItem"; title = "My Places..."; ObjectID = "AO1-EQ-E3p"; */
+"AO1-EQ-E3p.title" = "My Places...";
+
+/* Class = "NSMenuItem"; title = "Right Click"; ObjectID = "AO2-3Z-hJB"; */
+"AO2-3Z-hJB.title" = "右击";
+
+/* Class = "NSMenuItem"; title = "New Voice Narration..."; ObjectID = "ArL-T7-PqY"; */
+"ArL-T7-PqY.title" = "新语音旁白...";
+
+/* Class = "NSMenuItem"; title = "Show Welcome Window"; ObjectID = "Arb-Lk-JFd"; */
+"Arb-Lk-JFd.title" = "显示欢迎窗口";
+
+/* Class = "NSMenuItem"; title = "Highlight"; ObjectID = "BB3-7J-6bH"; */
+"BB3-7J-6bH.title" = "高亮";
+
+/* Class = "NSMenuItem"; title = "Freeze Region"; ObjectID = "BpY-fi-Q64"; */
+"BpY-fi-Q64.title" = "冻结区域";
+
+/* Class = "NSMenuItem"; title = "Edit Text"; ObjectID = "C0p-6N-ECB"; */
+"C0p-6N-ECB.title" = "编辑文字";
+
+/* Class = "NSMenuItem"; title = "Next Quiz"; ObjectID = "C4b-VY-oLD"; */
+"C4b-VY-oLD.title" = "下一个测验";
+
+/* Class = "NSMenuItem"; title = "SmartFocus"; ObjectID = "CV0-87-iPS"; */
+"CV0-87-iPS.title" = "自动对焦";
+
+/* Class = "NSMenuItem"; title = "Annotations"; ObjectID = "CZf-tb-PJm"; */
+"CZf-tb-PJm.title" = "注释";
+
+/* Class = "NSMenu"; title = "My Places"; ObjectID = "D2j-qD-LdW"; */
+"D2j-qD-LdW.title" = "我的位置";
+
+/* Class = "NSMenuItem"; title = "Add a Place..."; ObjectID = "DQ9-sN-KQ8"; */
+"DQ9-sN-KQ8.title" = "添加一个位置...";
+
+/* Class = "NSMenuItem"; title = "Italic"; ObjectID = "EHb-hD-keX"; */
+"EHb-hD-keX.title" = "斜体";
+
+/* Class = "NSMenuItem"; title = "Export for Windows…"; ObjectID = "EQ1-nU-T8w"; */
+"EQ1-nU-T8w.title" = "导出为Windows系统...";
+
+/* Class = "NSMenuItem"; title = "Gesture Effects"; ObjectID = "EdL-Za-4L1"; */
+"EdL-Za-4L1.title" = "手势特效";
+
+/* Class = "NSMenuItem"; title = "Clip Speed"; ObjectID = "F7Y-0b-23b"; */
+"F7Y-0b-23b.title" = "剪辑速度";
+
+/* Class = "NSMenuItem"; title = "Double Tap"; ObjectID = "F7i-Sm-UYC"; */
+"F7i-Sm-UYC.title" = "双击";
+
+/* Class = "NSMenu"; title = "Remove"; ObjectID = "FSc-9u-O8s"; */
+"FSc-9u-O8s.title" = "移除";
+
+/* Class = "NSMenuItem"; title = "Video Tutorials"; ObjectID = "FbQ-jf-uUg"; */
+"FbQ-jf-uUg.title" = "视频教程";
+
+/* Class = "NSMenuItem"; title = "Ripple"; ObjectID = "Fu7-a2-Sk0"; */
+"Fu7-a2-Sk0.title" = "涟漪";
+
+/* Class = "NSMenuItem"; title = "Scope"; ObjectID = "Fvf-bu-aew"; */
+"Fvf-bu-aew.title" = "范围";
+
+/* Class = "NSMenuItem"; title = "Pinch"; ObjectID = "G6W-Sv-JdW"; */
+"G6W-Sv-JdW.title" = "捏合";
+
+/* Class = "NSMenuItem"; title = "Add Animation"; ObjectID = "GCE-yK-60f"; */
+"GCE-yK-60f.title" = "添加动画";
+
+/* Class = "NSMenu"; title = "Arrange"; ObjectID = "HBW-FC-91O"; */
+"HBW-FC-91O.title" = "整理";
+
+/* Class = "NSMenuItem"; title = "Loading Places..."; ObjectID = "HOh-TT-VXU"; */
+"HOh-TT-VXU.title" = "正在加载Places...";
+
+/* Class = "NSMenuItem"; title = "Pitch"; ObjectID = "HYg-12-wof"; */
+"HYg-12-wof.title" = "音调";
+
+/* Class = "NSMenuItem"; title = "Captions"; ObjectID = "HZ5-Li-4G8"; */
+"HZ5-Li-4G8.title" = "字幕";
+
+/* Class = "NSMenuItem"; title = "Previous Quiz"; ObjectID = "HeT-ah-JZx"; */
+"HeT-ah-JZx.title" = "上一个测验";
+
+/* Class = "NSMenuItem"; title = "Align"; ObjectID = "HkJ-E1-Tr5"; */
+"HkJ-E1-Tr5.title" = "对齐";
+
+/* Class = "NSMenuItem"; title = "Noise Removal"; ObjectID = "IBc-J3-Fvb"; */
+"IBc-J3-Fvb.title" = "降噪";
+
+/* Class = "NSMenuItem"; title = "Reveal"; ObjectID = "Icf-7V-YoY"; */
+"Icf-7V-YoY.title" = "透视";
+
+/* Class = "NSMenuItem"; title = "Audio Effects"; ObjectID = "Io5-2A-1At"; */
+"Io5-2A-1At.title" = "音频特效";
+
+/* Class = "NSMenuItem"; title = "Target"; ObjectID = "KAB-bc-kyz"; */
+"KAB-bc-kyz.title" = "目标";
+
+/* Class = "NSMenuItem"; title = "Drop Shadow"; ObjectID = "KGH-tW-bB3"; */
+"KGH-tW-bB3.title" = "投影";
+
+/* Class = "NSMenuItem"; title = "Bring to Front"; ObjectID = "KZQ-5r-OsB"; */
+"KZQ-5r-OsB.title" = "移至顶层";
+
+/* Class = "NSMenuItem"; title = "Test Exporting Crash"; ObjectID = "Kfp-gx-50w"; */
+"Kfp-gx-50w.title" = "测试导出崩溃";
+
+/* Class = "NSMenuItem"; title = "All Audio Points"; ObjectID = "L4O-zl-dQO"; */
+"L4O-zl-dQO.title" = "所有音频点";
+
+/* Class = "NSMenuItem"; title = "Highlight Media With Effect"; ObjectID = "LGZ-jt-SH1"; */
+"LGZ-jt-SH1.title" = "高亮有特效的媒体";
+
+/* Class = "NSMenuItem"; title = "Window Spotlight"; ObjectID = "LKn-kJ-0Og"; */
+"LKn-kJ-0Og.title" = "窗口聚光灯";
+
+/* Class = "NSMenuItem"; title = "Text"; ObjectID = "NXa-lu-HiO"; */
+"NXa-lu-HiO.title" = "文字";
+
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "NcQ-RB-fMy"; */
+"NcQ-RB-fMy.title" = "粗体";
+
+/* Class = "NSMenuItem"; title = "Right Click"; ObjectID = "NgB-PI-vye"; */
+"NgB-PI-vye.title" = "右击";
+
+/* Class = "NSMenuItem"; title = "Target"; ObjectID = "Ny2-kN-Odx"; */
+"Ny2-kN-Odx.title" = "目标";
+
+/* Class = "NSMenuItem"; title = "Justify"; ObjectID = "OAp-1I-qkp"; */
+"OAp-1I-qkp.title" = "两端";
+
+/* Class = "NSMenuItem"; title = "Quizzes"; ObjectID = "OI5-4L-bXM"; */
+"OI5-4L-bXM.title" = "测验";
+
+/* Class = "NSMenuItem"; title = "No Opacity"; ObjectID = "OtU-ou-oz2"; */
+"OtU-ou-oz2.title" = "没有透明度";
+
+/* Class = "NSMenuItem"; title = "Remove All"; ObjectID = "Oy2-1x-Xcx"; */
+"Oy2-1x-Xcx.title" = "移除所有";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "P7q-zu-Ne0"; */
+"P7q-zu-Ne0.title" = "进入全屏";
+
+/* Class = "NSMenuItem"; title = "Paste Effects"; ObjectID = "PEC-S8-L6C"; */
+"PEC-S8-L6C.title" = "粘贴特效";
+
+/* Class = "NSMenuItem"; title = "Log In..."; ObjectID = "Pii-c7-Ij7"; */
+"Pii-c7-Ij7.title" = "登录...";
+
+/* Class = "NSMenuItem"; title = "Left Click"; ObjectID = "Q7R-TR-wyn"; */
+"Q7R-TR-wyn.title" = "左击";
+
+/* Class = "NSMenuItem"; title = "Keystroke"; ObjectID = "QBc-Fm-fjq"; */
+"QBc-Fm-fjq.title" = "按键";
+
+/* Class = "NSMenuItem"; title = "Callouts"; ObjectID = "RxW-O7-LTG"; */
+"RxW-O7-LTG.title" = "注释";
+
+/* Class = "NSMenuItem"; title = "Run Keystroke Test"; ObjectID = "SWg-ve-oBU"; */
+"SWg-ve-oBU.title" = "运行按键测试";
+
+/* Class = "NSMenuItem"; title = "End"; ObjectID = "Sm8-Vs-FZr"; */
+"Sm8-Vs-FZr.title" = "结束";
+
+/* Class = "NSMenuItem"; title = "All Cursor Effects"; ObjectID = "SzY-am-xQj"; */
+"SzY-am-xQj.title" = "所有鼠标特效";
+
+/* Class = "NSMenuItem"; title = "Shapes"; ObjectID = "Szz-EC-Jeo"; */
+"Szz-EC-Jeo.title" = "形状";
+
+/* Class = "NSMenuItem"; title = "Center"; ObjectID = "TN7-5f-iIu"; */
+"TN7-5f-iIu.title" = "中";
+
+/* Class = "NSMenu"; title = "Visual Effects"; ObjectID = "Tdx-RT-TlT"; */
+"Tdx-RT-TlT.title" = "视觉特效";
+
+/* Class = "NSMenuItem"; title = "My Places"; ObjectID = "U8w-tc-4if"; */
+"U8w-tc-4if.title" = "My Places";
+
+/* Class = "NSMenuItem"; title = "Spotlight"; ObjectID = "U25-jC-nxX"; */
+"U25-jC-nxX.title" = "聚光灯";
+
+/* Class = "NSMenu"; title = "Add Effects"; ObjectID = "UIP-YL-auz"; */
+"UIP-YL-auz.title" = "添加特效";
+
+/* Class = "NSMenuItem"; title = "Captions..."; ObjectID = "UMA-XM-30O"; */
+"UMA-XM-30O.title" = "字幕...";
+
+/* Class = "NSMenu"; title = "Cursor Effects"; ObjectID = "UrQ-ZF-ZG1"; */
+"UrQ-ZF-ZG1.title" = "鼠标特效";
+
+/* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "Uzc-0c-qzH"; */
+"Uzc-0c-qzH.title" = "取消群组";
+
+/* Class = "NSMenuItem"; title = "Attach Canvas"; ObjectID = "WVV-va-jfP"; */
+"WVV-va-jfP.title" = "吸附画布";
+
+/* Class = "NSMenuItem"; title = "Duration..."; ObjectID = "WgE-MS-jaC"; */
+"WgE-MS-jaC.title" = "时长...";
+
+/* Class = "NSMenu"; title = "Captions"; ObjectID = "WhD-Pb-JET"; */
+"WhD-Pb-JET.title" = "字幕";
+
+/* Class = "NSMenuItem"; title = "Warp"; ObjectID = "Wuf-a2-XGY"; */
+"Wuf-a2-XGY.title" = "扭曲";
+
+/* Class = "NSMenuItem"; title = "Show Quiz Track"; ObjectID = "XF5-gy-nRL"; */
+"XF5-gy-nRL.title" = "显示测验轨道";
+
+/* Class = "NSMenuItem"; title = "Add Behavior"; ObjectID = "YeT-3O-hbg"; */
+"YeT-3O-hbg.title" = "添加行为";
+
+/* Class = "NSMenuItem"; title = "Add Sketch Effect"; ObjectID = "ZNX-tg-rMw"; */
+"ZNX-tg-rMw.title" = "添加手绘特效";
+
+/* Class = "NSMenuItem"; title = "Transitions"; ObjectID = "a1x-D9-F8R"; */
+"a1x-D9-F8R.title" = "转场";
+
+/* Class = "NSMenuItem"; title = "Detach Preview"; ObjectID = "aRF-wT-Bq1"; */
+"aRF-wT-Bq1.title" = "拆分预览";
+
+/* Class = "NSMenuItem"; title = "All Audio Effects"; ObjectID = "aSy-Bl-udg"; */
+"aSy-Bl-udg.title" = "所有音频特效";
+
+/* Class = "NSMenuItem"; title = "Remove Captions"; ObjectID = "ahA-Yt-JK7"; */
+"ahA-Yt-JK7.title" = "移除字幕";
+
+/* Class = "NSMenuItem"; title = "All Visual Effects"; ObjectID = "ai5-6k-J6X"; */
+"ai5-6k-J6X.title" = "所有视觉特效";
+
+/* Class = "NSMenuItem"; title = "Debug"; ObjectID = "asp-hD-3dq"; */
+"asp-hD-3dq.title" = "调试";
+
+/* Class = "NSMenuItem"; title = "Drifting"; ObjectID = "b06-Np-ciJ"; */
+"b06-Np-ciJ.title" = "飘动";
+
+/* Class = "NSMenuItem"; title = "Colorize"; ObjectID = "bKx-1Q-C5z"; */
+"bKx-1Q-C5z.title" = "着色";
+
+/* Class = "NSMenuItem"; title = "Remove All Effects"; ObjectID = "bKy-Ub-rmR"; */
+"bKy-Ub-rmR.title" = "移除所有特效";
+
+/* Class = "NSMenuItem"; title = "Left Click"; ObjectID = "bVZ-Mn-adp"; */
+"bVZ-Mn-adp.title" = "左击";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "bsb-Wg-Yhe"; */
+"bsb-Wg-Yhe.title" = "自定义";
+
+/* Class = "NSMenuItem"; title = "Fade"; ObjectID = "c8s-Dp-mfy"; */
+"c8s-Dp-mfy.title" = "渐隐";
+
+/* Class = "NSMenuItem"; title = "Reflection"; ObjectID = "cDE-Xb-aGo"; */
+"cDE-Xb-aGo.title" = "反射";
+
+/* Class = "NSMenu"; title = "Add Animation"; ObjectID = "cJO-5n-1JX"; */
+"cJO-5n-1JX.title" = "添加动画";
+
+/* Class = "NSMenuItem"; title = "Paste Style"; ObjectID = "cOd-9k-Jox"; */
+"cOd-9k-Jox.title" = "粘贴样式";
+
+/* Class = "NSMenu"; title = "Align"; ObjectID = "ciq-7v-uTg"; */
+"ciq-7v-uTg.title" = "对齐";
+
+/* Class = "NSMenuItem"; title = "Interactive Hotspot"; ObjectID = "cka-Ro-Q3t"; */
+"cka-Ro-Q3t.title" = "交互热点";
+
+/* Class = "NSMenu"; title = "Beta"; ObjectID = "cly-gO-j2R"; */
+"cly-gO-j2R.title" = "测试版";
+
+/* Class = "NSMenuItem"; title = "Ripple"; ObjectID = "dlX-SR-K2z"; */
+"dlX-SR-K2z.title" = "涟漪";
+
+/* Class = "NSMenuItem"; title = "Tilt Right"; ObjectID = "duB-Tq-8Ct"; */
+"duB-Tq-8Ct.title" = "右倾";
+
+/* Class = "NSMenuItem"; title = "Device Frame"; ObjectID = "dz5-Uj-A9g"; */
+"dz5-Uj-A9g.title" = "设备帧";
+
+/* Class = "NSMenuItem"; title = "Test"; ObjectID = "e21-z3-xlB"; */
+"e21-z3-xlB.title" = "测试";
+
+/* Class = "NSMenuItem"; title = "Detach Canvas"; ObjectID = "eIU-x4-HFv"; */
+"eIU-x4-HFv.title" = "取消吸附画布";
+
+/* Class = "NSMenuItem"; title = "Remove"; ObjectID = "eIt-wp-0O3"; */
+"eIt-wp-0O3.title" = "移除";
+
+/* Class = "NSMenuItem"; title = "Add Effects"; ObjectID = "eX4-4o-PlU"; */
+"eX4-4o-PlU.title" = "添加特效";
+
+/* Class = "NSMenuItem"; title = "Media Bin"; ObjectID = "ejm-4o-Kse"; */
+"ejm-4o-Kse.title" = "媒体箱";
+
+/* Class = "NSMenu"; title = "Quizzes"; ObjectID = "f1C-5W-tdn"; */
+"f1C-5W-tdn.title" = "测验";
+
+/* Class = "NSMenu"; title = "Add Behavior"; ObjectID = "f6x-Sd-2Gf"; */
+"f6x-Sd-2Gf.title" = "添加行为";
+
+/* Class = "NSMenu"; title = "Annotations"; ObjectID = "fFw-kb-H67"; */
+"fFw-kb-H67.title" = "注释";
+
+/* Class = "NSMenuItem"; title = "Sketch Motion"; ObjectID = "fKv-7L-615"; */
+"fKv-7L-615.title" = "手绘动画";
+
+/* Class = "NSMenu"; title = "Audio Effects"; ObjectID = "fMv-w5-sJD"; */
+"fMv-w5-sJD.title" = "音频特效";
+
+/* Class = "NSMenuItem"; title = "Dev"; ObjectID = "fPJ-GD-Ljm"; */
+"fPJ-GD-Ljm.title" = "开发";
+
+/* Class = "NSMenuItem"; title = "Zoom to Maximum"; ObjectID = "fQ9-dr-unh"; */
+"fQ9-dr-unh.title" = "缩放到最大";
+
+/* Class = "NSMenuItem"; title = "Send Backward"; ObjectID = "flh-vG-RVM"; */
+"flh-vG-RVM.title" = "下移一层";
+
+/* Class = "NSMenuItem"; title = "Switch Environments"; ObjectID = "g1b-RX-CTJ"; */
+"g1b-RX-CTJ.title" = "切换环境";
+
+/* Class = "NSMenu"; title = "Right Click"; ObjectID = "g6N-ed-LBA"; */
+"g6N-ed-LBA.title" = "右击";
+
+/* Class = "NSMenuItem"; title = "Arrows"; ObjectID = "gdc-Nq-mcl"; */
+"gdc-Nq-mcl.title" = "箭头";
+
+/* Class = "NSMenuItem"; title = "Show Tools Panel"; ObjectID = "gyw-4F-jjX"; */
+"gyw-4F-jjX.title" = "显示工具面板";
+
+/* Class = "NSMenuItem"; title = "Sliding"; ObjectID = "hCH-fc-dWj"; */
+"hCH-fc-dWj.title" = "滑动";
+
+/* Class = "NSMenu"; title = "Gesture Effects"; ObjectID = "i02-rb-PWk"; */
+"i02-rb-PWk.title" = "手势特效";
+
+/* Class = "NSMenuItem"; title = "Keystroke"; ObjectID = "irv-X5-gtS"; */
+"irv-X5-gtS.title" = "按键";
+
+/* Class = "NSMenuItem"; title = "Jump & Fall"; ObjectID = "jbQ-Sa-OTp"; */
+"jbQ-Sa-OTp.title" = "跳落";
+
+/* Class = "NSMenu"; title = "Import"; ObjectID = "k7A-Kq-hW0"; */
+"k7A-Kq-hW0.title" = "导入";
+
+/* Class = "NSMenu"; title = "Markers"; ObjectID = "kb6-6y-ZyP"; */
+"kb6-6y-ZyP.title" = "标记";
+
+/* Class = "NSMenuItem"; title = "Scope"; ObjectID = "kmh-bl-WcS"; */
+"kmh-bl-WcS.title" = "范围";
+
+/* Class = "NSMenuItem"; title = "Cursor"; ObjectID = "kwo-KP-QGM"; */
+"kwo-KP-QGM.title" = "鼠标";
+
+/* Class = "NSMenuItem"; title = "Interactivity"; ObjectID = "l9w-AI-hcn"; */
+"l9w-AI-hcn.title" = "交互功能";
+
+/* Class = "NSMenuItem"; title = "Display"; ObjectID = "m2f-Tq-0wP"; */
+"m2f-Tq-0wP.title" = "显示";
+
+/* Class = "NSMenuItem"; title = "Tilt Left"; ObjectID = "mGE-gH-jRN"; */
+"mGE-gH-jRN.title" = "左倾";
+
+/* Class = "NSMenuItem"; title = "Pop Up"; ObjectID = "mJH-cq-LHs"; */
+"mJH-cq-LHs.title" = "弹出";
+
+/* Class = "NSMenuItem"; title = "Scale Up"; ObjectID = "mXP-wF-dMK"; */
+"mXP-wF-dMK.title" = "纵向扩展";
+
+/* Class = "NSMenuItem"; title = "Pulsating"; ObjectID = "mbb-2c-IXF"; */
+"mbb-2c-IXF.title" = "脉动";
+
+/* Class = "NSMenuItem"; title = "Arrange"; ObjectID = "mgM-e2-nh2"; */
+"mgM-e2-nh2.title" = "整理";
+
+/* Class = "NSMenuItem"; title = "Scale Down"; ObjectID = "mlL-Uw-23K"; */
+"mlL-Uw-23K.title" = "等比缩小";
+
+/* Class = "NSMenuItem"; title = "Glow"; ObjectID = "n7G-3z-QRj"; */
+"n7G-3z-QRj.title" = "发光";
+
+/* Class = "NSMenuItem"; title = "Add Timeline Marker"; ObjectID = "nV0-LB-4AZ"; */
+"nV0-LB-4AZ.title" = "添加时间轴标记";
+
+/* Class = "NSMenuItem"; title = "Gesture Effects"; ObjectID = "nYA-Zg-iCw"; */
+"nYA-Zg-iCw.title" = "手势特效";
+
+/* Class = "NSMenuItem"; title = "Scale"; ObjectID = "nqq-e6-BLe"; */
+"nqq-e6-BLe.title" = "缩放";
+
+/* Class = "NSMenuItem"; title = "SmartFocus at Time"; ObjectID = "o0c-OE-GXn"; */
+"o0c-OE-GXn.title" = "自动对焦在时间";
+
+/* Class = "NSMenu"; title = "Debug"; ObjectID = "oSg-kX-baM"; */
+"oSg-kX-baM.title" = "调试";
+
+/* Class = "NSMenuItem"; title = "Blur and Highlight"; ObjectID = "ogF-uB-aSZ"; */
+"ogF-uB-aSZ.title" = "模糊和高光";
+
+/* Class = "NSMenuItem"; title = "Arrows"; ObjectID = "oiL-ac-EBP"; */
+"oiL-ac-EBP.title" = "箭头";
+
+/* Class = "NSMenuItem"; title = "Import Zipped Project…"; ObjectID = "ooV-lW-O65"; */
+"ooV-lW-O65.title" = "导入ZIP项目...";
+
+/* Class = "NSMenuItem"; title = "Tap and Hold"; ObjectID = "pDa-F7-pAA"; */
+"pDa-F7-pAA.title" = "点击并按住";
+
+/* Class = "NSMenuItem"; title = "Visual Effects"; ObjectID = "pQO-BY-EI9"; */
+"pQO-BY-EI9.title" = "视觉特效";
+
+/* Class = "NSMenuItem"; title = "Underline"; ObjectID = "ppw-ka-sZc"; */
+"ppw-ka-sZc.title" = "下划线";
+
+/* Class = "NSMenuItem"; title = "Add Timeline Quiz"; ObjectID = "q0I-lQ-a37"; */
+"q0I-lQ-a37.title" = "添加时间轴测验";
+
+/* Class = "NSMenuItem"; title = "Rings"; ObjectID = "rT1-LI-Nza"; */
+"rT1-LI-Nza.title" = "圆环";
+
+/* Class = "NSMenuItem"; title = "All Animations"; ObjectID = "sJV-Am-k2r"; */
+"sJV-Am-k2r.title" = "所有动画";
+
+/* Class = "NSMenuItem"; title = "Full Opacity"; ObjectID = "sZj-Z5-3Vt"; */
+"sZj-Z5-3Vt.title" = "全透明";
+
+/* Class = "NSMenuItem"; title = "Mask"; ObjectID = "sc3-Je-mDf"; */
+"sc3-Je-mDf.title" = "遮罩";
+
+/* Class = "NSMenuItem"; title = "Clip Speed"; ObjectID = "seK-l6-WhC"; */
+"seK-l6-WhC.title" = "剪辑速度";
+
+/* Class = "NSMenuItem"; title = "Sound"; ObjectID = "tkk-YY-TRX"; */
+"tkk-YY-TRX.title" = "声音";
+
+/* Class = "NSMenuItem"; title = "Import"; ObjectID = "ttO-hq-vVu"; */
+"ttO-hq-vVu.title" = "导入";
+
+/* Class = "NSMenuItem"; title = "Test Scripting"; ObjectID = "uyw-Ha-QQn"; */
+"uyw-Ha-QQn.title" = "测试脚本";
+
+/* Class = "NSMenuItem"; title = "Enable Timeline Snapping"; ObjectID = "v2k-pf-ekJ"; */
+"v2k-pf-ekJ.title" = "开启时间轴对齐";
+
+/* Class = "NSMenu"; title = "Text"; ObjectID = "wAs-x6-a0y"; */
+"wAs-x6-a0y.title" = "文字";
+
+/* Class = "NSMenuItem"; title = "Live"; ObjectID = "wBX-zh-16C"; */
+"wBX-zh-16C.title" = "生动";
+
+/* Class = "NSMenu"; title = "Left Click"; ObjectID = "wfC-nU-90O"; */
+"wfC-nU-90O.title" = "左击";
+
+/* Class = "NSMenuItem"; title = "Voice Narration"; ObjectID = "wfI-DR-rMJ"; */
+"wfI-DR-rMJ.title" = "语音旁白";
+
+/* Class = "NSMenuItem"; title = " Add Pixalate Effect"; ObjectID = "xtb-yH-93V"; */
+"xtb-yH-93V.title" = " 添加马赛克特效";
+
+/* Class = "NSMenuItem"; title = "Remove a Color"; ObjectID = "xxK-nr-TBe"; */
+"xxK-nr-TBe.title" = "移除一个颜色";
+
+/* Class = "NSMenuItem"; title = "Restore"; ObjectID = "yBy-6U-dWp"; */
+"yBy-6U-dWp.title" = "重置";
+
+/* Class = "NSMenuItem"; title = "Scale To Fit"; ObjectID = "ydJ-hJ-Plv"; */
+"ydJ-hJ-Plv.title" = "缩放到自适应";
+
+/* Class = "NSMenuItem"; title = "Color Adjustment"; ObjectID = "ykS-MI-YPp"; */
+"ykS-MI-YPp.title" = "颜色调整";
+
+/* Class = "NSMenuItem"; title = "Tap"; ObjectID = "yqo-Qn-Ra9"; */
+"yqo-Qn-Ra9.title" = "点击";
+
+/* Class = "NSMenuItem"; title = "Swipe"; ObjectID = "zBd-uP-q1g"; */
+"zBd-uP-q1g.title" = "轻扫";
+
+/* Class = "NSMenuItem"; title = "New document with 120fps edit rate"; ObjectID = "69G-sS-6LZ"; */
+"69G-sS-6LZ.title" = "新建文档为120fps编辑帧率";
+
+/* Class = "NSMenuItem"; title = "Library"; ObjectID = "96X-4w-Hl7"; */
+"96X-4w-Hl7.title" = "库";
+
+/* Class = "NSMenuItem"; title = "Import SVG as Sketch Motion..."; ObjectID = "CCe-Ke-U4X"; */
+"CCe-Ke-U4X.title" = "导入SVG用作手绘动画...";
+
+/* Class = "NSMenuItem"; title = "Legacy Device Frame"; ObjectID = "HNK-Vh-wUb"; */
+"HNK-Vh-wUb.title" = "传统设备帧";
+
+/* Class = "NSMenuItem"; title = "New document with 60fps edit rate"; ObjectID = "Iqw-Hr-dDf"; */
+"Iqw-Hr-dDf.title" = "新建文档为60fps编辑帧率";
+
+/* Class = "NSMenu"; title = "Library"; ObjectID = "JeU-me-s7I"; */
+"JeU-me-s7I.title" = "库";
+
+/* Class = "NSMenuItem"; title = "Library"; ObjectID = "duX-dX-M7U"; */
+"duX-dX-M7U.title" = "库";
+
+/* Class = "NSMenuItem"; title = "Download More Assets..."; ObjectID = "hvC-U5-4yT"; */
+"hvC-U5-4yT.title" = "下载更多素材...";
+
+/* Class = "NSMenuItem"; title = "New document with 50fps edit rate"; ObjectID = "iBv-9Q-22F"; */
+"iBv-9Q-22F.title" = "新建文档为50fps编辑帧率";
+
+/* Class = "NSMenuItem"; title = "New document with 25fps edit rate"; ObjectID = "mf5-n2-e8g"; */
+"mf5-n2-e8g.title" = "新建文档为25fps编辑帧率";
+
+/* Class = "NSMenuItem"; title = "Lock-up CamtasiaUI for 30s"; ObjectID = "s1B-NK-PtL"; */
+"s1B-NK-PtL.title" = "锁定Camtasia界面30秒";
+
+/* Class = "NSMenuItem"; title = "Show Lua Console"; ObjectID = "vsf-Zw-pJQ"; */
+"vsf-Zw-pJQ.title" = "显示Lua控制台";
+

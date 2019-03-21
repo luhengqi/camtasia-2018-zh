@@ -1,0 +1,72 @@
+/* Class = "NSTextFieldCell"; title = "Glow"; ObjectID = "33"; */
+"33.title" = "发光";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Intensity:"; ObjectID = "105"; */
+"105.title" = "强度:";
+
+/* Class = "NSTextFieldCell"; title = "Radius:"; ObjectID = "107"; */
+"107.title" = "半径:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset radius to default"; ObjectID = "145"; */
+"145.ibShadowedToolTip" = "重置半径到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset intensity to default"; ObjectID = "147"; */
+"147.ibShadowedToolTip" = "重置强度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "177"; */
+"177.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make glow area larger or smaller"; ObjectID = "177"; */
+"177.ibShadowedToolTip" = "拖曳以更改发光区域大小";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "intensity slider"; ObjectID = "182"; */
+"182.ibExternalAccessibilityDescription" = "强度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change glow amount"; ObjectID = "182"; */
+"182.ibShadowedToolTip" = "拖曳以更改发光数量";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "radius edit field"; ObjectID = "188"; */
+"188.ibExternalAccessibilityDescription" = "半径编辑字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "intensity edit field"; ObjectID = "190"; */
+"190.ibExternalAccessibilityDescription" = "强度编辑字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "283"; */
+"283.ibShadowedToolTip" = "效果淡入秒数";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "284"; */
+"284.ibShadowedToolTip" = "效果淡出秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "285"; */
+"285.ibShadowedToolTip" = "效果淡入秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "286"; */
+"286.ibShadowedToolTip" = "效果淡出秒数";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "293"; */
+"293.title" = "淡出:";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "294"; */
+"294.title" = "淡入:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "310"; */
+"310.ibShadowedToolTip" = "重置淡入到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "314"; */
+"314.ibShadowedToolTip" = "重置淡出到默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "333"; */
+"333.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "334"; */
+"334.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "335"; */
+"335.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "336"; */
+"336.ibShadowedMultipleValuesPlaceholder" = "-";
+

@@ -1,0 +1,36 @@
+/* Class = "NSTextFieldCell"; title = "Recommended"; ObjectID = "1t2-Nf-rPD"; */
+"1t2-Nf-rPD.title" = "推荐";
+
+/* Class = "NSTextFieldCell"; title = "Signed in as:"; ObjectID = "77b-I1-Q4G"; */
+"77b-I1-Q4G.title" = "登录为:";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "D96-1y-6lj"; */
+"D96-1y-6lj.title" = "分享";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "HBn-97-6hZ"; */
+"HBn-97-6hZ.title" = "取消";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset quality to last saved setting"; ObjectID = "K9O-ar-e3k"; */
+"K9O-ar-e3k.ibShadowedToolTip" = "重置质量到最近一次保存设置";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "File Name TextField"; ObjectID = "b80-OK-UZN"; */
+"b80-OK-UZN.ibExternalAccessibilityDescription" = "文件名文本字段";
+
+/* Class = "NSButtonCell"; title = "Browse..."; ObjectID = "bns-29-DxC"; */
+"bns-29-DxC.title" = "浏览...";
+
+/* Class = "NSTextFieldCell"; title = "Smaller file size"; ObjectID = "eel-BD-VjK"; */
+"eel-BD-VjK.title" = "更小文件";
+
+/* Class = "NSTextFieldCell"; title = "Higher quality"; ObjectID = "fyR-G3-J8i"; */
+"fyR-G3-J8i.title" = "更高质量";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "iz6-lQ-0qP"; */
+"iz6-lQ-0qP.title" = "标题:";
+
+/* Class = "NSTextFieldCell"; title = "Folder:"; ObjectID = "kU1-Xa-fhW"; */
+"kU1-Xa-fhW.title" = "文件夹:";
+
+/* Class = "NSTextFieldCell"; title = "None"; ObjectID = "v70-B2-lGs"; */
+"v70-B2-lGs.title" = "无";
+

@@ -1,0 +1,12 @@
+/* Class = "NSButtonCell"; title = "Show Caption View"; ObjectID = "230"; */
+"230.title" = "显示字幕视图";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "233"; */
+"233.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSButtonCell"; title = "Del"; ObjectID = "234"; */
+"234.title" = "删除";
+
+/* Class = "NSTextFieldCell"; title = "Captions"; ObjectID = "qD8-WA-opk"; */
+"qD8-WA-opk.title" = "字幕";
+

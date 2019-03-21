@@ -1,0 +1,9 @@
+/* Class = "NSWindow"; title = "TOC Entry Editor"; ObjectID = "1"; */
+"1.title" = "TOC条目编辑器";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "6"; */
+"6.title" = "时长:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "y6e-5M-wqf"; */
+"y6e-5M-wqf.title" = "确认";
+

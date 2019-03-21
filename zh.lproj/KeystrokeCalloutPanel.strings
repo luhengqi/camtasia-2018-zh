@@ -1,0 +1,45 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Reset callout style to default"; ObjectID = "562"; */
+"562.ibShadowedToolTip" = "重置注释样式到默认";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select key style"; ObjectID = "564"; */
+"564.ibShadowedToolTip" = "选择按键样式";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "566"; */
+"566.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Outline"; ObjectID = "568"; */
+"568.title" = "轮廓";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "569"; */
+"569.title" = "灰色";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "570"; */
+"570.title" = "清晰";
+
+/* Class = "NSMenuItem"; title = "Traditional"; ObjectID = "571"; */
+"571.title" = "传统";
+
+/* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "574"; */
+"574.title" = "样式:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset background to default"; ObjectID = "667"; */
+"667.ibShadowedToolTip" = "重置背景到默认";
+
+/* Class = "NSButtonCell"; title = "Draw background"; ObjectID = "669"; */
+"669.title" = "绘制背景";
+
+/* Class = "NSView"; ibShadowedToolTip = "Type keystroke"; ObjectID = "701"; */
+"701.ibShadowedToolTip" = "输入按键";
+
+/* Class = "NSTextFieldCell"; title = "Keys:"; ObjectID = "703"; */
+"703.title" = "按键:";
+
+/* Class = "NSMenuItem"; title = "Black"; ObjectID = "705"; */
+"705.title" = "黑色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset to default"; ObjectID = "707"; */
+"707.ibShadowedToolTip" = "重置到默认";
+
+/* Class = "NSButtonCell"; title = "Show modifier key name"; ObjectID = "727"; */
+"727.title" = "显示修饰按键名称";
+

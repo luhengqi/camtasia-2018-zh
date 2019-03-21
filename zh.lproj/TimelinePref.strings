@@ -1,0 +1,66 @@
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "43"; */
+"43.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "Default animation duration:"; ObjectID = "44"; */
+"44.title" = "默认动画时长:";
+
+/* Class = "NSTextFieldCell"; title = "1.0"; ObjectID = "45"; */
+"45.title" = "1.0";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "47"; */
+"47.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "Default annotation duration:"; ObjectID = "48"; */
+"48.title" = "默认动画时长:";
+
+/* Class = "NSTextFieldCell"; title = "5.0"; ObjectID = "49"; */
+"49.title" = "5,0";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "51"; */
+"51.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "Default transition duration:"; ObjectID = "52"; */
+"52.title" = "默认转场时长:";
+
+/* Class = "NSTextFieldCell"; title = "1.0"; ObjectID = "53"; */
+"53.title" = "1.0";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "56"; */
+"56.title" = "秒";
+
+/* Class = "NSTextFieldCell"; title = "Default image duration:"; ObjectID = "60"; */
+"60.title" = "默认图片时长:";
+
+/* Class = "NSTextFieldCell"; title = "5.0"; ObjectID = "61"; */
+"61.title" = "5,0";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "99"; */
+"99.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Select None"; ObjectID = "100"; */
+"100.title" = "选择无";
+
+/* Class = "NSMenuItem"; title = "Select Left"; ObjectID = "101"; */
+"101.title" = "选择左边";
+
+/* Class = "NSMenuItem"; title = "Select Right"; ObjectID = "102"; */
+"102.title" = "选择右边";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "103"; */
+"103.title" = "全选";
+
+/* Class = "NSTextFieldCell"; title = "After a split:"; ObjectID = "105"; */
+"105.title" = "分割后:";
+
+/* Class = "NSTextFieldCell"; title = "4.0"; ObjectID = "111"; */
+"111.title" = "4.0";
+
+/* Class = "NSTextFieldCell"; title = "Default caption duration:"; ObjectID = "113"; */
+"113.title" = "默认字幕时长:";
+
+/* Class = "NSTextFieldCell"; title = "seconds"; ObjectID = "114"; */
+"114.title" = "秒";
+
+/* Class = "NSButtonCell"; title = "Enable auto-stitching"; ObjectID = "119"; */
+"119.title" = "开启自动缝合";
+

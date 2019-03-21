@@ -1,0 +1,72 @@
+/* Class = "NSBox"; title = "Viewer Identity"; ObjectID = "1bv-4d-Oym"; */
+"1bv-4d-Oym.title" = "访客认证";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "3Z5-L6-QVY"; */
+"3Z5-L6-QVY.title" = "单选";
+
+/* Class = "NSButtonCell"; title = "Allow viewers to take quiz anonymously"; ObjectID = "64W-Oq-mdF"; */
+"64W-Oq-mdF.title" = "允许访客匿名参加测验";
+
+/* Class = "NSTextFieldCell"; title = "'Previous' button:"; ObjectID = "E39-Bg-KGN"; */
+"E39-Bg-KGN.title" = "'预览'按钮:";
+
+/* Class = "NSTextFieldCell"; title = "'View Answers' button:"; ObjectID = "EsF-jW-GgG"; */
+"EsF-jW-GgG.title" = "'查看答案'按钮:";
+
+/* Class = "NSTabViewItem"; label = "Appearance"; ObjectID = "Fas-tt-Fvk"; */
+"Fas-tt-Fvk.label" = "外观";
+
+/* Class = "NSButtonCell"; title = "Allow viewers to skip quiz"; ObjectID = "H9r-bX-aSZ"; */
+"H9r-bX-aSZ.title" = "允许访客跳过测验";
+
+/* Class = "NSTextFieldCell"; title = "Confirm email:"; ObjectID = "IFx-em-zBM"; */
+"IFx-em-zBM.title" = "确认邮箱:";
+
+/* Class = "NSTextFieldCell"; title = "'Continue' button:"; ObjectID = "Kqk-XQ-cT0"; */
+"Kqk-XQ-cT0.title" = "'继续'按钮:";
+
+/* Class = "NSTextFieldCell"; title = "• Quiz results are sent to this email address"; ObjectID = "LME-Vo-fnN"; */
+"LME-Vo-fnN.title" = "• 测验结果发送到此邮箱";
+
+/* Class = "NSButtonCell"; title = "Require viewers to input name and email address"; ObjectID = "QU7-sX-IId"; */
+"QU7-sX-IId.title" = "需要访客输入名字和邮箱";
+
+/* Class = "NSWindow"; title = "Quiz Settings"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "测验设置";
+
+/* Class = "NSTextFieldCell"; title = "• An incorrect email address cannot be changed"; ObjectID = "SHc-Ag-N5S"; */
+"SHc-Ag-N5S.title" = "• 一个错误的邮箱无法更改";
+
+/* Class = "NSTextFieldCell"; title = "• Results are sent once per day if new data is present"; ObjectID = "Vq5-Hb-fzH"; */
+"Vq5-Hb-fzH.title" = "• 结果将会每天发送一次如果有新数据推送";
+
+/* Class = "NSTextFieldCell"; title = "Recipient email:"; ObjectID = "Y3h-nS-IYi"; */
+"Y3h-nS-IYi.title" = "接收邮箱:";
+
+/* Class = "NSTextFieldCell"; title = "'Submit' button:"; ObjectID = "YE7-XI-LuE"; */
+"YE7-XI-LuE.title" = "'提交'按钮:";
+
+/* Class = "NSTextFieldCell"; title = "'Next' button:"; ObjectID = "egS-FT-pqX"; */
+"egS-FT-pqX.title" = "'下一个'按钮:";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "fh7-Zv-4ki"; */
+"fh7-Zv-4ki.title" = "确认";
+
+/* Class = "NSButtonCell"; title = "Allow replay last section"; ObjectID = "ieZ-bD-Bvi"; */
+"ieZ-bD-Bvi.title" = "允许重播最近章节";
+
+/* Class = "NSTabViewItem"; label = "Options"; ObjectID = "lVG-dN-iso"; */
+"lVG-dN-iso.label" = "选项";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "mFj-F1-XeF"; */
+"mFj-F1-XeF.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "'Take Quiz Now' button:"; ObjectID = "stS-0i-pPM"; */
+"stS-0i-pPM.title" = "'开始测验'按钮:";
+
+/* Class = "NSTextFieldCell"; title = "'Replay Last Section' button:"; ObjectID = "vtK-f0-MFe"; */
+"vtK-f0-MFe.title" = "'重播最近章节'按钮:";
+
+/* Class = "NSButtonCell"; title = "Report quiz results through email"; ObjectID = "wHa-pa-qjM"; */
+"wHa-pa-qjM.title" = "通过邮箱告知测验结果";
+

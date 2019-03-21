@@ -1,0 +1,33 @@
+/* Class = "NSWindow"; title = "Advanced Export Options"; ObjectID = "1"; */
+"1.title" = "高级导出选项";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "4ni-Zc-5K3"; */
+"4ni-Zc-5K3.title" = "条目 3";
+
+/* Class = "NSButtonCell"; title = "OK"; ObjectID = "12"; */
+"12.title" = "确认";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "14"; */
+"14.title" = "取消";
+
+/* Class = "NSButtonCell"; title = "Enable smoothing"; ObjectID = "Ocl-Ep-oKy"; */
+"Ocl-Ep-oKy.title" = "开启平滑";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "Oub-OO-eXB"; */
+"Oub-OO-eXB.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "Qka-su-ANn"; */
+"Qka-su-ANn.title" = "条目 2";
+
+/* Class = "NSTextFieldCell"; title = "Hz"; ObjectID = "X4E-iw-Sf7"; */
+"X4E-iw-Sf7.title" = "Hz";
+
+/* Class = "NSTextFieldCell"; title = "Sample rate:"; ObjectID = "bf3-Q6-7Gr"; */
+"bf3-Q6-7Gr.title" = "采样率:";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "cFt-cZ-CMf"; */
+"cFt-cZ-CMf.title" = "Andere Ansichten";
+
+/* Class = "NSButtonCell"; title = "Output Mono"; ObjectID = "uoI-I9-M7z"; */
+"uoI-I9-M7z.title" = "输出单声道";
+

@@ -1,0 +1,66 @@
+/* Class = "NSWindow"; title = "Import From Google Drive"; ObjectID = "1"; */
+"1.title" = "从Google Drive导入";
+
+/* Class = "NSTableColumn"; headerCell.title = "Name"; ObjectID = "85"; */
+"85.headerCell.title" = "名称";
+
+/* Class = "NSTableColumn"; headerCell.title = "Date Modified"; ObjectID = "86"; */
+"86.headerCell.title" = "修改日期";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "87"; */
+"87.title" = "Textzelle";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "88"; */
+"88.title" = "Textzelle";
+
+/* Class = "NSButtonCell"; title = "Import"; ObjectID = "93"; */
+"93.title" = "导入";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "95"; */
+"95.title" = "取消";
+
+/* Class = "NSTableColumn"; headerCell.title = "Size"; ObjectID = "100"; */
+"100.headerCell.title" = "大小";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "101"; */
+"101.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "108"; */
+"108.title" = "OtherViews";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "133"; */
+"133.title" = "Text Cell";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "178"; */
+"178.title" = "OtherViews";
+
+/* Class = "NSMenuItem"; title = "Other"; ObjectID = "179"; */
+"179.title" = "其他";
+
+/* Class = "NSButtonCell"; title = "New Folder"; ObjectID = "195"; */
+"195.title" = "新建文件夹";
+
+/* Class = "NSTextFieldCell"; title = "Name"; ObjectID = "222"; */
+"222.title" = "名称";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "224"; */
+"224.title" = "大小";
+
+/* Class = "NSTextFieldCell"; title = "Modified"; ObjectID = "228"; */
+"228.title" = "已修改";
+
+/* Class = "NSTextFieldCell"; title = "Kind"; ObjectID = "230"; */
+"230.title" = "分类";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "232"; */
+"232.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "234"; */
+"234.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "236"; */
+"236.title" = "标签";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "238"; */
+"238.title" = "标签";
+

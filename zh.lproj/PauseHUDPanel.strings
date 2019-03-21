@@ -1,0 +1,24 @@
+/* Class = "NSTextFieldCell"; title = "⇧⌘2"; ObjectID = "44"; */
+"44.title" = "⇧⌘2";
+
+/* Class = "NSTextFieldCell"; title = "Name:"; ObjectID = "46"; */
+"46.title" = "名称:";
+
+/* Class = "NSButtonCell"; title = "Delete"; ObjectID = "59"; */
+"59.title" = "删除";
+
+/* Class = "NSButtonCell"; title = "Start Over"; ObjectID = "64"; */
+"64.title" = "重新开始";
+
+/* Class = "NSButtonCell"; title = "Resume"; ObjectID = "67"; */
+"67.title" = "继续";
+
+/* Class = "NSButtonCell"; title = "Complete"; ObjectID = "70"; */
+"70.title" = "完成";
+
+/* Class = "NSTextFieldCell"; title = "Press "; ObjectID = "DzW-Ze-2fg"; */
+"DzW-Ze-2fg.title" = "按 ";
+
+/* Class = "NSTextFieldCell"; title = "to resume recording"; ObjectID = "sUz-bR-Jp0"; */
+"sUz-bR-Jp0.title" = "继续录制";
+

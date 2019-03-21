@@ -1,0 +1,69 @@
+/* Class = "NSTextFieldCell"; title = "Frame"; ObjectID = "33"; */
+"33.title" = "帧";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Type: "; ObjectID = "107"; */
+"107.title" = "类型: ";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset frame type to default"; ObjectID = "145"; */
+"145.ibShadowedToolTip" = "重置帧类型到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset frame orientation to default"; ObjectID = "147"; */
+"147.ibShadowedToolTip" = "重置帧方向到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Change the frame orientation"; ObjectID = "283"; */
+"283.ibShadowedToolTip" = "更改帧方向";
+
+/* Class = "NSButtonCell"; title = "Horizontal"; ObjectID = "284"; */
+"284.title" = "水平";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select a device"; ObjectID = "291"; */
+"291.ibShadowedToolTip" = "选择一个设备";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "293"; */
+"293.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "iPad"; ObjectID = "294"; */
+"294.title" = "iPad";
+
+/* Class = "NSMenuItem"; title = "iPhone 6"; ObjectID = "295"; */
+"295.title" = "iPhone 6";
+
+/* Class = "NSMenuItem"; title = "iMac"; ObjectID = "296"; */
+"296.title" = "iMac";
+
+/* Class = "NSMenuItem"; title = "iPhone 6 (white)"; ObjectID = "335"; */
+"335.title" = "iPhone 6 (白色)";
+
+/* Class = "NSMenuItem"; title = "iPad (white)"; ObjectID = "336"; */
+"336.title" = "iPad (白色)";
+
+/* Class = "NSMenuItem"; title = "MacBook Pro"; ObjectID = "371"; */
+"371.title" = "MacBook Pro";
+
+/* Class = "NSMenuItem"; title = "MacBook Air"; ObjectID = "372"; */
+"372.title" = "MacBook Air";
+
+/* Class = "NSMenuItem"; title = "ThunderBolt Display"; ObjectID = "373"; */
+"373.title" = "ThunderBolt显示器";
+
+/* Class = "NSMenuItem"; title = "iPhone 5"; ObjectID = "380"; */
+"380.title" = "iPhone 5";
+
+/* Class = "NSMenuItem"; title = "iPhone 5 (white)"; ObjectID = "381"; */
+"381.title" = "iPhone 5 (白色)";
+
+/* Class = "NSMenuItem"; title = "iPhone 4 (white)"; ObjectID = "Cd5-rn-FQa"; */
+"Cd5-rn-FQa.title" = "iPhone 4 (白色)";
+
+/* Class = "NSMenuItem"; title = "iPhone 6+ (white)"; ObjectID = "Nhr-YE-X3O"; */
+"Nhr-YE-X3O.title" = "iPhone 6 Plus (白色)";
+
+/* Class = "NSMenuItem"; title = "iPhone 6+"; ObjectID = "WzC-09-LOQ"; */
+"WzC-09-LOQ.title" = "iPhone 6+";
+
+/* Class = "NSMenuItem"; title = "iPhone 4"; ObjectID = "wQh-Nj-fqA"; */
+"wQh-Nj-fqA.title" = "iPhone 4";
+

@@ -1,0 +1,75 @@
+/* Class = "NSTextFieldCell"; title = "Volume Leveling"; ObjectID = "33"; */
+"33.title" = "音量调节";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Variation:"; ObjectID = "107"; */
+"107.title" = "变化:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset compression to default"; ObjectID = "145"; */
+"145.ibShadowedToolTip" = "重置压缩到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ratio to default"; ObjectID = "233"; */
+"233.ibShadowedToolTip" = "重置比率到默认";
+
+/* Class = "NSTextFieldCell"; title = "Ratio:"; ObjectID = "238"; */
+"238.title" = "比率:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset threshold to default"; ObjectID = "242"; */
+"242.ibShadowedToolTip" = "重置阈值到默认";
+
+/* Class = "NSTextFieldCell"; title = "Threshold:"; ObjectID = "247"; */
+"247.title" = "阈值:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset gain to default"; ObjectID = "251"; */
+"251.ibShadowedToolTip" = "重置增益到默认";
+
+/* Class = "NSTextFieldCell"; title = "Gain:"; ObjectID = "256"; */
+"256.title" = "增益:";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Attack slider"; ObjectID = "351"; */
+"351.ibExternalAccessibilityDescription" = "上冲滑杆";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Release slider"; ObjectID = "355"; */
+"355.ibExternalAccessibilityDescription" = "释音滑杆";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Master Gain slider"; ObjectID = "358"; */
+"358.ibExternalAccessibilityDescription" = "主控增益滑杆";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Ratio text field"; ObjectID = "366"; */
+"366.ibExternalAccessibilityDescription" = "比率文本字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Threshold text field"; ObjectID = "369"; */
+"369.ibExternalAccessibilityDescription" = "阈值文本字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Gain text field"; ObjectID = "372"; */
+"372.ibExternalAccessibilityDescription" = "增益文本字段";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select variation"; ObjectID = "446"; */
+"446.ibShadowedToolTip" = "选择变化";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "448"; */
+"448.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "450"; */
+"450.title" = "中";
+
+/* Class = "NSMenuItem"; title = "Custom"; ObjectID = "451"; */
+"451.title" = "自定义";
+
+/* Class = "NSMenuItem"; title = "High"; ObjectID = "452"; */
+"452.title" = "高";
+
+/* Class = "NSMenuItem"; title = "Low"; ObjectID = "453"; */
+"453.title" = "低";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "ahp-jU-Naz"; */
+"ahp-jU-Naz.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "bQ4-qm-B4o"; */
+"bQ4-qm-B4o.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "ubJ-by-FNE"; */
+"ubJ-by-FNE.ibShadowedMultipleValuesPlaceholder" = "-";
+

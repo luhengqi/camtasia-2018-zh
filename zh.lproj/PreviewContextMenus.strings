@@ -1,0 +1,141 @@
+/* Class = "NSMenu"; title = "Visual Media Context Menu"; ObjectID = "1"; */
+"1.title" = "Kontextmenü für visuelle Medien";
+
+/* Class = "NSMenuItem"; title = "Exit Full Screen"; ObjectID = "4gU-6n-4sG"; */
+"4gU-6n-4sG.title" = "退出全屏";
+
+/* Class = "NSMenuItem"; title = "Add Effects"; ObjectID = "5"; */
+"5.title" = "添加特效";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "05M-RA-z6m"; */
+"05M-RA-z6m.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Search With Google"; ObjectID = "8kM-Ve-KnU"; */
+"8kM-Ve-KnU.title" = "使用Google搜索";
+
+/* Class = "NSMenuItem"; title = "Ungroup"; ObjectID = "9Xm-QT-PeS"; */
+"9Xm-QT-PeS.title" = "取消群组";
+
+/* Class = "NSMenuItem"; title = "Scale to Actual Pixels"; ObjectID = "16"; */
+"16.title" = "缩放到实际像素";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "30"; */
+"30.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Scale to Foreground Window"; ObjectID = "31"; */
+"31.title" = "缩放到前置窗口";
+
+/* Class = "NSMenuItem"; title = "Scale to Fit"; ObjectID = "32"; */
+"32.title" = "缩放到自适应";
+
+/* Class = "NSMenu"; title = "Canvas Context Menu"; ObjectID = "41"; */
+"41.title" = "Kontextmenü für Leinwand";
+
+/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "44"; */
+"44.title" = "放大";
+
+/* Class = "NSMenuItem"; title = "Arrange"; ObjectID = "49"; */
+"49.title" = "整理";
+
+/* Class = "NSMenu"; title = "Arrange"; ObjectID = "50"; */
+"50.title" = "整理";
+
+/* Class = "NSMenuItem"; title = "Send Backward"; ObjectID = "51"; */
+"51.title" = "下移一层";
+
+/* Class = "NSMenuItem"; title = "Send to Back"; ObjectID = "53"; */
+"53.title" = "置于底层";
+
+/* Class = "NSMenuItem"; title = "Bring Forward"; ObjectID = "54"; */
+"54.title" = "上移一层";
+
+/* Class = "NSMenuItem"; title = "Bring to Front"; ObjectID = "55"; */
+"55.title" = "置于顶层";
+
+/* Class = "NSMenuItem"; title = "Crop to Foreground Window"; ObjectID = "76"; */
+"76.title" = "裁剪到前置窗口";
+
+/* Class = "NSMenuItem"; title = "Show Properties"; ObjectID = "80"; */
+"80.title" = "显示属性";
+
+/* Class = "NSMenuItem"; title = "Enable Crop Mode"; ObjectID = "89"; */
+"89.title" = "开启裁剪模式";
+
+/* Class = "NSMenuItem"; title = "Canvas Help"; ObjectID = "175"; */
+"175.title" = "画布帮助";
+
+/* Class = "NSMenuItem"; title = "Scale"; ObjectID = "214"; */
+"214.title" = "缩放";
+
+/* Class = "NSMenu"; title = "Scale"; ObjectID = "215"; */
+"215.title" = "缩放";
+
+/* Class = "NSMenuItem"; title = "Scale to 200%"; ObjectID = "218"; */
+"218.title" = "缩放到 200%";
+
+/* Class = "NSMenuItem"; title = "Scale to 100%"; ObjectID = "219"; */
+"219.title" = "缩放到 100%";
+
+/* Class = "NSMenuItem"; title = "Scale to 75%"; ObjectID = "220"; */
+"220.title" = "缩放到 75%";
+
+/* Class = "NSMenuItem"; title = "Scale to 50%"; ObjectID = "221"; */
+"221.title" = "缩放到 50%";
+
+/* Class = "NSMenuItem"; title = "Scale to 25%"; ObjectID = "222"; */
+"222.title" = "缩放到 25%";
+
+/* Class = "NSMenuItem"; title = "Copy Properties"; ObjectID = "232"; */
+"232.title" = "复制属性";
+
+/* Class = "NSMenuItem"; title = "Paste Properties"; ObjectID = "234"; */
+"234.title" = "粘贴属性";
+
+/* Class = "NSMenuItem"; title = "Edit Text"; ObjectID = "240"; */
+"240.title" = "编辑文字";
+
+/* Class = "NSMenuItem"; title = "Zoom to 100%"; ObjectID = "Ddn-zT-EQh"; */
+"Ddn-zT-EQh.title" = "缩放到 100 %";
+
+/* Class = "NSMenuItem"; title = "Project Settings..."; ObjectID = "Dzu-JZ-ugI"; */
+"Dzu-JZ-ugI.title" = "项目设置...";
+
+/* Class = "NSMenuItem"; title = "Group"; ObjectID = "G7u-fb-QOw"; */
+"G7u-fb-QOw.title" = "群组";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "GCC-pl-Lwn"; */
+"GCC-pl-Lwn.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Attach Canvas"; ObjectID = "IJQ-au-Sx8"; */
+"IJQ-au-Sx8.title" = "吸附画布";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "RHQ-lN-bIN"; */
+"RHQ-lN-bIN.title" = "粘贴";
+
+/* Class = "NSMenuItem"; title = "Learn Spelling"; ObjectID = "Sov-OT-Fr8"; */
+"Sov-OT-Fr8.title" = "学习拼写";
+
+/* Class = "NSMenuItem"; title = "Ignore Spelling"; ObjectID = "WxB-xA-0p0"; */
+"WxB-xA-0p0.title" = "忽略拼写";
+
+/* Class = "NSMenuItem"; title = "Zoom to Fit"; ObjectID = "cdM-rC-UD7"; */
+"cdM-rC-UD7.title" = "缩放到自适应";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "coP-Sr-BcU"; */
+"coP-Sr-BcU.title" = "复制";
+
+/* Class = "NSMenuItem"; title = "Detach Canvas"; ObjectID = "fiP-ef-Uxh"; */
+"fiP-ef-Uxh.title" = "取消吸附画布";
+
+/* Class = "NSMenuItem"; title = "Project Settings..."; ObjectID = "ifW-kH-MGt"; */
+"ifW-kH-MGt.title" = "项目设置...";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "oMw-sM-h9L"; */
+"oMw-sM-h9L.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "rig-bV-ooF"; */
+"rig-bV-ooF.title" = "缩小";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "wys-DB-ICQ"; */
+"wys-DB-ICQ.title" = "复制";
+

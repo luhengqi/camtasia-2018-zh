@@ -1,0 +1,159 @@
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "30"; */
+"30.title" = "透明度:";
+
+/* Class = "NSTextFieldCell"; title = "Thickness:"; ObjectID = "162"; */
+"162.title" = "厚度:";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "164"; */
+"164.title" = "透明度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset fill opacity to default"; ObjectID = "228"; */
+"228.ibShadowedToolTip" = "重置填充透明度到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset outline size to default"; ObjectID = "243"; */
+"243.ibShadowedToolTip" = "重置轮廓尺寸到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset outline opacity to default"; ObjectID = "245"; */
+"245.ibShadowedToolTip" = "重置轮廓透明度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "419"; */
+"419.ibExternalAccessibilityDescription" = "透明度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change fill transparency"; ObjectID = "419"; */
+"419.ibShadowedToolTip" = "拖曳以更改填充透明度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "424"; */
+"424.ibExternalAccessibilityDescription" = "透明度编辑字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "size edit field"; ObjectID = "500"; */
+"500.ibExternalAccessibilityDescription" = "尺寸编辑字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "512"; */
+"512.ibExternalAccessibilityDescription" = "透明度编辑字段";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset fill color to default"; ObjectID = "538"; */
+"538.ibShadowedToolTip" = "重置填充颜色到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset callout style to default"; ObjectID = "548"; */
+"548.ibShadowedToolTip" = "重置注释样式到默认";
+
+/* Class = "NSTextFieldCell"; title = "Shape:"; ObjectID = "553"; */
+"553.title" = "形状:";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "size slider"; ObjectID = "554"; */
+"554.ibExternalAccessibilityDescription" = "尺寸滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change stroke thickness"; ObjectID = "554"; */
+"554.ibShadowedToolTip" = "拖曳以更改轮廓厚度";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "557"; */
+"557.ibExternalAccessibilityDescription" = "透明度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change stroke transparency"; ObjectID = "557"; */
+"557.ibShadowedToolTip" = "拖曳以更改轮廓透明度";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset outline style to default"; ObjectID = "586"; */
+"586.ibShadowedToolTip" = "重置轮廓样式到默认";
+
+/* Class = "NSTextFieldCell"; title = "Outline:"; ObjectID = "593"; */
+"593.title" = "轮廓:";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select callout shape"; ObjectID = "633"; */
+"633.ibShadowedToolTip" = "选择注释形状";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "635"; */
+"635.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Speech Bubble"; ObjectID = "636"; */
+"636.title" = "Sprechblase";
+
+/* Class = "NSMenuItem"; title = "Arrow"; ObjectID = "638"; */
+"638.title" = "箭头";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select outline style"; ObjectID = "639"; */
+"639.ibShadowedToolTip" = "选择轮廓样式";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "641"; */
+"641.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "642"; */
+"642.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "643"; */
+"643.title" = " ";
+
+/* Class = "NSMenuItem"; title = " -"; ObjectID = "644"; */
+"644.title" = " -";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "659"; */
+"659.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "660"; */
+"660.title" = " ";
+
+/* Class = "NSMenuItem"; title = "Square Bubble"; ObjectID = "776"; */
+"776.title" = "方形气泡";
+
+/* Class = "NSMenuItem"; title = "Thought Bubble"; ObjectID = "778"; */
+"778.title" = "思考气泡";
+
+/* Class = "NSMenuItem"; title = "Square"; ObjectID = "779"; */
+"779.title" = "方形";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "782"; */
+"782.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "787"; */
+"787.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSMenuItem"; title = "Ellipse"; ObjectID = "791"; */
+"791.title" = "椭圆";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "799"; */
+"799.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "Solid"; ObjectID = "802"; */
+"802.title" = "实色";
+
+/* Class = "NSMenuItem"; title = "Gradient"; ObjectID = "803"; */
+"803.title" = "渐变";
+
+/* Class = "NSTextFieldCell"; title = "Fill Style:"; ObjectID = "807"; */
+"807.title" = "填充样式:";
+
+/* Class = "NSMenuItem"; title = "-"; ObjectID = "873"; */
+"873.title" = "-";
+
+/* Class = "NSMenuItem"; title = "Speech Bubble #2"; ObjectID = "2262"; */
+"2262.title" = "对话气泡 #2";
+
+/* Class = "NSMenuItem"; title = "Thought Bubble #2"; ObjectID = "2264"; */
+"2264.title" = "思考气泡 #2";
+
+/* Class = "NSMenuItem"; title = "Arrow #2"; ObjectID = "2266"; */
+"2266.title" = "箭头 #2";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "2281"; */
+"2281.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "2283"; */
+"2283.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "2285"; */
+"2285.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSMenuItem"; title = "Blam"; ObjectID = "2300"; */
+"2300.title" = "爆炸!";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "2310"; */
+"2310.title" = " ";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "2328"; */
+"2328.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "2329"; */
+"2329.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "2330"; */
+"2330.ibShadowedMultipleValuesPlaceholder" = "-";
+

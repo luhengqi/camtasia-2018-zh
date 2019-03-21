@@ -1,0 +1,12 @@
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "6"; */
+"6.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = "SRT"; ObjectID = "7"; */
+"7.title" = "SRT";
+
+/* Class = "NSMenuItem"; title = "SAMI"; ObjectID = "8"; */
+"8.title" = "SAMI";
+
+/* Class = "NSTextFieldCell"; title = "Format:"; ObjectID = "13"; */
+"13.title" = "格式:";
+

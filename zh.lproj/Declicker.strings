@@ -1,0 +1,21 @@
+/* Class = "NSTextFieldCell"; title = "Clicking Reduction"; ObjectID = "33"; */
+"33.title" = "点击还原";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSButtonCell"; title = "Del"; ObjectID = "93"; */
+"93.title" = "删除";
+
+/* Class = "NSTextFieldCell"; title = "Sensitivity:"; ObjectID = "107"; */
+"107.title" = "敏感度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset sensitivity to default"; ObjectID = "145"; */
+"145.ibShadowedToolTip" = "重置敏感度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Sensitivity slider"; ObjectID = "207"; */
+"207.ibExternalAccessibilityDescription" = "敏感度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change degree of response to clicks and pops"; ObjectID = "207"; */
+"207.ibShadowedToolTip" = "拖曳以更改点击和弹起响应强度";
+

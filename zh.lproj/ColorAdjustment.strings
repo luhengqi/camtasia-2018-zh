@@ -1,0 +1,84 @@
+/* Class = "NSTextFieldCell"; title = "Color Adjustment"; ObjectID = "33"; */
+"33.title" = "颜色调整";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Contrast:"; ObjectID = "105"; */
+"105.title" = "对比度:";
+
+/* Class = "NSTextFieldCell"; title = "Brightness:"; ObjectID = "107"; */
+"107.title" = "明度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset brightness to default"; ObjectID = "141"; */
+"141.ibShadowedToolTip" = "重置明度到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset contrast to default"; ObjectID = "143"; */
+"143.ibShadowedToolTip" = "重置对比度到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset saturation to default"; ObjectID = "170"; */
+"170.ibShadowedToolTip" = "重置饱和度到默认";
+
+/* Class = "NSTextFieldCell"; title = "Saturation:"; ObjectID = "174"; */
+"174.title" = "饱和度:";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make lighter or darker"; ObjectID = "198"; */
+"198.ibShadowedToolTip" = "拖曳以变亮或者变暗";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change the distance between black and white"; ObjectID = "200"; */
+"200.ibShadowedToolTip" = "拖曳以更改明暗对比";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change color intensity"; ObjectID = "202"; */
+"202.ibShadowedToolTip" = "拖曳以更改颜色强度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "brightness text field"; ObjectID = "217"; */
+"217.ibExternalAccessibilityDescription" = "亮度文本字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "contrast text field"; ObjectID = "227"; */
+"227.ibExternalAccessibilityDescription" = "对比度文本字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "saturation text field"; ObjectID = "231"; */
+"231.ibExternalAccessibilityDescription" = "饱和度文本字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "350"; */
+"350.ibShadowedToolTip" = "特效淡入秒数";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "color amount edit field"; ObjectID = "351"; */
+"351.ibExternalAccessibilityDescription" = "颜色数量编辑字段";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "351"; */
+"351.ibShadowedToolTip" = "特效淡出秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "352"; */
+"352.ibShadowedToolTip" = "特效淡入秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "353"; */
+"353.ibShadowedToolTip" = "特效淡出秒数";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "360"; */
+"360.title" = "淡出:";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "361"; */
+"361.title" = "淡入:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "377"; */
+"377.ibShadowedToolTip" = "重置淡入到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "381"; */
+"381.ibShadowedToolTip" = "重置淡出到默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "438"; */
+"438.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "439"; */
+"439.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "440"; */
+"440.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "441"; */
+"441.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "442"; */
+"442.ibShadowedMultipleValuesPlaceholder" = "-";
+

@@ -1,0 +1,63 @@
+/* Class = "NSTextFieldCell"; title = "Colorize"; ObjectID = "33"; */
+"33.title" = "着色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Amount:"; ObjectID = "105"; */
+"105.title" = "数量:";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "107"; */
+"107.title" = "颜色:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset amount to default"; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "重置数量到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "134"; */
+"134.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "color amount slider"; ObjectID = "157"; */
+"157.ibExternalAccessibilityDescription" = "颜色数量滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to add more or less color"; ObjectID = "157"; */
+"157.ibShadowedToolTip" = "拖曳以改变颜色数量";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "color amount edit field"; ObjectID = "161"; */
+"161.ibExternalAccessibilityDescription" = "颜色数量编辑字段";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "208"; */
+"208.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "234"; */
+"234.title" = "淡入:";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "236"; */
+"236.title" = "淡出:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease the effect in"; ObjectID = "255"; */
+"255.ibShadowedToolTip" = "特效淡入秒数";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "272"; */
+"272.ibShadowedToolTip" = "特效淡出秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "290"; */
+"290.ibShadowedToolTip" = "特效淡入秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "309"; */
+"309.ibShadowedToolTip" = "特效淡出秒数";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "314"; */
+"314.ibShadowedToolTip" = "重置淡入为默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "318"; */
+"318.ibShadowedToolTip" = "重置淡出为默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "G51-Qb-DZi"; */
+"G51-Qb-DZi.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "jwp-wU-C4r"; */
+"jwp-wU-C4r.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "o6z-ti-xmb"; */
+"o6z-ti-xmb.ibShadowedMultipleValuesPlaceholder" = "-";
+

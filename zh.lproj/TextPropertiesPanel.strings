@@ -1,0 +1,104 @@
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "225"; */
+"225.title" = "字体:";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "227"; */
+"227.title" = "大小:";
+
+/* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "233"; */
+"233.title" = "样式:";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Font popup"; ObjectID = "254"; */
+"254.ibExternalAccessibilityDescription" = "字体弹窗";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select type for callout text"; ObjectID = "254"; */
+"254.ibShadowedToolTip" = "为注释文字选择类型";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "256"; */
+"256.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Lucida Grande"; ObjectID = "257"; */
+"257.title" = "Lucida Grande";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Text size slider"; ObjectID = "261"; */
+"261.ibExternalAccessibilityDescription" = "文字大小滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make text larger or smaller"; ObjectID = "261"; */
+"261.ibShadowedToolTip" = "拖曳以更改文字大小";
+
+/* Class = "NSComboBox"; ibExternalAccessibilityDescription = "Text Size Edit Field"; ObjectID = "264"; */
+"264.ibExternalAccessibilityDescription" = "文字大小编辑字段";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Underline toggle"; ObjectID = "286"; */
+"286.ibExternalAccessibilityDescription" = "下划线开关";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggle to enable underlining"; ObjectID = "286"; */
+"286.ibShadowedToolTip" = "开关下划线";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Strike-through toggle"; ObjectID = "288"; */
+"288.ibExternalAccessibilityDescription" = "透印开关";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggle to enable to strikethrough"; ObjectID = "288"; */
+"288.ibShadowedToolTip" = "开关透印";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Align text left"; ObjectID = "396"; */
+"396.ibShadowedToolTip" = "左对齐文字";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "398"; */
+"398.title" = "单选";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Center text"; ObjectID = "399"; */
+"399.ibShadowedToolTip" = "水平居中对齐文字";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Align text right"; ObjectID = "400"; */
+"400.ibShadowedToolTip" = "右对齐文字";
+
+/* Class = "NSTextFieldCell"; title = "Alignment:"; ObjectID = "402"; */
+"402.title" = "对齐:";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "412"; */
+"412.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSButtonCell"; title = "Auto-rotate text"; ObjectID = "417"; */
+"417.title" = "自动旋转文字";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Align to bottom"; ObjectID = "423"; */
+"423.ibShadowedToolTip" = "底对齐文字";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Middle align"; ObjectID = "424"; */
+"424.ibShadowedToolTip" = "垂直居中对齐文字";
+
+/* Class = "NSButtonCell"; title = "Radio"; ObjectID = "425"; */
+"425.title" = "Optionsfeld";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "Align to top"; ObjectID = "426"; */
+"426.ibShadowedToolTip" = "顶对齐文字";
+
+/* Class = "NSPopUpButton"; ibExternalAccessibilityDescription = "Font popup"; ObjectID = "434"; */
+"434.ibExternalAccessibilityDescription" = "字体弹窗";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select font weight"; ObjectID = "434"; */
+"434.ibShadowedToolTip" = "选择字重";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "436"; */
+"436.title" = "OtherViews";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "440"; */
+"440.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "intensity edit field"; ObjectID = "1fp-IA-AhP"; */
+"1fp-IA-AhP.ibExternalAccessibilityDescription" = "强度编辑字段";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "440"; */
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "Text size slider"; ObjectID = "F7w-Qs-b3L"; */
+"F7w-Qs-b3L.ibExternalAccessibilityDescription" = "文字大小滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make text larger or smaller"; ObjectID = "F7w-Qs-b3L"; */
+"F7w-Qs-b3L.ibShadowedToolTip" = "拖曳更改文字大小";
+
+/* Class = "NSTextFieldCell"; title = "Tracking:"; ObjectID = "GnT-7Y-H3M"; */
+"GnT-7Y-H3M.title" = "跟踪:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset intensity to default"; ObjectID = "SRw-bK-tEu"; */
+"SRw-bK-tEu.ibShadowedToolTip" = "重设强度到默认";
+
+

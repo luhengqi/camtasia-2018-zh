@@ -1,0 +1,138 @@
+/* Class = "NSTextFieldCell"; title = "Thickness:"; ObjectID = "162"; */
+"162.title" = "厚度:";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "164"; */
+"164.title" = "透明度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset width to default"; ObjectID = "243"; */
+"243.ibShadowedToolTip" = "重置宽度到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "245"; */
+"245.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "size edit field"; ObjectID = "500"; */
+"500.ibExternalAccessibilityDescription" = "尺寸编辑字段";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "512"; */
+"512.ibExternalAccessibilityDescription" = "透明度编辑字段";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Press to change width"; ObjectID = "530"; */
+"530.ibShadowedToolTip" = "点击更改宽度";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Press to change opacity"; ObjectID = "533"; */
+"533.ibShadowedToolTip" = "点击更改透明度";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "554"; */
+"554.ibExternalAccessibilityDescription" = "厚度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change arrow thickness"; ObjectID = "554"; */
+"554.ibShadowedToolTip" = "拖曳更改箭头厚度";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "557"; */
+"557.ibExternalAccessibilityDescription" = "透明度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change arrow transparency"; ObjectID = "557"; */
+"557.ibShadowedToolTip" = "拖曳更改箭头透明度";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset arrow style to default"; ObjectID = "586"; */
+"586.ibShadowedToolTip" = "重置箭头样式到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "587"; */
+"587.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "594"; */
+"594.title" = "颜色:";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select line style"; ObjectID = "639"; */
+"639.ibShadowedToolTip" = "选择线条样式";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "641"; */
+"641.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "642"; */
+"642.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "643"; */
+"643.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "644"; */
+"644.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "659"; */
+"659.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "660"; */
+"660.title" = " ";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose point style"; ObjectID = "780"; */
+"780.ibShadowedToolTip" = "选择顶点样式";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "782"; */
+"782.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "784"; */
+"784.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "785"; */
+"785.title" = " ";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Choose point style"; ObjectID = "794"; */
+"794.ibShadowedToolTip" = "选择顶点样式";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "796"; */
+"796.title" = "其他视图";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "799"; */
+"799.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "800"; */
+"800.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "823"; */
+"823.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "824"; */
+"824.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "832"; */
+"832.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "833"; */
+"833.title" = " ";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "839"; */
+"839.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "893"; */
+"893.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "894"; */
+"894.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "895"; */
+"895.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "896"; */
+"896.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "949"; */
+"949.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "951"; */
+"951.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "952"; */
+"952.title" = " ";
+
+/* Class = "NSMenuItem"; title = " "; ObjectID = "953"; */
+"953.title" = " ";
+
+/* Class = "NSTextFieldCell"; title = "Line Style:"; ObjectID = "982"; */
+"982.title" = "线条样式:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "1096"; */
+"1096.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "A38-2a-edH"; */
+"A38-2a-edH.ibShadowedMultipleValuesPlaceholder" = "-";
+

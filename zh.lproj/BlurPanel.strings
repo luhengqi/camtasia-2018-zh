@@ -1,0 +1,30 @@
+/* Class = "NSTextFieldCell"; title = "Intensity:"; ObjectID = "30"; */
+"30.title" = "强度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset blur radius to default"; ObjectID = "228"; */
+"228.ibShadowedToolTip" = "重置模糊半径到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "419"; */
+"419.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change blur intensity"; ObjectID = "419"; */
+"419.ibShadowedToolTip" = "拖曳以更改模糊强度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "blur intensity edit field"; ObjectID = "424"; */
+"424.ibExternalAccessibilityDescription" = "模糊强度编辑字段";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Press to change blur intensity"; ObjectID = "543"; */
+"543.ibShadowedToolTip" = "点击以更改模糊强度";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Blur everything except the area"; ObjectID = "786"; */
+"786.ibShadowedToolTip" = "模糊此区域外的一切";
+
+/* Class = "NSButtonCell"; title = "Invert"; ObjectID = "787"; */
+"787.title" = "反向";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset blur radius to default"; ObjectID = "WvA-SJ-Lm2"; */
+"WvA-SJ-Lm2.ibShadowedToolTip" = "重置模糊半径到默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "hgb-s6-ocd"; */
+"hgb-s6-ocd.ibShadowedMultipleValuesPlaceholder" = "-";
+

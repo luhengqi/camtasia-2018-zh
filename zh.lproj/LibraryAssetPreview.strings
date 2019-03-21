@@ -1,0 +1,12 @@
+/* Class = "NSWindow"; title = "Preview"; ObjectID = "5"; */
+"5.title" = "预览";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Toggle playback"; ObjectID = "KNt-Z5-PbO"; */
+"KNt-Z5-PbO.ibShadowedToolTip" = "开关播放";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Canvas expands to full screen. Press Esc to exit."; ObjectID = "MKi-Dm-jK9"; */
+"MKi-Dm-jK9.ibShadowedToolTip" = "画布扩展到全屏。按Esc退出。";
+
+/* Class = "NSTextFieldCell"; title = "00:00:00 / 00:00:00 "; ObjectID = "y8w-3b-cKe"; */
+"y8w-3b-cKe.title" = "00:00:00 / 00:00:00 ";
+

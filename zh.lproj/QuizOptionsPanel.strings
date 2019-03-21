@@ -1,0 +1,21 @@
+/* Class = "NSButtonCell"; title = "Viewer can see their results"; ObjectID = "0MA-tl-qcP"; */
+"0MA-tl-qcP.title" = "访客可以看到他们的结果";
+
+/* Class = "NSButtonCell"; title = "Preview"; ObjectID = "EFx-o4-HSi"; */
+"EFx-o4-HSi.title" = "预览";
+
+/* Class = "NSButtonCell"; title = "Score Quiz"; ObjectID = "IeX-8T-ZCQ"; */
+"IeX-8T-ZCQ.title" = "打分测验";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Score quiz checkbox"; ObjectID = "IgB-t1-1KC"; */
+"IgB-t1-1KC.ibExternalAccessibilityDescription" = "打分测验复选框";
+
+/* Class = "NSTextFieldCell"; title = "Quiz Name:"; ObjectID = "RrP-59-6U6"; */
+"RrP-59-6U6.title" = "测验名称:";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "Quiz name edit field"; ObjectID = "Z5k-u1-F91"; */
+"Z5k-u1-F91.ibExternalAccessibilityDescription" = "测验名称编辑字段";
+
+/* Class = "NSButton"; ibExternalAccessibilityDescription = "Quiz viewer can see their results check box"; ObjectID = "xVB-Vj-4kE"; */
+"xVB-Vj-4kE.ibExternalAccessibilityDescription" = "测验访客可以看到他们的结果复选框";
+

@@ -1,0 +1,90 @@
+/* Class = "NSTextFieldCell"; title = "Keystroke"; ObjectID = "33"; */
+"33.title" = "按键";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "105"; */
+"105.title" = "时长:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset option to default"; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "重置选项到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "duration slider"; ObjectID = "157"; */
+"157.ibExternalAccessibilityDescription" = "时长滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change the duration"; ObjectID = "157"; */
+"157.ibShadowedToolTip" = "拖曳以更改时长";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "duration edit field"; ObjectID = "161"; */
+"161.ibExternalAccessibilityDescription" = "时长编辑字段";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset style to default"; ObjectID = "562"; */
+"562.ibShadowedToolTip" = "重置样式到默认";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Select key style"; ObjectID = "564"; */
+"564.ibShadowedToolTip" = "选择按键样式";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "566"; */
+"566.title" = "Andere Ansichten";
+
+/* Class = "NSMenuItem"; title = "Outline"; ObjectID = "568"; */
+"568.title" = "轮廓";
+
+/* Class = "NSMenuItem"; title = "Gray"; ObjectID = "569"; */
+"569.title" = "灰色";
+
+/* Class = "NSMenuItem"; title = "Clear"; ObjectID = "570"; */
+"570.title" = "清晰";
+
+/* Class = "NSMenuItem"; title = "Traditional"; ObjectID = "571"; */
+"571.title" = "传统";
+
+/* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "574"; */
+"574.title" = "样式:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset option to default"; ObjectID = "585"; */
+"585.ibShadowedToolTip" = "重置选项到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "size slider"; ObjectID = "587"; */
+"587.ibExternalAccessibilityDescription" = "大小滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change the size"; ObjectID = "587"; */
+"587.ibShadowedToolTip" = "拖曳以更改大小";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "duration edit field"; ObjectID = "588"; */
+"588.ibExternalAccessibilityDescription" = "时长编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "592"; */
+"592.title" = "大小:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Display cursor effect before mouse click"; ObjectID = "656"; */
+"656.ibShadowedToolTip" = "在鼠标点击之前显示鼠标特效";
+
+/* Class = "NSButtonCell"; title = "Show effect before key press"; ObjectID = "657"; */
+"657.title" = "按键之前显示特效";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset option to default"; ObjectID = "658"; */
+"658.ibShadowedToolTip" = "重置选项到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset option to default"; ObjectID = "667"; */
+"667.ibShadowedToolTip" = "重置选项到默认";
+
+/* Class = "NSButtonCell"; title = "Draw background"; ObjectID = "669"; */
+"669.title" = "绘制背景";
+
+/* Class = "NSMenuItem"; title = "Black"; ObjectID = "684"; */
+"684.title" = "黑色";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset option to default"; ObjectID = "686"; */
+"686.ibShadowedToolTip" = "重置选项到默认";
+
+/* Class = "NSButtonCell"; title = "Show modifier key name"; ObjectID = "688"; */
+"688.title" = "显示修饰按键名称";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "707"; */
+"707.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "708"; */
+"708.ibShadowedMultipleValuesPlaceholder" = "-";
+

@@ -1,0 +1,189 @@
+/* Class = "NSTextFieldCell"; title = "Add Custom Animation"; ObjectID = "1zT-9D-Xp5"; */
+"1zT-9D-Xp5.title" = "添加自定义动画";
+
+/* Class = "NSTextFieldCell"; title = "Select Next On Canvas:"; ObjectID = "3cE-dh-VVW"; */
+"3cE-dh-VVW.title" = "选择画布上的下一个:";
+
+/* Class = "NSTextFieldCell"; title = "Nudge Right:"; ObjectID = "3eG-4N-wkA"; */
+"3eG-4N-wkA.title" = "Nudge Right:";
+
+/* Class = "NSTextFieldCell"; title = "Extend Selection Range Left:"; ObjectID = "5GG-XZ-BM9"; */
+"5GG-XZ-BM9.title" = "Extend Selection Range Left:";
+
+/* Class = "NSTextFieldCell"; title = "Zoom In:"; ObjectID = "6Gj-vd-EkH"; */
+"6Gj-vd-EkH.title" = "放大:";
+
+/* Class = "NSMenuItem"; title = "Program Options"; ObjectID = "6Jg-sJ-Fmq"; */
+"6Jg-sJ-Fmq.title" = "程序选项";
+
+/* Class = "NSTextFieldCell"; title = "Stitch Selected Media:"; ObjectID = "6dR-DE-cd8"; */
+"6dR-DE-cd8.title" = "缝合选中媒体:";
+
+/* Class = "NSTextFieldCell"; title = "Split Selected Media:"; ObjectID = "9GD-a6-Wwo"; */
+"9GD-a6-Wwo.title" = "分割选中媒体:";
+
+/* Class = "NSTextFieldCell"; title = "Open Audio Effects Tab:"; ObjectID = "AhQ-nk-R2d"; */
+"AhQ-nk-R2d.title" = "打开音频特效标签:";
+
+/* Class = "NSTextFieldCell"; title = "Open Gesture Effects Tab:"; ObjectID = "B1F-qN-lS3"; */
+"B1F-qN-lS3.title" = "打开手势特效标签:";
+
+/* Class = "NSTextFieldCell"; title = "Import Media:"; ObjectID = "BMI-SC-GD7"; */
+"BMI-SC-GD7.title" = "导入媒体:";
+
+/* Class = "NSTextFieldCell"; title = "Extend Selection to Previous Clip:"; ObjectID = "BVd-hw-qPW"; */
+"BVd-hw-qPW.title" = "扩展选中到上一个剪辑:";
+
+/* Class = "NSTabViewItem"; label = "Item 5"; ObjectID = "Ccl-LZ-Abv"; */
+"Ccl-LZ-Abv.label" = "Item 5";
+
+/* Class = "NSTextFieldCell"; title = "Share to Local File:"; ObjectID = "DMY-Lp-yAQ"; */
+"DMY-Lp-yAQ.title" = "分享到本地文件:";
+
+/* Class = "NSTextFieldCell"; title = "Split All:"; ObjectID = "DgB-4f-qYL"; */
+"DgB-4f-qYL.title" = "分割所有:";
+
+/* Class = "NSTextFieldCell"; title = "Extend Selection Range Right:"; ObjectID = "Eaf-xj-kJN"; */
+"Eaf-xj-kJN.title" = "Extend Selection Range Right:";
+
+/* Class = "NSTextFieldCell"; title = "Step Forward:"; ObjectID = "Epv-Af-Mkg"; */
+"Epv-Af-Mkg.title" = "Step Forward:";
+
+/* Class = "NSTextFieldCell"; title = "Open Media Tab:"; ObjectID = "F8H-vh-3k7"; */
+"F8H-vh-3k7.title" = "打开媒体箱标签:";
+
+/* Class = "NSTextFieldCell"; title = "Zoom out on canvas:"; ObjectID = "FK6-Tj-UiX"; */
+"FK6-Tj-UiX.title" = "缩放画布:";
+
+/* Class = "NSTextFieldCell"; title = "Decrease Track Heights:"; ObjectID = "GAm-QM-NZe"; */
+"GAm-QM-NZe.title" = "减小轨道高度:";
+
+/* Class = "NSTextFieldCell"; title = "Increase Track Heights:"; ObjectID = "GW2-GD-bJc"; */
+"GW2-GD-bJc.title" = "增大轨道高度:";
+
+/* Class = "NSTextFieldCell"; title = "Jump to previous animation:"; ObjectID = "GnD-DI-xKo"; */
+"GnD-DI-xKo.title" = "跳转到上一个动画:";
+
+/* Class = "NSTextFieldCell"; title = "Previous Clip:"; ObjectID = "GsN-Y1-kGb"; */
+"GsN-Y1-kGb.title" = "上一个剪辑:";
+
+/* Class = "NSTextFieldCell"; title = "Group:"; ObjectID = "HaM-96-Q1N"; */
+"HaM-96-Q1N.title" = "群组:";
+
+/* Class = "NSMenuItem"; title = "Timeline Editing"; ObjectID = "Hvp-1h-iSM"; */
+"Hvp-1h-iSM.title" = "时间轴编辑";
+
+/* Class = "NSTextFieldCell"; title = "Add Selection to Library:"; ObjectID = "I3B-v9-bBD"; */
+"I3B-v9-bBD.title" = "添加选中到库:";
+
+/* Class = "NSTextFieldCell"; title = "Return Playhead:"; ObjectID = "I6Q-GZ-avA"; */
+"I6Q-GZ-avA.title" = "返回播放头:";
+
+/* Class = "NSTabViewItem"; label = "Item 4"; ObjectID = "Isj-O4-N9L"; */
+"Isj-O4-N9L.label" = "Item 4";
+
+/* Class = "NSTextFieldCell"; title = "Nudge Up:"; ObjectID = "LAp-EF-vVD"; */
+"LAp-EF-vVD.title" = "Nudge Up:";
+
+/* Class = "NSTextFieldCell"; title = "Open Annotation Tab:"; ObjectID = "N66-VD-T5d"; */
+"N66-VD-T5d.title" = "打开动画标签:";
+
+/* Class = "NSTextFieldCell"; title = "Open Cursor Effects Tab:"; ObjectID = "NDk-ZZ-M2D"; */
+"NDk-ZZ-M2D.title" = "打开指针特效标签:";
+
+/* Class = "NSTextFieldCell"; title = "Jump to next animation:"; ObjectID = "PXH-ag-m3T"; */
+"PXH-ag-m3T.title" = "跳转到下一个动画:";
+
+/* Class = "NSTextFieldCell"; title = "Zoom to Selection:"; ObjectID = "PXh-2c-xL3"; */
+"PXh-2c-xL3.title" = "缩放到选中:";
+
+/* Class = "NSMenuItem"; title = "Animation and Effects"; ObjectID = "Pga-YH-HV6"; */
+"Pga-YH-HV6.title" = "动画和特效";
+
+/* Class = "NSTextFieldCell"; title = "Open Interactivity Tab:"; ObjectID = "SZS-Ah-3Uq"; */
+"SZS-Ah-3Uq.title" = "打开交互标签:";
+
+/* Class = "NSTextFieldCell"; title = "Move Playhead To End:"; ObjectID = "Smh-0W-jDK"; */
+"Smh-0W-jDK.title" = "移动播放头到结尾:";
+
+/* Class = "NSMenuItem"; title = "Timeline Navigation"; ObjectID = "T4W-du-fMM"; */
+"T4W-du-fMM.title" = "时间轴导航";
+
+/* Class = "NSTextFieldCell"; title = "Add Last Used Transition:"; ObjectID = "TwI-gI-Q3L"; */
+"TwI-gI-Q3L.title" = "添加上次使用的转场:";
+
+/* Class = "NSTabViewItem"; label = "Item 2"; ObjectID = "Umd-wp-d3Q"; */
+"Umd-wp-d3Q.label" = "Item 2";
+
+/* Class = "NSTextFieldCell"; title = "Open Animation Tab:"; ObjectID = "VNw-i7-RmH"; */
+"VNw-i7-RmH.title" = "打开动画标签:";
+
+/* Class = "NSTextFieldCell"; title = "Show/Hide Properties Panel:"; ObjectID = "YTO-Lf-Sqn"; */
+"YTO-Lf-Sqn.title" = "显示/隐藏属性面板:";
+
+/* Class = "NSTextFieldCell"; title = "Nudge Down:"; ObjectID = "aVF-KC-tQQ"; */
+"aVF-KC-tQQ.title" = "Nudge Down:";
+
+/* Class = "NSTextFieldCell"; title = "Show/Hide Tools Panel:"; ObjectID = "dh2-PV-cub"; */
+"dh2-PV-cub.title" = "显示/隐藏工具面板:";
+
+/* Class = "NSTextFieldCell"; title = "Zoom to Max:"; ObjectID = "gKa-SB-FZs"; */
+"gKa-SB-FZs.title" = "缩放到最大:";
+
+/* Class = "NSTextFieldCell"; title = "Export Frame as:"; ObjectID = "gOR-vv-xmK"; */
+"gOR-vv-xmK.title" = "导出帧为...";
+
+/* Class = "NSTextFieldCell"; title = "Next Clip:"; ObjectID = "gfs-6J-q5K"; */
+"gfs-6J-q5K.title" = "下一个剪辑:";
+
+/* Class = "NSTextFieldCell"; title = "Open Transition Tab:"; ObjectID = "hwB-Cw-8CK"; */
+"hwB-Cw-8CK.title" = "打开转场标签:";
+
+/* Class = "NSTextFieldCell"; title = "Step Backward:"; ObjectID = "m8e-hX-uM4"; */
+"m8e-hX-uM4.title" = "向后一步";
+
+/* Class = "NSTextFieldCell"; title = "Nudge Left:"; ObjectID = "nHi-Rn-Fht"; */
+"nHi-Rn-Fht.title" = "Nudge Left:";
+
+/* Class = "NSMenuItem"; title = "Project Options"; ObjectID = "nMq-1N-p0f"; */
+"nMq-1N-p0f.title" = "项目选项";
+
+/* Class = "NSMenuItem"; title = "Canvas Options"; ObjectID = "o0A-QD-Dx7"; */
+"o0A-QD-Dx7.title" = "画布选项";
+
+/* Class = "NSTextFieldCell"; title = "Open Behaviors Tab:"; ObjectID = "p8d-3Y-E8j"; */
+"p8d-3Y-E8j.title" = "打开行为标签:";
+
+/* Class = "NSTabViewItem"; label = "Canvas"; ObjectID = "pGv-Ip-HIi"; */
+"pGv-Ip-HIi.label" = "画布";
+
+/* Class = "NSTextFieldCell"; title = "Zoom in on canvas:"; ObjectID = "rVI-07-qiC"; */
+"rVI-07-qiC.title" = "放大画布:";
+
+/* Class = "NSTextFieldCell"; title = "Move Playhead To Beginning:"; ObjectID = "sBc-e6-bhn"; */
+"sBc-e6-bhn.title" = "移动播放头到开头:";
+
+/* Class = "NSTextFieldCell"; title = "Open Visual Effects Tab:"; ObjectID = "uAR-ou-JcT"; */
+"uAR-ou-JcT.title" = "打开视觉效果标签:";
+
+/* Class = "NSTextFieldCell"; title = "Extend Selection to Next Clip:"; ObjectID = "uZr-yy-edP"; */
+"uZr-yy-edP.title" = "扩展选中到下一个剪辑:";
+
+/* Class = "NSTextFieldCell"; title = "Zoom Out:"; ObjectID = "ulv-fY-lJI"; */
+"ulv-fY-lJI.title" = "缩小:";
+
+/* Class = "NSTextFieldCell"; title = "Zoom To Fit:"; ObjectID = "v62-Zv-nDV"; */
+"v62-Zv-nDV.title" = "缩放到自适应:";
+
+/* Class = "NSTabViewItem"; label = "Item 4"; ObjectID = "weG-TP-xn2"; */
+"weG-TP-xn2.label" = "Item 4";
+
+/* Class = "NSTabViewItem"; label = "Item 3"; ObjectID = "xdB-N5-xyj"; */
+"xdB-N5-xyj.label" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "Ungroup:"; ObjectID = "xhn-o1-RTr"; */
+"xhn-o1-RTr.title" = "取消群组:";
+
+/* Class = "NSTextFieldCell"; title = "Open Voice Narration Tab:"; ObjectID = "xkI-PB-9Ne"; */
+"xkI-PB-9Ne.title" = "打开语音旁白标签:";
+

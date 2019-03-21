@@ -1,0 +1,36 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Remove Clip Speed"; ObjectID = "3"; */
+"3.ibShadowedToolTip" = "移除剪辑速度";
+
+/* Class = "NSTextFieldCell"; title = "Clip Speed"; ObjectID = "6"; */
+"6.title" = "剪辑速度";
+
+/* Class = "NSTextFieldCell"; title = "Speed:"; ObjectID = "38"; */
+"38.title" = "速度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset speed to default"; ObjectID = "39"; */
+"39.ibShadowedToolTip" = "重置速度到默认";
+
+/* Class = "NSTextFieldCell"; title = "Duration:"; ObjectID = "59"; */
+"59.title" = "时长:";
+
+/* Class = "NSTextFieldCell"; title = "Minutes:"; ObjectID = "113"; */
+"113.title" = "分:";
+
+/* Class = "NSTextFieldCell"; title = "Seconds:"; ObjectID = "115"; */
+"115.title" = "秒:";
+
+/* Class = "NSTextFieldCell"; title = "Frames:"; ObjectID = "117"; */
+"117.title" = "帧:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "119"; */
+"119.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "120"; */
+"120.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "BindingConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "121"; */
+"121.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "KeK-Pz-Yuh"; */
+"KeK-Pz-Yuh.ibShadowedMultipleValuesPlaceholder" = "-";
+

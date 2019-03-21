@@ -1,0 +1,9 @@
+/* Class = "NSTextFieldCell"; title = "Two or more quizzes are in the same location."; ObjectID = "88"; */
+"88.title" = "两个或者更多测验在同一个位置。";
+
+/* Class = "NSTextFieldCell"; title = "Only the quiz on the topmost track will be included in the video."; ObjectID = "Jd4-GQ-F2Z"; */
+"Jd4-GQ-F2Z.title" = "测验只有处于最上面的轨道才会被包含进视频。";
+
+/* Class = "NSTextFieldCell"; title = "To include all quizzes in the video, move them to other locations."; ObjectID = "nJZ-9T-GeD"; */
+"nJZ-9T-GeD.title" = "想要包含所有测验到视频你需要移动它们到其他位置。";
+

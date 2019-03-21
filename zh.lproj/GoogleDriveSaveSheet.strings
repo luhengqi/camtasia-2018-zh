@@ -1,0 +1,45 @@
+/* Class = "NSWindow"; title = "Share to Google Drive"; ObjectID = "1"; */
+"1.title" = "分享到Google Drive";
+
+/* Class = "NSTextFieldCell"; title = "Signed in as:"; ObjectID = "4"; */
+"4.title" = "登录为:";
+
+/* Class = "NSButtonCell"; title = "Switch User"; ObjectID = "23"; */
+"23.title" = "切换用户";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "29"; */
+"29.title" = "分享";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "File Name TextField"; ObjectID = "36"; */
+"36.ibExternalAccessibilityDescription" = "文件名字段";
+
+/* Class = "NSTextFieldCell"; title = "Title:"; ObjectID = "45"; */
+"45.title" = "标题:";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "84"; */
+"84.title" = "取消";
+
+/* Class = "NSTextFieldCell"; title = "email@wrong.com"; ObjectID = "109"; */
+"109.title" = "email@wrong.com";
+
+/* Class = "NSTextFieldCell"; title = "Smaller file size"; ObjectID = "117"; */
+"117.title" = "更小文件";
+
+/* Class = "NSTextFieldCell"; title = "Higher quality"; ObjectID = "119"; */
+"119.title" = "更高质量";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset quality to last saved setting"; ObjectID = "120"; */
+"120.ibShadowedToolTip" = "重设质量到上次保存设置";
+
+/* Class = "NSTextFieldCell"; title = "Recommended"; ObjectID = "123"; */
+"123.title" = "推荐";
+
+/* Class = "NSButtonCell"; title = "Browse..."; ObjectID = "253"; */
+"253.title" = "浏览...";
+
+/* Class = "NSTextFieldCell"; title = "Destination Folder:"; ObjectID = "255"; */
+"255.title" = "目标文件夹:";
+
+/* Class = "NSTextFieldCell"; title = "My Drive"; ObjectID = "257"; */
+"257.title" = "我的硬盘";
+

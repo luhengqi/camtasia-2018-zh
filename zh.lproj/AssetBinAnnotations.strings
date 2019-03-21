@@ -1,0 +1,75 @@
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltips implemented programmatically"; ObjectID = "14"; */
+"14.ibShadowedToolTip" = "(!) Tooltipps programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltips implemented programmatically"; ObjectID = "32"; */
+"32.ibShadowedToolTip" = "(!) Tooltipps programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltips implemented programmatically"; ObjectID = "33"; */
+"33.ibShadowedToolTip" = "(!) Tooltipps programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltips implemented programmatically"; ObjectID = "34"; */
+"34.ibShadowedToolTip" = "(!) Tooltipps programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltips implemented programmatically"; ObjectID = "35"; */
+"35.ibShadowedToolTip" = "(!) Tooltipps programmatisch implementiert";
+
+/* Class = "NSButtonCell"; ibShadowedToolTip = "(!) tooltips implemented programmatically"; ObjectID = "36"; */
+"36.ibShadowedToolTip" = "(!) Tooltipps programmatisch implementiert";
+
+/* Class = "NSMenuItem"; title = "Restore Default Sketch Motion Callouts"; ObjectID = "81"; */
+"81.title" = "重置默认手绘注释";
+
+/* Class = "NSMenuItem"; title = "Restore Default Callouts"; ObjectID = "82"; */
+"82.title" = "重置默认注释";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "83"; */
+"83.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Restore Default Arrows"; ObjectID = "93"; */
+"93.title" = "重置默认箭头";
+
+/* Class = "NSMenuItem"; title = "Restore Default Shapes"; ObjectID = "97"; */
+"97.title" = "重置默认形状";
+
+/* Class = "NSMenuItem"; title = "Restore Default Blur and Highlights"; ObjectID = "99"; */
+"99.title" = "重置默认模糊和高亮";
+
+/* Class = "NSMenuItem"; title = "Restore Default Keystroke Callouts"; ObjectID = "101"; */
+"101.title" = "重置默认笔划注释";
+
+/* Class = "NSMenuItem"; title = "Add to Timeline at Playhead"; ObjectID = "103"; */
+"103.title" = "添加到时间轴播放头处";
+
+/* Class = "NSMenuItem"; title = "Annotation Help"; ObjectID = "117"; */
+"117.title" = "注释帮助";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "K99-CI-abC"; */
+"K99-CI-abC.title" = "盒状";
+
+/* Class = "NSTextFieldCell"; title = "Style:"; ObjectID = "N56-Wl-4pG"; */
+"N56-Wl-4pG.title" = "样式:";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "QAk-ma-zVw"; */
+"QAk-ma-zVw.title" = "所有";
+
+/* Class = "NSTextFieldCell"; title = "<Default Text>"; ObjectID = "RYm-65-M03"; */
+"RYm-65-M03.title" = "<默认文本>";
+
+/* Class = "NSMenuItem"; title = "Legacy"; ObjectID = "UCS-7d-55v"; */
+"UCS-7d-55v.title" = "传统";
+
+/* Class = "NSMenuItem"; title = "Bold"; ObjectID = "XXZ-GF-xaN"; */
+"XXZ-GF-xaN.title" = "粗体";
+
+/* Class = "NSMenuItem"; title = "Urban"; ObjectID = "d7Z-am-7V1"; */
+"d7Z-am-7V1.title" = "现代";
+
+/* Class = "NSMenuItem"; title = "User"; ObjectID = "do8-V2-JKz"; */
+"do8-V2-JKz.title" = "用户";
+
+/* Class = "NSMenuItem"; title = "Abstract"; ObjectID = "eAE-u0-Z9w"; */
+"eAE-u0-Z9w.title" = "抽象";
+
+/* Class = "NSMenuItem"; title = "Basic"; ObjectID = "s2c-Cm-IP1"; */
+"s2c-Cm-IP1.title" = "默认";
+

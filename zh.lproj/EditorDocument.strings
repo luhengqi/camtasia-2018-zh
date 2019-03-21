@@ -1,0 +1,114 @@
+/* Class = "NSMenuItem"; title = "Attach Canvas"; ObjectID = "2c4-xw-Vcy"; */
+"2c4-xw-Vcy.title" = "吸附画布";
+
+/* Class = "NSMenuItem"; title = "Title"; ObjectID = "3bQ-8v-Rks"; */
+"3bQ-8v-Rks.title" = "标题";
+
+/* Class = "NSWindow"; title = "Editor"; ObjectID = "5"; */
+"5.title" = "编辑器";
+
+/* Class = "NSButton"; ibShadowedToolTip = "(!) Implemented in code"; ObjectID = "7TE-Yj-kHe"; */
+"7TE-Yj-kHe.ibShadowedToolTip" = "(!) Im Code implementiert";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous media"; ObjectID = "8Ue-3x-GHR"; */
+"8Ue-3x-GHR.ibShadowedToolTip" = "上一个媒体";
+
+/* Class = "NSMenuItem"; title = "Zoom to Maximum"; ObjectID = "8kA-JT-XtN"; */
+"8kA-JT-XtN.title" = "缩放到最大";
+
+/* Class = "NSMenuItem"; title = "75%"; ObjectID = "8pe-mf-Q75"; */
+"8pe-mf-Q75.title" = "75 %";
+
+/* Class = "NSButtonCell"; title = "Create standalone project"; ObjectID = "100023"; */
+"100023.title" = "创建单独的项目";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next media"; ObjectID = "DTp-cU-geG"; */
+"DTp-cU-geG.ibShadowedToolTip" = "下一个媒体";
+
+/* Class = "NSMenuItem"; title = "Zoom to Fit"; ObjectID = "FKw-Iu-h7j"; */
+"FKw-Iu-h7j.title" = "缩放到自适应";
+
+/* Class = "NSMenuItem"; title = "50%"; ObjectID = "KXz-py-YC3"; */
+"KXz-py-YC3.title" = "50 %";
+
+/* Class = "NSMenuItem"; title = "Detach Canvas"; ObjectID = "NCe-zk-zAe"; */
+"NCe-zk-zAe.title" = "取消吸附画布";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Adjust properties of selected media.Use tabs at top of panel to fine tune look."; ObjectID = "Nkj-gU-CKV"; */
+"Nkj-gU-CKV.ibShadowedToolTip" = "调整选中媒体的属性。使用面板顶部的标签调整到协调美观的外观。";
+
+/* Class = "NSMenuItem"; title = "300%"; ObjectID = "Rl3-7t-BtB"; */
+"Rl3-7t-BtB.title" = "300 %";
+
+/* Class = "NSMenuItem"; title = "25%"; ObjectID = "U81-QW-lt0"; */
+"U81-QW-lt0.title" = "25 %";
+
+/* Class = "NSButtonCell"; title = "Properties"; ObjectID = "V73-9M-PfR"; */
+"V73-9M-PfR.title" = "属性";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Next frame"; ObjectID = "XGw-v7-htA"; */
+"XGw-v7-htA.ibShadowedToolTip" = "下一帧";
+
+/* Class = "NSMenuItem"; title = "Attach Canvas"; ObjectID = "YNX-QU-eVx"; */
+"YNX-QU-eVx.title" = "吸附画布";
+
+/* Class = "NSMenuItem"; title = "400%"; ObjectID = "Yhq-oK-XHH"; */
+"Yhq-oK-XHH.title" = "400 %";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Record applications, slideshows, websites, audio, cursor, and more."; ObjectID = "Z6P-x3-5ua"; */
+"Z6P-x3-5ua.ibShadowedToolTip" = "录制应用程序，幻灯片，网站，音频，鼠标以及更多。";
+
+/* Class = "NSMenuItem"; title = "Project Settings..."; ObjectID = "ZT7-bD-cOL"; */
+"ZT7-bD-cOL.title" = "项目设置...";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Previous frame"; ObjectID = "Zl5-6Z-qzD"; */
+"Zl5-6Z-qzD.ibShadowedToolTip" = "上一帧";
+
+/* Class = "NSPopUpButton"; ibShadowedToolTip = "Adjust canvas zoom level, set background color, change Editing Dimensions."; ObjectID = "Zs3-Gg-t95"; */
+"Zs3-Gg-t95.ibShadowedToolTip" = "调整画布缩放层级，设置背景颜色，更改编辑尺寸。";
+
+/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "c6E-YG-ayc"; */
+"c6E-YG-ayc.title" = "缩小";
+
+/* Class = "NSMenuItem"; title = "Fit"; ObjectID = "cK7-XS-1wf"; */
+"cK7-XS-1wf.title" = "自适应";
+
+/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "cdb-eZ-urx"; */
+"cdb-eZ-urx.title" = "放大";
+
+/* Class = "NSButtonCell"; title = "Record"; ObjectID = "cre-GV-Ygu"; */
+"cre-GV-Ygu.title" = "录制";
+
+/* Class = "NSMenuItem"; title = "500%"; ObjectID = "dob-Cl-rZq"; */
+"dob-Cl-rZq.title" = "500 %";
+
+/* Class = "NSMenuItem"; title = "200%"; ObjectID = "iwG-Yz-b39"; */
+"iwG-Yz-b39.title" = "200 %";
+
+/* Class = "NSMenuItem"; title = "100%"; ObjectID = "pFr-rO-Mu1"; */
+"pFr-rO-Mu1.title" = "100 %";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Create a sharable video from media, images, and effects on timeline."; ObjectID = "qEL-TT-nj6"; */
+"qEL-TT-nj6.ibShadowedToolTip" = "在时间轴上使用媒体，图片和特效创建一个可分享的视频。";
+
+/* Class = "NSMenuItem"; title = "Zoom to Selection"; ObjectID = "qND-ja-cqD"; */
+"qND-ja-cqD.title" = "缩放到选中";
+
+/* Class = "NSButtonCell"; title = "Share"; ObjectID = "sKx-Ne-EWK"; */
+"sKx-Ne-EWK.title" = "分享";
+
+/* Class = "NSMenuItem"; title = "50%"; ObjectID = "tKz-hP-Hmh"; */
+"tKz-hP-Hmh.title" = "50 %";
+
+/* Class = "NSMenuItem"; title = "100%"; ObjectID = "wvw-bl-DD4"; */
+"wvw-bl-DD4.title" = "100 %";
+
+/* Class = "NSButtonCell"; title = "Open Video Guide"; ObjectID = "F7A-Zw-C5f"; */
+"F7A-Zw-C5f.title" = "打开视频指导";
+
+/* Class = "NSButtonCell"; title = "Sign In"; ObjectID = "GA3-nr-4NL"; */
+"GA3-nr-4NL.title" = "登录";
+
+/* Class = "NSTextFieldCell"; title = "00:00:00 / 00:00:00 "; ObjectID = "PiA-oM-JFM"; */
+"PiA-oM-JFM.title" = "00:00:00 / 00:00:00 ";
+

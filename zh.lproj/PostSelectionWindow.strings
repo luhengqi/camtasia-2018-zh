@@ -1,0 +1,24 @@
+/* Class = "NSWindow"; title = "PostSelectionWindow"; ObjectID = "37"; */
+"37.title" = "PostSelectionWindow";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "68"; */
+"68.title" = "Andere Ansichten";
+
+/* Class = "NSButtonCell"; title = "Ok"; ObjectID = "122"; */
+"122.title" = "确认";
+
+/* Class = "NSTextFieldCell"; title = "Width:"; ObjectID = "127"; */
+"127.title" = "宽度:";
+
+/* Class = "NSTextFieldCell"; title = "Height:"; ObjectID = "129"; */
+"129.title" = "高度:";
+
+/* Class = "NSTextFieldCell"; title = "Preset:"; ObjectID = "131"; */
+"131.title" = "预设:";
+
+/* Class = "NSButtonCell"; title = "Reselect Region..."; ObjectID = "133"; */
+"133.title" = "重新选择区域...";
+
+/* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "178"; */
+"178.title" = "取消";
+

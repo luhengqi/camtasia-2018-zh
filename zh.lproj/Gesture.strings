@@ -1,0 +1,90 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Reset reverse to default"; ObjectID = "5Ud-xH-SnZ"; */
+"5Ud-xH-SnZ.ibShadowedToolTip" = "重置反转到默认";
+
+/* Class = "NSTextFieldCell"; title = "Gesture FX"; ObjectID = "33"; */
+"33.title" = "手势特效";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "105"; */
+"105.title" = "大小:";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "107"; */
+"107.title" = "颜色:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset size to default"; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "重置大小到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "134"; */
+"134.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "157"; */
+"157.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make gesture larger or smaller"; ObjectID = "157"; */
+"157.ibShadowedToolTip" = "拖曳以更改手势大小";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "radius edit field"; ObjectID = "161"; */
+"161.ibExternalAccessibilityDescription" = "半径编辑字段";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "259"; */
+"259.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "261"; */
+"261.ibExternalAccessibilityDescription" = "透明度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change gesture transparency"; ObjectID = "261"; */
+"261.ibShadowedToolTip" = "拖曳以更改手势透明度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "262"; */
+"262.ibExternalAccessibilityDescription" = "透明度编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "266"; */
+"266.title" = "透明度:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "335"; */
+"335.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "336"; */
+"336.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "337"; */
+"337.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "338"; */
+"338.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "345"; */
+"345.title" = "淡出:";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "346"; */
+"346.title" = "淡入:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "397"; */
+"397.ibShadowedToolTip" = "重置淡出到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "401"; */
+"401.ibShadowedToolTip" = "重置淡入到默认";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "411"; */
+"411.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "TK4-oq-kAu"; */
+"TK4-oq-kAu.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "Vv2-Y7-aq0"; */
+"Vv2-Y7-aq0.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Click to reverse direction of effect"; ObjectID = "bbQ-Ra-DYB"; */
+"bbQ-Ra-DYB.ibShadowedToolTip" = "点击反转特效的方向";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "nsK-gZ-p8h"; */
+"nsK-gZ-p8h.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "NSButtonCell"; title = "Reverse"; ObjectID = "pcW-Lb-CNa"; */
+"pcW-Lb-CNa.title" = "反转";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "vfe-kf-GU1"; */
+"vfe-kf-GU1.ibShadowedMultipleValuesPlaceholder" = "-";
+

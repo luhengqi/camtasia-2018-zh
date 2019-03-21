@@ -1,0 +1,93 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "98"; */
+"98.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Transition"; ObjectID = "100"; */
+"100.title" = "转场";
+
+/* Class = "NSTextFieldCell"; title = "Type:"; ObjectID = "108"; */
+"108.title" = "类型:";
+
+/* Class = "NSMenuItem"; title = "Wipe"; ObjectID = "111"; */
+"111.title" = "擦除";
+
+/* Class = "NSMenuItem"; title = "Stylized"; ObjectID = "112"; */
+"112.title" = "格式化";
+
+/* Class = "NSMenuItem"; title = "Object"; ObjectID = "113"; */
+"113.title" = "对象";
+
+/* Class = "NSMenuItem"; title = "Movement"; ObjectID = "114"; */
+"114.title" = "移动";
+
+/* Class = "NSMenuItem"; title = "Fade"; ObjectID = "115"; */
+"115.title" = "渐隐";
+
+/* Class = "NSMenuItem"; title = "All"; ObjectID = "116"; */
+"116.title" = "所有";
+
+/* Class = "NSMenu"; title = "Fade"; ObjectID = "121"; */
+"121.title" = "渐隐";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "122"; */
+"122.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "123"; */
+"123.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "124"; */
+"124.title" = "条目 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "126"; */
+"126.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "127"; */
+"127.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "128"; */
+"128.title" = "条目 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "130"; */
+"130.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "131"; */
+"131.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "132"; */
+"132.title" = "条目 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "134"; */
+"134.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "135"; */
+"135.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "136"; */
+"136.title" = "条目 3";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "138"; */
+"138.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "139"; */
+"139.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "140"; */
+"140.title" = "条目 3";
+
+/* Class = "NSMenu"; title = "All"; ObjectID = "142"; */
+"142.title" = "所有";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "143"; */
+"143.title" = "条目 1";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "144"; */
+"144.title" = "条目 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "145"; */
+"145.title" = "条目 3";
+
+/* Class = "NSMenuItem"; title = "Selected Item"; ObjectID = "153"; */
+"153.title" = "选中条目";
+
+/* Class = "NSButtonCell"; title = "Use trimmed content"; ObjectID = "156"; */
+"156.title" = "使用裁剪的内容";
+

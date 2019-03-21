@@ -1,0 +1,39 @@
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "254"; */
+"254.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset scale to default"; ObjectID = "255"; */
+"255.ibShadowedToolTip" = "重置缩放到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "scale slider"; ObjectID = "258"; */
+"258.ibExternalAccessibilityDescription" = "缩放滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to resize cursor"; ObjectID = "258"; */
+"258.ibShadowedToolTip" = "拖曳以更改鼠标大小";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "scale edit field"; ObjectID = "259"; */
+"259.ibExternalAccessibilityDescription" = "缩放编辑字段";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "opacity slider"; ObjectID = "260"; */
+"260.ibExternalAccessibilityDescription" = "透明度滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change cursor transparency"; ObjectID = "260"; */
+"260.ibShadowedToolTip" = "拖曳以更改鼠标透明度";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "261"; */
+"261.ibExternalAccessibilityDescription" = "透明度编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "268"; */
+"268.title" = "透明度:";
+
+/* Class = "NSTextFieldCell"; title = "Scale:"; ObjectID = "269"; */
+"269.title" = "缩放:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset z rotation to default"; ObjectID = "338"; */
+"338.ibShadowedToolTip" = "重置z轴旋转到默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "340"; */
+"340.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "341"; */
+"341.ibShadowedMultipleValuesPlaceholder" = "-";
+

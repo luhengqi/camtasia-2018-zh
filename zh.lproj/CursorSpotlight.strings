@@ -1,0 +1,132 @@
+/* Class = "NSTextFieldCell"; title = "Blur:"; ObjectID = "3R2-67-Dkk"; */
+"3R2-67-Dkk.title" = "模糊:";
+
+/* Class = "NSTextFieldCell"; title = "Cursor Spotlight"; ObjectID = "33"; */
+"33.title" = "鼠标聚光灯";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Remove filter"; ObjectID = "92"; */
+"92.ibShadowedToolTip" = "移除滤镜";
+
+/* Class = "NSTextFieldCell"; title = "Size:"; ObjectID = "105"; */
+"105.title" = "大小:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset size to default"; ObjectID = "132"; */
+"132.ibShadowedToolTip" = "重置大小到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "157"; */
+"157.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to make spotlight larger or smaller"; ObjectID = "157"; */
+"157.ibShadowedToolTip" = "拖曳以更改聚光灯大小";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "radius edit field"; ObjectID = "161"; */
+"161.ibExternalAccessibilityDescription" = "半径编辑字段";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset softness to default"; ObjectID = "188"; */
+"188.ibShadowedToolTip" = "重置柔化到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "190"; */
+"190.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to blur or define spotlight edge"; ObjectID = "190"; */
+"190.ibShadowedToolTip" = "拖曳以模糊或者定义聚光灯边缘";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "edge edit field"; ObjectID = "191"; */
+"191.ibExternalAccessibilityDescription" = "边缘编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Softness:"; ObjectID = "195"; */
+"195.title" = "柔化:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset saturation to default"; ObjectID = "203"; */
+"203.ibShadowedToolTip" = "重置饱和度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "205"; */
+"205.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change hue"; ObjectID = "205"; */
+"205.ibShadowedToolTip" = "拖曳以更改色调";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "saturation edit field"; ObjectID = "206"; */
+"206.ibExternalAccessibilityDescription" = "饱和度编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Saturation:"; ObjectID = "210"; */
+"210.title" = "饱和度:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset opacity to default"; ObjectID = "285"; */
+"285.ibShadowedToolTip" = "重置透明度到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "radius slider"; ObjectID = "287"; */
+"287.ibExternalAccessibilityDescription" = "半径滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to change visibility outside spotlight"; ObjectID = "287"; */
+"287.ibShadowedToolTip" = "拖曳以更改聚光灯外部区域可见性";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "opacity edit field"; ObjectID = "288"; */
+"288.ibExternalAccessibilityDescription" = "透明度编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Opacity:"; ObjectID = "292"; */
+"292.title" = "透明度:";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "410"; */
+"410.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSTextField"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "411"; */
+"411.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect in"; ObjectID = "412"; */
+"412.ibShadowedToolTip" = "淡入效果秒数";
+
+/* Class = "NSStepper"; ibShadowedToolTip = "Seconds to ease effect out"; ObjectID = "413"; */
+"413.ibShadowedToolTip" = "淡出效果秒数";
+
+/* Class = "NSTextFieldCell"; title = "Ease Out:"; ObjectID = "420"; */
+"420.title" = "淡出:";
+
+/* Class = "NSTextFieldCell"; title = "Ease In:"; ObjectID = "421"; */
+"421.title" = "淡入:";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease in to default"; ObjectID = "436"; */
+"436.ibShadowedToolTip" = "重置淡出到默认";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset ease out to default"; ObjectID = "440"; */
+"440.ibShadowedToolTip" = "重置淡入到默认";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "545"; */
+"545.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "546"; */
+"546.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "547"; */
+"547.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "Gnt-Dh-JQo"; */
+"Gnt-Dh-JQo.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "NSColorWell"; ibShadowedToolTip = "Choose any color"; ObjectID = "QYt-EI-0M4"; */
+"QYt-EI-0M4.ibShadowedToolTip" = "选择任意颜色";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "ZeA-iz-JEh"; */
+"ZeA-iz-JEh.ibShadowedMultipleValuesPlaceholder" = "-";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset color to default"; ObjectID = "kkI-48-mkI"; */
+"kkI-48-mkI.ibShadowedToolTip" = "重置颜色到默认";
+
+/* Class = "NSSlider"; ibExternalAccessibilityDescription = "blur slider"; ObjectID = "oLd-ls-OcY"; */
+"oLd-ls-OcY.ibExternalAccessibilityDescription" = "模糊滑杆";
+
+/* Class = "NSSlider"; ibShadowedToolTip = "Drag to add blur to area outside of the spotlight"; ObjectID = "oLd-ls-OcY"; */
+"oLd-ls-OcY.ibShadowedToolTip" = "拖曳以模糊聚光灯以外的区域";
+
+/* Class = "NSButton"; ibShadowedToolTip = "Reset blur to default"; ObjectID = "r2o-Dd-QOD"; */
+"r2o-Dd-QOD.ibShadowedToolTip" = "重置模糊到默认";
+
+/* Class = "NSTextField"; ibExternalAccessibilityDescription = "blur background edit field"; ObjectID = "t3a-3O-9vp"; */
+"t3a-3O-9vp.ibExternalAccessibilityDescription" = "模糊背景编辑字段";
+
+/* Class = "NSTextFieldCell"; title = "Color:"; ObjectID = "x01-pe-t1U"; */
+"x01-pe-t1U.title" = "颜色:";
+
+/* Class = "CocoaBindingsConnection"; ibShadowedMultipleValuesPlaceholder = "-"; ObjectID = "zBx-wx-xMz"; */
+"zBx-wx-xMz.ibShadowedMultipleValuesPlaceholder" = "-";
+
